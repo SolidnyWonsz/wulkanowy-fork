@@ -1,0 +1,45 @@
+image: circleci/android:api-28-alpha
+
+before_script:
+    - export GRADLE_USER_HOME=`pwd`/.gradle
+
+build:
+  stage: build
+  cache:
+    key: "v1-$CI_COMMIT_REF_NAME"
+    paths:
+     - .gradle
+  script:
+    - ./gradlew --no-daemon --stacktrace dependencies || true
+    - ./gradlew --no-daemon --stacktrace assembleDebug
+    - mv app/build/outputs/apk/fdroid/debug/app-fdroid-debug.apk .
+  artifacts:
+    name: "${CI_PROJECT_NAME}_${CI_BUILD_REF_NAME}-${CI_BUILD_ID}"
+    paths:
+    - app-debug.apk
+
+tests:
+  stage: test
+  cache:
+    key: "v1-$CI_COMMIT_REF_NAME"
+    paths:
+     - .gradle
+    policy: pull
+  script:
+    - ./gradlew --no-daemon --stacktrace -x fabricGenerateResourcesFdroidRelease -x fabricGenerateResourcesPlayRelease test
+  artifacts:
+    paths:
+    - app/build/reports/tests
+
+lint:
+  stage: test
+  cache:
+    key: "v1-$CI_COMMIT_REF_NAME"
+    paths:
+     - .gradle
+    policy: pull
+  script:
+    - ./gradlew --no-daemon --stacktrace -x fabricGenerateResourcesFdroidRelease -x fabricGenerateResourcesPlayRelease lint
+  artifacts:
+    paths:
+    - app/build/reports
