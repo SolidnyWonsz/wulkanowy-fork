@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".ui.modules.grade.summary.GradeSummaryAdapter">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?colorControlHighlight"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingTop="7dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="7dp">
+
+        <TextView
+            android:id="@+id/gradeSummaryItemTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="17sp"
+            tools:text="@tools:sample/lorem" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/gradeSummaryItemAverageContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_weight="1"
+            android:text="@string/grade_summary_average_semester"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/gradeSummaryItemAverage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="25dp"
+            android:gravity="end"
+            android:textSize="12sp"
+            tools:text="2,50" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/gradeSummaryItemAverageDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/ic_all_divider" />
+
+    <LinearLayout
+        android:id="@+id/gradeSummaryItemAverageAllYearContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_weight="1"
+            android:text="@string/grade_summary_average_year"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/gradeSummaryItemAverageAllYear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="25dp"
+            android:gravity="end"
+            android:textSize="12sp"
+            tools:text="4,50" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/gradeSummaryItemAverageAllYearDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/ic_all_divider" />
+
+    <LinearLayout
+        android:id="@+id/gradeSummaryItemPointsContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_weight="1"
+            android:text="@string/grade_summary_points"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/gradeSummaryItemPoints"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="25dp"
+            android:gravity="end"
+            android:textSize="12sp"
+            tools:text="123/150" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/gradeSummaryItemPointsDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/ic_all_divider" />
+
+    <LinearLayout
+        android:id="@+id/gradeSummaryItemPredictedContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_weight="1"
+            android:text="@string/grade_summary_predicted_grade"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/gradeSummaryItemPredicted"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="25dp"
+            android:gravity="end"
+            android:textSize="12sp"
+            tools:text="5" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/gradeSummaryItemPredictedDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/ic_all_divider" />
+
+    <LinearLayout
+        android:id="@+id/gradeSummaryItemFinalContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_weight="1"
+            android:text="@string/grade_summary_final_grade"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/gradeSummaryItemFinal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="25dp"
+            android:gravity="end"
+            android:textSize="12sp"
+            tools:text="5" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/gradeSummaryItemFinalDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/ic_all_divider" />
+
+    <LinearLayout
+        android:id="@+id/gradeSummaryItemDescriptiveContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="35dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="7dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/grade_summary_descriptive"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/gradeSummaryItemDescriptive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="7dp"
+            android:textSize="14sp"
+            tools:maxLines="4"
+            tools:text="@tools:sample/lorem/random" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,14 @@
+Aplikacja jest przeznaczona dla użytkowników dziennika VULCAN UONET+.
+
+Wyróżnione cechy i funkcje:
+- obliczanie średniej ważonej,
+- procentowy podgląd frekwencji,
+- szczęśliwy numerek,
+- podgląd lekcji dodatkowych i zrealizowanych,
+- ciemny motyw.
+- opcjonalne reklam,
+- tryb offline,
+- powiadomienia.
+
+GitHub: https://github.com/wulkanowy/wulkanowy
+Discord: https://discord.gg/vccAQBr

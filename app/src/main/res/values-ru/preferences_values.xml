@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="sort_alphabetically">По алфавиту</string>
+    <string name="sort_by_date">По дате</string>
+    <string name="sort_by_average">По средней</string>
+    <string name="sort_by_attendance_percentage">Согласно проценту посещаемости</string>
+    <string name="sort_by_subject_attendance_balance">Согласно балансу посещаемости уроков</string>
+    <string-array name="app_theme_entries" tools:ignore="InconsistentArrays">
+        <item>Светлая</item>
+        <item>Тёмная</item>
+        <item>Тёмная (AMOLED)</item>
+    </string-array>
+    <string-array name="app_language_entries">
+        <item>Язык системы</item>
+        <item>Polski</item>
+        <item>English</item>
+        <item>Pусский</item>
+        <item>Українська</item>
+        <item>Deutsch</item>
+        <item>Čeština</item>
+        <item>Slovenčina</item>
+        <item>Kaszëbsczi</item>
+    </string-array>
+    <string-array name="services_interval_entries">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>24 часа</item>
+    </string-array>
+    <string-array name="grade_modifier_entries">
+        <item>0,0</item>
+        <item>0,25</item>
+        <item>0,33</item>
+        <item>0,5</item>
+        <item>0,75</item>
+    </string-array>
+    <string-array name="grade_color_scheme_entries">
+        <item>Dzienniczek+</item>
+        <item>Wulkanowy</item>
+        <item>Цвета оценок в дневнике</item>
+    </string-array>
+    <string-array name="default_expand_grade_entries">
+        <item>До 1 за раз</item>
+        <item>Всегда развернуто</item>
+        <item>Неограниченно</item>
+    </string-array>
+    <string-array name="grade_average_mode_entries">
+        <item>Средняя из оценок выбранного семестра</item>
+        <item>Средняя из средних оценок семестров</item>
+        <item>Средняя из оценок со всего года</item>
+    </string-array>
+    <string-array name="timetable_show_gaps_entries">
+        <item>Не показывать</item>
+        <item>Только между уроками</item>
+        <item>Перед и между уроками</item>
+    </string-array>
+    <string-array name="timetable_show_additional_lessons_entries">
+        <item>Не показывать</item>
+        <item>Показать в строке</item>
+        <item>Показать ниже обычных уроков</item>
+    </string-array>
+    <string-array name="dashboard_tile_entries">
+        <item>Счастливый номер</item>
+        <item>Непрочитанные письма</item>
+        <item>Посещаемость</item>
+        <item>Уроки</item>
+        <item>Оценки</item>
+        <item>Домашняя работа</item>
+        <item>Объявления школы</item>
+        <item>Тесты</item>
+        <item>Встречи</item>
+    </string-array>
+</resources>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_view_header">
+        <ListPreference
+            app:defaultValue="@string/pref_default_app_language"
+            app:entries="@array/app_language_entries"
+            app:entryValues="@array/app_language_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_app_language"
+            app:title="@string/pref_view_app_language"
+            app:useSimpleSummaryProvider="true" />
+        <ListPreference
+            app:defaultValue="@string/pref_default_app_theme"
+            app:entries="@array/app_theme_entries"
+            app:entryValues="@array/app_theme_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_app_theme"
+            app:title="@string/pref_view_app_theme"
+            app:useSimpleSummaryProvider="true" />
+        <Preference
+            app:fragment="io.github.wulkanowy.ui.modules.settings.appearance.menuorder.MenuOrderFragment"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_menu_order"
+            app:summary="@string/pref_view_menu_order_summary"
+            app:title="@string/pref_view_menu_order_title" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_dashboard_appearance_header">
+        <MultiSelectListPreference
+            app:defaultValue="@array/pref_default_dashboard_tiles"
+            app:entries="@array/dashboard_tile_entries"
+            app:entryValues="@array/dashboard_tile_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_dashboard_tiles"
+            app:title="@string/pref_dashboard_appearance_tiles_title" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_grades_appearance_header">
+        <ListPreference
+            app:defaultValue="@string/pref_default_grade_color_scheme"
+            app:entries="@array/grade_color_scheme_entries"
+            app:entryValues="@array/grade_color_scheme_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_grade_color_scheme"
+            app:title="@string/pref_view_grade_color_scheme" />
+        <ListPreference
+            app:defaultValue="@string/pref_default_expand_grade_mode"
+            app:entries="@array/default_expand_grade_entries"
+            app:entryValues="@array/default_expand_grade_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_expand_grade_mode"
+            app:title="@string/pref_view_expand_grade"
+            app:useSimpleSummaryProvider="true" />
+        <SwitchPreferenceCompat
+            app:defaultValue="@bool/pref_default_subjects_without_grades"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_subjects_without_grades"
+            app:singleLineTitle="false"
+            app:title="@string/pref_view_subjects_without_grades" />
+        <ListPreference
+            app:defaultValue="@string/pref_default_grade_sorting_mode"
+            app:entries="@array/grade_sorting_mode_entries"
+            app:entryValues="@array/grade_sorting_mode_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_grade_sorting_mode"
+            app:title="@string/pref_view_grade_sorting_mode"
+            app:useSimpleSummaryProvider="true" />
+        <SwitchPreferenceCompat
+            app:defaultValue="@bool/pref_default_grade_statistics_list"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_grade_statistics_list"
+            app:singleLineTitle="false"
+            app:title="@string/pref_view_grade_statistics_list" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_attendance_appearance_view">
+        <SwitchPreferenceCompat
+            app:defaultValue="@bool/pref_default_attendance_present"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_attendance_present"
+            app:title="@string/pref_view_present" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:key="@string/pref_key_attendance_calculator"
+        app:title="@string/pref_attendance_calculator_appearance_view">
+        <SeekBarPreference
+            android:layout="@layout/pref_target_attendance"
+            android:max="99"
+            app:defaultValue="@integer/pref_default_attendance_target"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_attendance_target"
+            app:min="1"
+            app:showSeekBarValue="true"
+            app:title="@string/pref_attendance_target"
+            app:updatesContinuously="true" />
+        <ListPreference
+            app:defaultValue="@string/pref_default_attendance_calculator_sorting_mode"
+            app:entries="@array/attendance_calculator_sorting_mode_entries"
+            app:entryValues="@array/attendance_calculator_sorting_mode_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_attendance_calculator_sorting_mode"
+            app:title="@string/pref_view_attendance_calculator_sorting_mode"
+            app:useSimpleSummaryProvider="true" />
+        <SwitchPreferenceCompat
+            app:defaultValue="@bool/pref_default_attendance_calculator_show_empty_subjects"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_attendance_calculator_show_empty_subjects"
+            app:title="@string/pref_attendance_calculator_show_empty_subjects" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:layout_height="wrap_content"
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_timetable_appearance_view">
+        <SwitchPreferenceCompat
+            app:defaultValue="@bool/pref_default_timetable_show_groups"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_timetable_show_groups"
+            app:singleLineTitle="false"
+            app:title="@string/pref_view_timetable_show_groups" />
+        <!--Hidden due to not functional hybrid/mobile api modes
+               <ListPreference
+                   app:defaultValue="@string/pref_default_timetable_show_whole_class"
+                   app:entries="@array/timetable_show_whole_class_entries"
+                   app:entryValues="@array/timetable_show_whole_class_values"
+                   app:iconSpaceReserved="false"
+                   app:key="@string/pref_key_timetable_show_whole_class"
+                   app:title="@string/pref_view_timetable_show_whole_class"
+                   app:useSimpleSummaryProvider="true" />
+        -->
+        <ListPreference
+            app:defaultValue="@string/pref_default_timetable_show_gaps"
+            app:entries="@array/timetable_show_gaps_entries"
+            app:entryValues="@array/timetable_show_gaps_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_timetable_show_gaps"
+            app:title="@string/pref_view_timetable_show_gaps"
+            app:useSimpleSummaryProvider="true" />
+        <ListPreference
+            app:defaultValue="@string/pref_default_timetable_show_additional_lessons"
+            app:entries="@array/timetable_show_additional_lessons_entries"
+            app:entryValues="@array/timetable_show_additional_lessons_values"
+            app:iconSpaceReserved="false"
+            app:key="@string/pref_key_timetable_show_additional_lessons"
+            app:title="@string/pref_view_timetable_show_additional_lessons"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

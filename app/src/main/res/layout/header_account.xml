@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingHorizontal="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".ui.modules.account.AccountAdapter">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:id="@+id/accountHeaderDivider"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorDivider" />
+
+    <TextView
+        android:id="@+id/accountHeaderEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColor="?android:textColorPrimary"
+        android:textSize="14sp"
+        tools:text="jan@fakelog.cf" />
+
+    <TextView
+        android:id="@+id/accountHeaderType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="?android:textColorSecondary"
+        android:textSize="12sp"
+        tools:text="Konto ucznia" />
+</LinearLayout>

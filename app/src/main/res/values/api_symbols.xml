@@ -1,0 +1,3473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,Typos">
+    <string-array name="symbols">
+        <item>Adamów, powiat łukowski</item>
+        <item>Aleksandrów, powiat biłgorajski</item>
+        <item>Andrychów</item>
+        <item>Augustów</item>
+        <item>Baranów Sandomierski</item>
+        <item>Będzin</item>
+        <item>Bełchatów</item>
+        <item>Bełżyce</item>
+        <item>Biała Podlaska</item>
+        <item>Biała, powiat prudnicki</item>
+        <item>Biała, powiat wielunski</item>
+        <item>Biała Rawska</item>
+        <item>Biały Bór</item>
+        <item>Białystok</item>
+        <item>Biecz</item>
+        <item>Bielawa</item>
+        <item>Bielsko-Biała</item>
+        <item>Bierawa</item>
+        <item>Bierutów</item>
+        <item>Blachownia</item>
+        <item>Błaszki</item>
+        <item>Błonie</item>
+        <item>Bogatynia</item>
+        <item>Boguchwała</item>
+        <item>Boguty-Pianki</item>
+        <item>Bolesławiec</item>
+        <item>Bolesław, powiat dąbrowski</item>
+        <item>Braniewo</item>
+        <item>Brodnica</item>
+        <item>Brodnica, powiat śremski</item>
+        <item>Brody, powiat starachowicki</item>
+        <item>Brójce, powiat łódzki wschodni</item>
+        <item>Brwinów</item>
+        <item>Brzeg</item>
+        <item>Brzeski</item>
+        <item>Powiat brzeski</item>
+        <item>Brzeźnica, powiat wadowicki</item>
+        <item>Buk</item>
+        <item>Bukowno</item>
+        <item>Busko-Zdrój</item>
+        <item>Bychawa</item>
+        <item>Bydgoszcz</item>
+        <item>Bystrzyca Kłodzka</item>
+        <item>Bytom</item>
+        <item>Bytom Odrzański</item>
+        <item>CECH bialski</item>
+        <item>Chełm</item>
+        <item>Chełmno</item>
+        <item>Chełmża</item>
+        <item>Chocianów</item>
+        <item>Chodzież</item>
+        <item>Chojnice</item>
+        <item>Chojnów</item>
+        <item>Chorzów</item>
+        <item>Chrzanów, powiat janowski</item>
+        <item>Ciechanów</item>
+        <item>Cieszyn</item>
+        <item>Czarna, powiat bieszczadzki</item>
+        <item>Czarna, powiat dębicki</item>
+        <item>Czarnków</item>
+        <item>Czeladź</item>
+        <item>Czermin, powiat mielecki</item>
+        <item>Czermin, powiat pleszewski</item>
+        <item>Czersk</item>
+        <item>Częstochowa</item>
+        <item>Człuchów</item>
+        <item>Dąbie, powiat krośnieński</item>
+        <item>Dąbrowa Białostocka</item>
+        <item>Dąbrowa Górnicza</item>
+        <item>Dabrowa, powiat opolski</item>
+        <item>Dąbrowa Tarnowska</item>
+        <item>Dębica</item>
+        <item>Dębno</item>
+        <item>Dębowiec, powiat jasielski</item>
+        <item>Dobra, powiat lobeski</item>
+        <item>Dobre, powiat radziejowski</item>
+        <item>Dobrzeń Wielki</item>
+        <item>Dobrzeń Wielki 2</item>
+        <item>Dobrzyń Nad Wisłą</item>
+        <item>Dolnośląskie</item>
+        <item>Duszniki-Zdrój</item>
+        <item>Dynów</item>
+        <item>Działdowo</item>
+        <item>Działoszyn</item>
+        <item>Elbląg</item>
+        <item>Ełk</item>
+        <item>Frampol</item>
+        <item>Fundacja Elementarz</item>
+        <item>Fundacja Mozaika</item>
+        <item>Garwolin</item>
+        <item>Gdańsk</item>
+        <item>Gdynia</item>
+        <item>Gliwice</item>
+        <item>Głogów</item>
+        <item>Głogów Małopolski</item>
+        <item>Głowno</item>
+        <item>Głubczyce</item>
+        <item>Głubczyce 2</item>
+        <item>Głuchołazy</item>
+        <item>Gmina Abramów</item>
+        <item>Gmina Adamówka</item>
+        <item>Gmina Aleksandrów Kujawski</item>
+        <item>Gmina Aleksandrów Łódzki</item>
+        <item>Gmina Alwernia</item>
+        <item>Gmina Andrzejewo</item>
+        <item>Gmina Annopol</item>
+        <item>Gmina Augustów</item>
+        <item>Gmina Babice</item>
+        <item>Gmina Bądkowo</item>
+        <item>Gmina Bałtów</item>
+        <item>Gmina Baranów</item>
+        <item>Gmina Barcin</item>
+        <item>Gmina Barczewo</item>
+        <item>Gmina Baruchowo</item>
+        <item>Gmina Batorz</item>
+        <item>Gmina Będzino</item>
+        <item>Gmina Bełchatów</item>
+        <item>Gmina Besko</item>
+        <item>Gmina Białaczów</item>
+        <item>Gmina Białe Błota</item>
+        <item>Gmina Białopole</item>
+        <item>Gmina Bielsk</item>
+        <item>Gmina Bircza</item>
+        <item>Gmina Błażowa</item>
+        <item>Gmina Błędów</item>
+        <item>Gmina Bobolice</item>
+        <item>Gmina Bobowa</item>
+        <item>Gmina Bobowo</item>
+        <item>Gmina Bobrowniki</item>
+        <item>Gmina Bodzentyn</item>
+        <item>Gmina Bogoria</item>
+        <item>Gmina Bojanowo</item>
+        <item>Gmina Bojszowy</item>
+        <item>Gmina Bolesławiec</item>
+        <item>Gmina Bolków</item>
+        <item>Gmina Boronów</item>
+        <item>Gmina Borów</item>
+        <item>Gmina Borowa</item>
+        <item>Gmina Borzęcin</item>
+        <item>Gmina Borzytuchom</item>
+        <item>Gmina Bralin</item>
+        <item>Gmina Branice</item>
+        <item>Gmina Braniewo</item>
+        <item>Gmina Brańszczyk</item>
+        <item>Gmina Brąszewice</item>
+        <item>Gmina Brenna</item>
+        <item>Gmina Brochów</item>
+        <item>Gmina Brok</item>
+        <item>Gmina Brzeg Dolny</item>
+        <item>Gmina Brzeziny</item>
+        <item>Gmina Brzeźnio</item>
+        <item>Gmina Brzostek</item>
+        <item>Gmina Brzozów</item>
+        <item>Gmina Brzuze</item>
+        <item>Gmina Brzyska</item>
+        <item>Gmina Buczek</item>
+        <item>Gmina Budzów</item>
+        <item>Gmina Budzyń</item>
+        <item>Gmina Bukowina Tatrzańska</item>
+        <item>Gmina Bukowsko</item>
+        <item>Gmina Byczyna</item>
+        <item>Gmina Bystra-Sidzina</item>
+        <item>Gmina Cegłów</item>
+        <item>Gmina Cekcyn</item>
+        <item>Gmina Ceków-Kolonia</item>
+        <item>Gmina Celestynów</item>
+        <item>Gmina Cewice</item>
+        <item>Gmina Charsznica</item>
+        <item>Gmina Chełm</item>
+        <item>Gmina Chełmiec</item>
+        <item>Gmina Chełmno</item>
+        <item>Gmina Chłopice</item>
+        <item>Gmina Chmielnik</item>
+        <item>Gmina Chociwel</item>
+        <item>Gmina Chocz</item>
+        <item>Gmina Chodel</item>
+        <item>Gmina Chodów</item>
+        <item>Gmina Chojnice</item>
+        <item>Gmina Chojnów</item>
+        <item>Gmina Chotcza</item>
+        <item>Gmina Chrząstowice</item>
+        <item>Gmina Chrzypsko Wielkie</item>
+        <item>Gmina Chybie</item>
+        <item>Gmina Ciasna</item>
+        <item>Gmina Ciechanów</item>
+        <item>Gmina Ciechocin</item>
+        <item>Gmina Cielądz</item>
+        <item>Gmina Cieszanów</item>
+        <item>Gmina Ciężkowice</item>
+        <item>Gmina Cisek</item>
+        <item>Gmina Cisna</item>
+        <item>Gmina Cmolas</item>
+        <item>Gmina Cyców</item>
+        <item>Gmina Czaplinek</item>
+        <item>Gmina Czarna</item>
+        <item>Gmina Czarnków</item>
+        <item>Gmina Czarny Dunajec</item>
+        <item>Gmina Czastary</item>
+        <item>Gmina Czechowice-Dziedzice</item>
+        <item>Gmina Czernichów</item>
+        <item>Gmina Czerniejewo</item>
+        <item>Gmina Czerniewice</item>
+        <item>Gmina Czernikowo</item>
+        <item>Gmina Czerwionka-Leszczyny</item>
+        <item>Gmina Czerwonak</item>
+        <item>Gmina Człuchów</item>
+        <item>Gmina Czosnów</item>
+        <item>Gmina Dąbrowa Zielona</item>
+        <item>Gmina Dąbrowice</item>
+        <item>Gmina Damasławek</item>
+        <item>Gmina Damnica</item>
+        <item>Gmina Darłowo</item>
+        <item>Gmina Dębe Wielkie</item>
+        <item>Gmina Dębica</item>
+        <item>Gmina Dębno</item>
+        <item>Gmina Dębowa Kłoda</item>
+        <item>Gmina Debrzno</item>
+        <item>Gmina Dłutów</item>
+        <item>Gmina Dobczyce</item>
+        <item>Gmina Dobra</item>
+        <item>Gmina Dobrcz</item>
+        <item>Gmina Dobrodzień</item>
+        <item>Gmina Dobroń</item>
+        <item>Gmina Dobrzany</item>
+        <item>Gmina Dobrzyca</item>
+        <item>Gmina Dobrzyniewo Duże</item>
+        <item>Gmina Dolsk</item>
+        <item>Gmina Dominowo</item>
+        <item>Gmina Dorohusk</item>
+        <item>Gmina Doruchów</item>
+        <item>Gmina Dragacz</item>
+        <item>Gmina Drawsko</item>
+        <item>Gmina Drużbice</item>
+        <item>Gmina Drzewica</item>
+        <item>Gmina Dubiecko</item>
+        <item>Gmina Dubienka</item>
+        <item>Gmina Dukla</item>
+        <item>Gmina Dwikozy</item>
+        <item>Gmina Dydnia</item>
+        <item>Gmina Dynów</item>
+        <item>Gmina Dziadowa Kłoda</item>
+        <item>Gmina Działoszyce</item>
+        <item>Gmina Dziemiany</item>
+        <item>Gmina Dzierżoniów</item>
+        <item>Gmina Dziwnów</item>
+        <item>Gmina Dzwola</item>
+        <item>Gmina Elbląg</item>
+        <item>Gmina Ełk</item>
+        <item>Gmina Fredropol</item>
+        <item>Gmina Garbatka-Letnisko</item>
+        <item>Gmina Garbów</item>
+        <item>Gmina Garwolin</item>
+        <item>Gmina Gąsawa</item>
+        <item>Gmina Gaszowice</item>
+        <item>Gmina Gawłuszowice</item>
+        <item>Gmina Gaworzyce</item>
+        <item>Gmina Gdów</item>
+        <item>Gmina Gielniów</item>
+        <item>Gmina Gierałtowice</item>
+        <item>Gmina Głogów</item>
+        <item>Gmina Głogówek</item>
+        <item>Gmina Głuchów</item>
+        <item>Gmina Głusk</item>
+        <item>Gmina Głuszyca</item>
+        <item>Gmina Gniew</item>
+        <item>Gmina Gniewino</item>
+        <item>Gmina Gniewoszów</item>
+        <item>Gmina Gniezno</item>
+        <item>Gmina Goczałkowice-Zdrój</item>
+        <item>Gmina Godkowo</item>
+        <item>Gmina Godów</item>
+        <item>Gmina Godziesze Wielkie</item>
+        <item>Gmina Godziszów</item>
+        <item>Gmina Gołańcz</item>
+        <item>Gmina Gołcza</item>
+        <item>Gmina Goleszów</item>
+        <item>Gmina Golina</item>
+        <item>Gmina Golub-Dobrzyń</item>
+        <item>Gmina Gołuchów</item>
+        <item>Gmina Gomunice</item>
+        <item>Gmina Goraj</item>
+        <item>Gmina Gorlice</item>
+        <item>Gmina Górno</item>
+        <item>Gmina Górzyca</item>
+        <item>Gmina Gościeradów</item>
+        <item>Gmina Gostyń</item>
+        <item>Gmina Gostynin</item>
+        <item>Gmina Goszczyn</item>
+        <item>Gmina Gózd</item>
+        <item>Gmina Grabica</item>
+        <item>Gmina Grabów</item>
+        <item>Gmina Grabowiec</item>
+        <item>Gmina Grabów Nad Pilicą</item>
+        <item>Gmina Grajewo</item>
+        <item>Gmina Granowo</item>
+        <item>Gmina Grębocice</item>
+        <item>Gmina Grębów</item>
+        <item>Gmina Gródek</item>
+        <item>Gmina Gródek Nad Dunajcem</item>
+        <item>Gmina Grodków</item>
+        <item>Gmina Grodziec</item>
+        <item>Gmina Grójec</item>
+        <item>Gmina Gromadka</item>
+        <item>Gmina Gromnik</item>
+        <item>Gmina Gronowo Elbląskie</item>
+        <item>Gmina Grudziądz</item>
+        <item>Gmina Gruta</item>
+        <item>Gmina Grybów</item>
+        <item>Gmina Gryfice</item>
+        <item>Gmina Grzmiąca</item>
+        <item>Gmina Haczów</item>
+        <item>Gmina Halinów</item>
+        <item>Gmina Hańsk</item>
+        <item>Gmina Harasiuki</item>
+        <item>Gmina Hażlach</item>
+        <item>Gmina Herby</item>
+        <item>Gmina Horodło</item>
+        <item>Gmina Hrubieszów</item>
+        <item>Gmina Huszlew</item>
+        <item>Gmina Hyżne</item>
+        <item>Gmina Igołomia-Wawrzeńczyce</item>
+        <item>Gmina Imielno</item>
+        <item>Gmina Inowrocław</item>
+        <item>Gmina Irządze</item>
+        <item>Gmina Istebna</item>
+        <item>Gmina Iwanowice</item>
+        <item>Gmina Iwierzyce</item>
+        <item>Gmina Iwonicz-Zdrój</item>
+        <item>Gmina Izabelin</item>
+        <item>Gmina Izbica</item>
+        <item>Gmina Izbicko</item>
+        <item>Gmina Jabłoń</item>
+        <item>Gmina Jaktorów</item>
+        <item>Gmina Jakubów</item>
+        <item>Gmina Janikowo</item>
+        <item>Gmina Janów</item>
+        <item>Gmina Janowiec</item>
+        <item>Gmina Janów Podlaski</item>
+        <item>Gmina Jarczów</item>
+        <item>Gmina Jarocin</item>
+        <item>Gmina Jasienica Rosielna</item>
+        <item>Gmina Jaśliska</item>
+        <item>Gmina Jasło</item>
+        <item>Gmina Jastków</item>
+        <item>Gmina Jastrowie</item>
+        <item>Gmina Jastrząb</item>
+        <item>Gmina Jedlicze</item>
+        <item>Gmina Jejkowice</item>
+        <item>Gmina Jemielnica</item>
+        <item>Gmina Jerzmanowa</item>
+        <item>Gmina Jeżewo</item>
+        <item>Gmina Jeziora Wielkie</item>
+        <item>Gmina Jeziorzany</item>
+        <item>Gmina Jeżowe</item>
+        <item>Gmina Joniec</item>
+        <item>Gmina Jordanów</item>
+        <item>Gmina Józefów</item>
+        <item>Gmina Józefów Nad Wisłą</item>
+        <item>Gmina Jutrosin</item>
+        <item>Gmina Kąkolewnica</item>
+        <item>Gmina Kamień</item>
+        <item>Gmina Kamienica</item>
+        <item>Gmina Kamiennik</item>
+        <item>Gmina Kamionka</item>
+        <item>Gmina Kampinos</item>
+        <item>Gmina Karczmiska</item>
+        <item>Gmina Kargowa</item>
+        <item>Gmina Karlino</item>
+        <item>Gmina Karniewo</item>
+        <item>Gmina Kawęczyn</item>
+        <item>Gmina Kazimierz Biskupi</item>
+        <item>Gmina Kępice</item>
+        <item>Gmina Kęsowo</item>
+        <item>Gmina Kiełczygłów</item>
+        <item>Gmina Kietrz</item>
+        <item>Gmina Kikół</item>
+        <item>Gmina Kiszkowo</item>
+        <item>Gmina Kleczew</item>
+        <item>Gmina Klembów</item>
+        <item>Gmina Kleszczewo</item>
+        <item>Gmina Kleszczów</item>
+        <item>Gmina Klimontów</item>
+        <item>Gmina Kłobuck</item>
+        <item>Gmina Kłoczew</item>
+        <item>Gmina Kłomnice</item>
+        <item>Gmina Klonowa</item>
+        <item>Gmina Klucze</item>
+        <item>Gmina Kluczewsko</item>
+        <item>Gmina Kobiele Wielkie</item>
+        <item>Gmina Kobylanka</item>
+        <item>Gmina Kochanowice</item>
+        <item>Gmina Kock</item>
+        <item>Gmina Kodrąb</item>
+        <item>Gmina Kołaczyce</item>
+        <item>Gmina Kołbaskowo</item>
+        <item>Gmina Kołbiel</item>
+        <item>Gmina Kołczygłowy</item>
+        <item>Gmina Kołobrzeg</item>
+        <item>Gmina Koluszki</item>
+        <item>Gmina Komańcza</item>
+        <item>Gmina Komarówka Podlaska</item>
+        <item>Gmina Komorniki</item>
+        <item>Gmina Komprachcice</item>
+        <item>Gmina Konarzyny</item>
+        <item>Gmina Kondratowice</item>
+        <item>Gmina Koneck</item>
+        <item>Gmina Koniusza</item>
+        <item>Gmina Konopiska</item>
+        <item>Gmina Końskowola</item>
+        <item>Gmina Konstantynów</item>
+        <item>Gmina Koprzywnica</item>
+        <item>Gmina Korfantów</item>
+        <item>Gmina Kórnik</item>
+        <item>Gmina Korsze</item>
+        <item>Gmina Korycin</item>
+        <item>Gmina Korzenna</item>
+        <item>Gmina Kosakowo</item>
+        <item>Gmina Kościan</item>
+        <item>Gmina Kościelec</item>
+        <item>Gmina Kościerzyna</item>
+        <item>Gmina Kosów Lacki</item>
+        <item>Gmina Kostrzyn</item>
+        <item>Gmina Koszęcin</item>
+        <item>Gmina Kotla</item>
+        <item>Gmina Kotuń</item>
+        <item>Gmina Kowiesy</item>
+        <item>Gmina Koziegłowy</item>
+        <item>Gmina Kozłów</item>
+        <item>Gmina Kramsk</item>
+        <item>Gmina Kraśniczyn</item>
+        <item>Gmina Kraśnik</item>
+        <item>Gmina Krasnobród</item>
+        <item>Gmina Krasnystaw</item>
+        <item>Gmina Krasocin</item>
+        <item>Gmina Krempna</item>
+        <item>Gmina Krokowa</item>
+        <item>Gmina Krościenko</item>
+        <item>Gmina Krośnice</item>
+        <item>Gmina Krupski Młyn</item>
+        <item>Gmina Kruszwica</item>
+        <item>Gmina Krynice</item>
+        <item>Gmina Krynki</item>
+        <item>Gmina Krzanowice</item>
+        <item>Gmina Krzemieniewo</item>
+        <item>Gmina Krzeszów</item>
+        <item>Gmina Krzymów</item>
+        <item>Gmina Krzywcza</item>
+        <item>Gmina Krzywiń</item>
+        <item>Gmina Krzyżanowice</item>
+        <item>Gmina Ksawerów</item>
+        <item>Gmina Książ Wielki</item>
+        <item>Gmina Kunice</item>
+        <item>Gmina Kunów</item>
+        <item>Gmina Kurów</item>
+        <item>Gmina Kuryłówka</item>
+        <item>Gmina Kwidzyn</item>
+        <item>Gmina Kwilcz</item>
+        <item>Gmina Łabowa</item>
+        <item>Gmina Łabunie</item>
+        <item>Gmina Łączna</item>
+        <item>Gmina Lądek</item>
+        <item>Gmina Łambinowice</item>
+        <item>Gmina Lanckorona</item>
+        <item>Gmina Łańcut</item>
+        <item>Gmina Łapanów</item>
+        <item>Gmina Łapsze Niżne</item>
+        <item>Gmina Łasin</item>
+        <item>Gmina Łaskarzew</item>
+        <item>Gmina Lasowice Wielkie</item>
+        <item>Gmina Łaszczów</item>
+        <item>Gmina Latowicz</item>
+        <item>Gmina Łaziska</item>
+        <item>Gmina Łazy</item>
+        <item>Gmina Łęczyca</item>
+        <item>Gmina Łęczyce</item>
+        <item>Gmina Legnickie Pole</item>
+        <item>Gmina Łęka Opatowska</item>
+        <item>Gmina Lelkowo</item>
+        <item>Gmina Lelów</item>
+        <item>Gmina Leśna</item>
+        <item>Gmina Leśna Podlaska</item>
+        <item>Gmina Leśniowice</item>
+        <item>Gmina Lesznowola</item>
+        <item>Gmina Leżajsk</item>
+        <item>Gmina Lichnowy</item>
+        <item>Gmina Limanowa</item>
+        <item>Gmina Linia</item>
+        <item>Gmina Liniewo</item>
+        <item>Gmina Lipiany</item>
+        <item>Gmina Lipinki</item>
+        <item>Gmina Lipnik</item>
+        <item>Gmina Lipowa</item>
+        <item>Gmina Lisia Góra</item>
+        <item>Gmina Liszki</item>
+        <item>Gmina Liw</item>
+        <item>Gmina Łobez</item>
+        <item>Gmina Łochów</item>
+        <item>Gmina Łodygowice</item>
+        <item>Gmina Łomazy</item>
+        <item>Gmina Łomianki</item>
+        <item>Gmina Łoniów</item>
+        <item>Gmina Łopiennik Górny</item>
+        <item>Gmina Łopuszno</item>
+        <item>Gmina Łosice</item>
+        <item>Gmina Łososina Dolna</item>
+        <item>Gmina Lubań</item>
+        <item>Gmina Lubartów</item>
+        <item>Gmina Lubasz</item>
+        <item>Gmina Lubawka</item>
+        <item>Gmina Lubenia</item>
+        <item>Gmina Łubianka</item>
+        <item>Gmina Lubicz</item>
+        <item>Gmina Lubień</item>
+        <item>Gmina Lubiewo</item>
+        <item>Gmina Lubin</item>
+        <item>Gmina Łubniany</item>
+        <item>Gmina Lubochnia</item>
+        <item>Gmina Luboń</item>
+        <item>Gmina Lubsza</item>
+        <item>Gmina Lubycza Królewska</item>
+        <item>Gmina Łuków</item>
+        <item>Gmina Łukowica</item>
+        <item>Gmina Lutowiska</item>
+        <item>Gmina Lututów</item>
+        <item>Gmina Luzino</item>
+        <item>Gmina Łużna</item>
+        <item>Gmina Łysomice</item>
+        <item>Gmina Maciejowice</item>
+        <item>Gmina Magnuszew</item>
+        <item>Gmina Majdan Królewski</item>
+        <item>Gmina Maków Podhalański</item>
+        <item>Gmina Malbork</item>
+        <item>Gmina Małdyty</item>
+        <item>Gmina Małkinia Górna</item>
+        <item>Gmina Marcinowice</item>
+        <item>Gmina Margonin</item>
+        <item>Gmina Marianowo</item>
+        <item>Gmina Markuszów</item>
+        <item>Gmina Męcinka</item>
+        <item>Gmina Medyka</item>
+        <item>Gmina Mełgiew</item>
+        <item>Gmina Michałów</item>
+        <item>Gmina Miedziana Góra</item>
+        <item>Gmina Miedźna</item>
+        <item>Gmina Miedźno</item>
+        <item>Gmina Międzybórz</item>
+        <item>Gmina Międzylesie</item>
+        <item>Gmina Międzyrzec Podlaski</item>
+        <item>Gmina Międzyzdroje</item>
+        <item>Gmina Miejsce Piastowe</item>
+        <item>Gmina Miękinia</item>
+        <item>Gmina Mielec</item>
+        <item>Gmina Mieleszyn</item>
+        <item>Gmina Mielno</item>
+        <item>Gmina Mieszkowice</item>
+        <item>Gmina Milanów</item>
+        <item>Gmina Milejów</item>
+        <item>Gmina Milicz</item>
+        <item>Gmina Miłkowice</item>
+        <item>Gmina Miłoradz</item>
+        <item>Gmina Miłosław</item>
+        <item>Gmina Milówka</item>
+        <item>Gmina Mińsk Mazowiecki</item>
+        <item>Gmina Mirów</item>
+        <item>Gmina Mirsk</item>
+        <item>Gmina Młynary</item>
+        <item>Gmina Modliborzyce</item>
+        <item>Gmina Mogielnica</item>
+        <item>Gmina Mogilany</item>
+        <item>Gmina Mogilno</item>
+        <item>Gmina Morawica</item>
+        <item>Gmina Mordy</item>
+        <item>Gmina Moryń</item>
+        <item>Gmina Mrocza</item>
+        <item>Gmina Mrozy</item>
+        <item>Gmina Mściwojów</item>
+        <item>Gmina Mstów</item>
+        <item>Gmina Mszana</item>
+        <item>Gmina Mszana Dolna</item>
+        <item>Gmina Murów</item>
+        <item>Gmina Mycielin</item>
+        <item>Gmina Mykanów</item>
+        <item>Gmina Myślibórz</item>
+        <item>Gmina Namysłów</item>
+        <item>Gmina Nasielsk</item>
+        <item>Gmina Nawojowa</item>
+        <item>Gmina Nędza</item>
+        <item>Gmina Nekla</item>
+        <item>Gmina Niebylec</item>
+        <item>Gmina Niechlów</item>
+        <item>Gmina Niedrzwica Duża</item>
+        <item>Gmina Niedźwiada</item>
+        <item>Gmina Niedźwiedź</item>
+        <item>Gmina Nowa Karczma</item>
+        <item>Gmina Nowa Ruda</item>
+        <item>Gmina Nowa Wieś Lęborska</item>
+        <item>Gmina Nowe</item>
+        <item>Gmina Nowe Miasto</item>
+        <item>Gmina Nowe Miasto Nad Wartą</item>
+        <item>Gmina Nowogród</item>
+        <item>Gmina Nowosolna</item>
+        <item>Gmina Nowy Kawęczyn</item>
+        <item>Gmina Nowy Korczyn</item>
+        <item>Gmina Nowy Staw</item>
+        <item>Gmina Nowy Wiśnicz</item>
+        <item>Gmina Nowy Targ</item>
+        <item>Gmina Nowy Tomyśl</item>
+        <item>Gmina Nozdrzec</item>
+        <item>Gmina Nur</item>
+        <item>Gmina Obrazów</item>
+        <item>Gmina Ochotnica Dolna</item>
+        <item>Gmina Ogrodzieniec</item>
+        <item>Gmina Olszanica</item>
+        <item>Gmina Olsztynek</item>
+        <item>Gmina Olszyna</item>
+        <item>Gmina Opatowiec</item>
+        <item>Gmina Orneta</item>
+        <item>Gmina Orchowo</item>
+        <item>Gmina Osieczna</item>
+        <item>Gmina Osiek</item>
+        <item>Gmina Osiek Jasielski</item>
+        <item>Gmina Osiek Mały</item>
+        <item>Gmina Osielsko</item>
+        <item>Gmina Osina</item>
+        <item>Gmina Osjaków</item>
+        <item>Gmina Ostroróg</item>
+        <item>Gmina Ostrów</item>
+        <item>Gmina Ostrówek</item>
+        <item>Gmina Ostrów Lubelski</item>
+        <item>Gmina Ostrów Mazowiecka</item>
+        <item>Gmina Ostrów Wielkopolski</item>
+        <item>Gmina Otmuchów</item>
+        <item>Gmina Otyń</item>
+        <item>Gmina Ożarów</item>
+        <item>Gmina Ożarowice</item>
+        <item>Gmina Ozimek</item>
+        <item>Gmina Ozorków</item>
+        <item>Gmina Pabianice</item>
+        <item>Gmina Pacanów</item>
+        <item>Gmina Pacyna</item>
+        <item>Gmina Paczków</item>
+        <item>Gmina Padew Narodowa</item>
+        <item>Gmina Pakosław</item>
+        <item>Gmina Pakosławice</item>
+        <item>Gmina Pałecznica</item>
+        <item>Gmina Panki</item>
+        <item>Gmina Parchowo</item>
+        <item>Gmina Parczew</item>
+        <item>Gmina Pasłęk</item>
+        <item>Gmina Pątnów</item>
+        <item>Gmina Pawłowice</item>
+        <item>Gmina Pawłowiczki</item>
+        <item>Gmina Pawonków</item>
+        <item>Gmina Pęcław</item>
+        <item>Gmina Pelplin</item>
+        <item>Gmina Pępowo</item>
+        <item>Gmina Piaski</item>
+        <item>Gmina Piątnica</item>
+        <item>Gmina Piekoszów</item>
+        <item>Gmina Pieniężno</item>
+        <item>Gmina Pietrowice Wielkie</item>
+        <item>Gmina Pilchowice</item>
+        <item>Gmina Pielgrzymka</item>
+        <item>Gmina Pińczów</item>
+        <item>Gmina Pionki</item>
+        <item>Gmina Piszczac</item>
+        <item>Gmina Płaska</item>
+        <item>Gmina Platerówka</item>
+        <item>Gmina Pleśna</item>
+        <item>Gmina Pleszew</item>
+        <item>Gmina Płońsk</item>
+        <item>Gmina Płośnica</item>
+        <item>Gmina Poczesna</item>
+        <item>Gmina Podedwórze</item>
+        <item>Gmina Podegrodzie</item>
+        <item>Gmina Podgórzyn</item>
+        <item>Gmina Pokój</item>
+        <item>Gmina Połajewo</item>
+        <item>Gmina Połaniec</item>
+        <item>Gmina Polanka Wielka</item>
+        <item>Gmina Polanów</item>
+        <item>Gmina Police</item>
+        <item>Gmina Polkowice</item>
+        <item>Gmina Pomiechówek</item>
+        <item>Gmina Poniatowa</item>
+        <item>Gmina Popielów</item>
+        <item>Gmina Popów</item>
+        <item>Gmina Potęgowo</item>
+        <item>Gmina Potok Wielki</item>
+        <item>Gmina Paradyż</item>
+        <item>Gmina Praszka</item>
+        <item>Gmina Prochowice</item>
+        <item>Gmina Promna</item>
+        <item>Gmina Prószków</item>
+        <item>Gmina Prusice</item>
+        <item>Gmina Pruszcz Gdański</item>
+        <item>Gmina Przechlewo</item>
+        <item>Gmina Przecław</item>
+        <item>Gmina Przedecz</item>
+        <item>Gmina Przemęt</item>
+        <item>Gmina Przemków</item>
+        <item>Gmina Przemyśl</item>
+        <item>Gmina Przeworsk</item>
+        <item>Gmina Przodkowo</item>
+        <item>Gmina Przykona</item>
+        <item>Gmina Przyłęk</item>
+        <item>Gmina Przyrów</item>
+        <item>Gmina Przystajń</item>
+        <item>Gmina Przytoczna</item>
+        <item>Gmina Puchaczów</item>
+        <item>Gmina Puck</item>
+        <item>Gmina Puławy</item>
+        <item>Gmina Purda</item>
+        <item>Gmina Puszcza Mariańska</item>
+        <item>Gmina Pysznica</item>
+        <item>Gmina Pyzdry</item>
+        <item>Gmina Raba Wyżna</item>
+        <item>Gmina Rachanie</item>
+        <item>Gmina Raciechowice</item>
+        <item>Gmina Radgoszcz</item>
+        <item>Gmina Radków</item>
+        <item>Gmina Radłów</item>
+        <item>Gmina Radomin</item>
+        <item>Gmina Radomsko</item>
+        <item>Gmina Radomyśl Nad Sanem</item>
+        <item>Gmina Radoszyce</item>
+        <item>Gmina Radwanice</item>
+        <item>Gmina Radymno</item>
+        <item>Gmina Radziejów</item>
+        <item>Gmina Radziłów</item>
+        <item>Gmina Rajgród</item>
+        <item>Gmina Raków</item>
+        <item>Gmina Rakszawa</item>
+        <item>Gmina Rawa Mazowiecka</item>
+        <item>Gmina Regnów</item>
+        <item>Gmina Reńska Wieś</item>
+        <item>Gmina Rogóźno</item>
+        <item>Gmina Rokitno</item>
+        <item>Gmina Ropa</item>
+        <item>Gmina Rossosz</item>
+        <item>Gmina Rozprza</item>
+        <item>Gmina Ruciane-Nida</item>
+        <item>Gmina Ruda-Huta</item>
+        <item>Gmina Rudna</item>
+        <item>Gmina Rudniki</item>
+        <item>Gmina Rudnik Nad Sanem</item>
+        <item>Gmina Rudziniec</item>
+        <item>Gmina Rusiec</item>
+        <item>Gmina Rusinów</item>
+        <item>Gmina Rybczewice</item>
+        <item>Gmina Rychliki</item>
+        <item>Gmina Rychtal</item>
+        <item>Gmina Ryczywół</item>
+        <item>Gmina Ryki</item>
+        <item>Gmina Rypin</item>
+        <item>Gmina Rytro</item>
+        <item>Gmina Rytwiany</item>
+        <item>Gmina Rzeczyca</item>
+        <item>Gmina Rzepiennik Strzyżewski</item>
+        <item>Gmina Rzepin</item>
+        <item>Gmina Rzezawa</item>
+        <item>Gmina Rzgów</item>
+        <item>Gmina Sadki</item>
+        <item>Gmina Sadowne</item>
+        <item>Gmina Samborzec</item>
+        <item>Gmina Sanok</item>
+        <item>Gmina Sawin</item>
+        <item>Gmina Ścinawa</item>
+        <item>Gmina Secemin</item>
+        <item>Gmina Sędziejowice</item>
+        <item>Gmina Sejny</item>
+        <item>Gmina Sękowa</item>
+        <item>Gmina Sępopol</item>
+        <item>Gmina Serokomla</item>
+        <item>Gmina Sianów</item>
+        <item>Gmina Sicienko</item>
+        <item>Gmina Sieciechów</item>
+        <item>Gmina Siedlce</item>
+        <item>Gmina Siedliszcze</item>
+        <item>Gmina Siemiatycze</item>
+        <item>Gmina Siemień</item>
+        <item>Gmina Siemyśl</item>
+        <item>Gmina Siennica</item>
+        <item>Gmina Siennica Różana</item>
+        <item>Gmina Sienno</item>
+        <item>Gmina Siepraw</item>
+        <item>Gmina Sieradz</item>
+        <item>Gmina Sieraków</item>
+        <item>Gmina Sierakowice</item>
+        <item>Gmina Siewierz</item>
+        <item>Gmina Sitkówka-Nowiny</item>
+        <item>Gmina Sitno</item>
+        <item>Gmina Skarżysko Kościelne</item>
+        <item>Gmina Skępe</item>
+        <item>Gmina Skierbieszów</item>
+        <item>Gmina Skierniewice</item>
+        <item>Gmina Skoczów</item>
+        <item>Gmina Skoki</item>
+        <item>Gmina Skołyszyn</item>
+        <item>Gmina Skrwilno</item>
+        <item>Gmina Skrzyszów</item>
+        <item>Gmina Skulsk</item>
+        <item>Gmina Skwierzyna</item>
+        <item>Gmina Sława</item>
+        <item>Gmina Śliwice</item>
+        <item>Gmina Słopnice</item>
+        <item>Gmina Słubice</item>
+        <item>Gmina Słupca</item>
+        <item>Gmina Słupia</item>
+        <item>Gmina Słupia (Konecka)</item>
+        <item>Gmina Śmigiel</item>
+        <item>Gmina Sobienie-Jeziory</item>
+        <item>Gmina Sobolew</item>
+        <item>Gmina Sobótka</item>
+        <item>Gmina Sokółka</item>
+        <item>Gmina Solina</item>
+        <item>Gmina Somonino</item>
+        <item>Gmina Sośnicowice</item>
+        <item>Gmina Sośnie</item>
+        <item>Gmina Sośno</item>
+        <item>Gmina Spiczyn</item>
+        <item>Gmina Stalowa Wola</item>
+        <item>Gmina Stanisławów</item>
+        <item>Gmina Stara Biała</item>
+        <item>Gmina Stara Kamienica</item>
+        <item>Gmina Stara Kornica</item>
+        <item>Gmina Stare Babice</item>
+        <item>Gmina Stare Miasto</item>
+        <item>Gmina Stare Pole</item>
+        <item>Gmina Starogard Gdański</item>
+        <item>Gmina Stary Brus</item>
+        <item>Gmina Stary Dzierzgoń</item>
+        <item>Gmina Stary Targ</item>
+        <item>Gmina Stawiszyn</item>
+        <item>Gmina Stepnica</item>
+        <item>Gmina Stoczek Łukowski</item>
+        <item>Gmina Stopnica</item>
+        <item>Gmina Strawczyn</item>
+        <item>Gmina Stromiec</item>
+        <item>Gmina Stryków</item>
+        <item>Gmina Stryszawa</item>
+        <item>Gmina Stryszów</item>
+        <item>Gmina Strzałkowo</item>
+        <item>Gmina Strzelce Opolskie</item>
+        <item>Gmina Strzelce Opolskie 2</item>
+        <item>Gmina Strzelin</item>
+        <item>Gmina Strzelno</item>
+        <item>Gmina Strzyżewice</item>
+        <item>Gmina Stupsk</item>
+        <item>Gmina Subkowy</item>
+        <item>Gmina Suchań</item>
+        <item>Gmina Suchedniów</item>
+        <item>Gmina Suchożebry</item>
+        <item>Gmina Suchy Las</item>
+        <item>Gmina Sulechów</item>
+        <item>Gmina Sulęcin</item>
+        <item>Gmina Sulejów</item>
+        <item>Gmina Sulików</item>
+        <item>Gmina Sulmierzyce</item>
+        <item>Gmina Sułów</item>
+        <item>Gmina Susiec</item>
+        <item>Gmina Świercze</item>
+        <item>Gmina Świerczów</item>
+        <item>Gmina Świerklany</item>
+        <item>Gmina Świerzawa</item>
+        <item>Gmina Świeszyno</item>
+        <item>Gmina Świlcza</item>
+        <item>Gmina Szadek</item>
+        <item>Gmina Szaflary</item>
+        <item>Gmina Szastarka</item>
+        <item>Gmina Szczawin Kościelny</item>
+        <item>Gmina Szczebrzeszyn</item>
+        <item>Gmina Szczekociny</item>
+        <item>Gmina Szczerców</item>
+        <item>Gmina Szczytna</item>
+        <item>Gmina Szczytniki</item>
+        <item>Gmina Szczytno</item>
+        <item>Gmina Szerzyny</item>
+        <item>Gmina Szlichtyngowa</item>
+        <item>Gmina Szreńsk</item>
+        <item>Gmina Szudziałowo</item>
+        <item>Gmina Szydłów</item>
+        <item>Gmina Tarłów</item>
+        <item>Gmina Tarnów</item>
+        <item>Gmina Tarnowiec</item>
+        <item>Gmina Tarnów Opolski</item>
+        <item>Gmina Tarnów Opolski 2</item>
+        <item>Gmina Teresin</item>
+        <item>Gmina Tereszpol</item>
+        <item>Gmina Tłuchowo</item>
+        <item>Gmina Tłuszcz</item>
+        <item>Gmina Tokarnia</item>
+        <item>Gmina Tomaszów Lubelski</item>
+        <item>Gmina Tomice</item>
+        <item>Gmina Toszek</item>
+        <item>Gmina Trąbki Wielkie</item>
+        <item>Gmina Trzebiatów</item>
+        <item>Gmina Trzebielino</item>
+        <item>Gmina Trzebinia</item>
+        <item>Gmina Trzyciąż</item>
+        <item>Gmina Trzydnik Duży</item>
+        <item>Gmina Tuchów</item>
+        <item>Gmina Tułowice</item>
+        <item>Gmina Turośń Kościelna</item>
+        <item>Gmina Tuszów Narodowy</item>
+        <item>Gmina Tworóg</item>
+        <item>Gmina Tyczyn</item>
+        <item>Gmina Tymbark</item>
+        <item>Gmina Tyrawa Wołoska</item>
+        <item>Gmina Uchanie</item>
+        <item>Gmina Ujazd</item>
+        <item>Gmina PSP Ujazd</item>
+        <item>Gmina Ulan-Majorat</item>
+        <item>Gmina Ulanów</item>
+        <item>Gmina Ułęż</item>
+        <item>Gmina Ulhówek</item>
+        <item>Gmina Urszulin</item>
+        <item>Gmina Urzędów</item>
+        <item>Gmina Uście Gorlickie</item>
+        <item>Gmina Uścimów</item>
+        <item>Gmina Wąchock</item>
+        <item>Gmina Wądroże Wielkie</item>
+        <item>Gmina Wągrowiec</item>
+        <item>Gmina Walce</item>
+        <item>Gmina Wąpielsk</item>
+        <item>Gmina Wasilków</item>
+        <item>Gmina Wąsosz</item>
+        <item>Gmina Wąwolnica</item>
+        <item>Gmina Wejherowo</item>
+        <item>Gmina Werbkowice</item>
+        <item>Gmina Wiązów</item>
+        <item>Gmina Wiązowna</item>
+        <item>Gmina Wicko</item>
+        <item>Gmina Widuchowa</item>
+        <item>Gmina Wielbark</item>
+        <item>Gmina Wieleń</item>
+        <item>Gmina Wielgie</item>
+        <item>Gmina Wielgomłyny</item>
+        <item>Gmina Wieliszew</item>
+        <item>Gmina Wielka Nieszawka</item>
+        <item>Gmina Gmina Wielopole Skrzyńskie</item>
+        <item>Gmina Wieniawa</item>
+        <item>Gmina Wieprz</item>
+        <item>Gmina Wieruszów</item>
+        <item>Gmina Wierzbinek</item>
+        <item>Gmina Wierzbno</item>
+        <item>Gmina Wierzchlas</item>
+        <item>Gmina Wierzchosławice</item>
+        <item>Gmina Wietrzychowice</item>
+        <item>Gmina Wijewo</item>
+        <item>Gmina Wilczyce</item>
+        <item>Gmina Wilczyn</item>
+        <item>Gmina Wilkołaz</item>
+        <item>Gmina Wilków</item>
+        <item>Gmina Wilkowice</item>
+        <item>Gmina Winnica</item>
+        <item>Gmina Wińsko</item>
+        <item>Gmina Wiskitki</item>
+        <item>Gmina Wisznia Mała</item>
+        <item>Gmina Wisznice</item>
+        <item>Gmina Witkowo</item>
+        <item>Gmina Władysławów</item>
+        <item>Gmina Wleń</item>
+        <item>Gmina Włocławek</item>
+        <item>Gmina Włodawa</item>
+        <item>Gmina Włoszczowa</item>
+        <item>Gmina Wodzierady</item>
+        <item>Gmina Wodzisław</item>
+        <item>Gmina Wojcieszków</item>
+        <item>Gmina Wojnicz</item>
+        <item>Gmina Wojsławice</item>
+        <item>Gmina Wola Krzysztoporska</item>
+        <item>Gmina Wolanów</item>
+        <item>Gmina Wolbrom</item>
+        <item>Gmina Wołczyn</item>
+        <item>Gmina Wołomin</item>
+        <item>Gmina Wołów</item>
+        <item>Gmina Wolsztyn</item>
+        <item>Gmina Wręczyca Wielka</item>
+        <item>Gmina Wronki</item>
+        <item>Gmina Wyryki</item>
+        <item>Gmina Wyrzysk</item>
+        <item>Gmina Wysokie</item>
+        <item>Gmina Żabno</item>
+        <item>Gmina Żagań</item>
+        <item>Gmina Zagórów</item>
+        <item>Gmina Zaklików</item>
+        <item>Gmina Zakroczym</item>
+        <item>Gmina Zakrzówek</item>
+        <item>Gmina Zalesie</item>
+        <item>Gmina Zaleszany</item>
+        <item>Gmina Załuski</item>
+        <item>Gmina Zamość</item>
+        <item>Gmina Żarnów</item>
+        <item>Gmina Żarnowiec</item>
+        <item>Gmina Żarów</item>
+        <item>Gmina Zarszyn</item>
+        <item>Gmina Zator</item>
+        <item>Gmina Zawadzkie</item>
+        <item>Gmina Zawichost</item>
+        <item>Gmina Zawonia</item>
+        <item>Gmina Zbąszyń</item>
+        <item>Gmina Zbójno</item>
+        <item>Gmina Zbrosławice</item>
+        <item>Gmina Zduńska Wola</item>
+        <item>Gmina Zdzieszowice</item>
+        <item>Gmina Zębowice</item>
+        <item>Gmina Zebrzydowice</item>
+        <item>Gmina Żegocina</item>
+        <item>Gmina Żelazków</item>
+        <item>Gmina Zembrzyce</item>
+        <item>Gmina Zgierz</item>
+        <item>Gmina Zgorzelec</item>
+        <item>Gmina Ziębice</item>
+        <item>Gmina Zielonki</item>
+        <item>Gmina Zławieś Wielka</item>
+        <item>Gmina Złota</item>
+        <item>Gmina Złotniki Kujawskie</item>
+        <item>Gmina Żmudź</item>
+        <item>Gmina Żnin</item>
+        <item>Gmina Żółkiewka</item>
+        <item>Gmina Żołynia</item>
+        <item>Gmina Żukowice</item>
+        <item>Gmina Żurawica</item>
+        <item>Gmina Żychlin</item>
+        <item>Gmina Żyraków</item>
+        <item>Gmina Żyrzyn</item>
+        <item>Gmina Żytno</item>
+        <item>Gniezno</item>
+        <item>Goleniów</item>
+        <item>Golub-Dobrzyń</item>
+        <item>Góra</item>
+        <item>Góra Kalwaria</item>
+        <item>Gorlice</item>
+        <item>Górzno</item>
+        <item>Gorzów Śląski</item>
+        <item>Gorzów Wielkopolski</item>
+        <item>Gorzyce powiat tarnobrzeski</item>
+        <item>Gostynin</item>
+        <item>Grajewo</item>
+        <item>Grodzisk Mazowiecki</item>
+        <item>Grodzisk Wielkopolski</item>
+        <item>Grudziądz</item>
+        <item>Grybów</item>
+        <item>Gryfino</item>
+        <item>Gryfów Śląski</item>
+        <item>Hel</item>
+        <item>Hrubieszów</item>
+        <item>Inowrocław</item>
+        <item>IR Tarnów</item>
+        <item>Izbica Kujawska</item>
+        <item>Jabłonna, powiat legionowski</item>
+        <item>Jabłonna, powiat lubelski</item>
+        <item>Jabłonowo Pomorskie</item>
+        <item>Janowiec Wielkopolski</item>
+        <item>Janów Lubelski</item>
+        <item>Janów, powiat sokolski</item>
+        <item>Jarocin</item>
+        <item>Jarosław</item>
+        <item>Jasło</item>
+        <item>Jastrzębie-Zdrój</item>
+        <item>Jawor</item>
+        <item>Jedlina-Zdrój</item>
+        <item>Jelcz-Laskowice</item>
+        <item>Jelenia Góra</item>
+        <item>Jordanów</item>
+        <item>Józefów</item>
+        <item>Kalety</item>
+        <item>Kalisz</item>
+        <item>Kalwaria Zebrzydowska</item>
+        <item>Kamień Krajeński</item>
+        <item>Kańczuga</item>
+        <item>Karczew</item>
+        <item>Kartuzy</item>
+        <item>Katowice</item>
+        <item>Kąty Wrocławskie</item>
+        <item>Kazimierz Dolny</item>
+        <item>Kcynia</item>
+        <item>Kędzierzyn-Koźle</item>
+        <item>Kępno</item>
+        <item>Kętrzyn</item>
+        <item>Kielce</item>
+        <item>Kłodawa</item>
+        <item>Kłodzko</item>
+        <item>Kluczbork</item>
+        <item>Knurów</item>
+        <item>Kobyłka</item>
+        <item>Koło</item>
+        <item>Kołobrzeg</item>
+        <item>Koniecpol</item>
+        <item>Konin</item>
+        <item>Konopnica powiat lubelski</item>
+        <item>Konstancin-Jeziorna</item>
+        <item>Konstantynów Łódzki</item>
+        <item>Koronowo</item>
+        <item>Kościan</item>
+        <item>Kościerzyna</item>
+        <item>Kostrzyn Nad Odrą</item>
+        <item>Koszalin</item>
+        <item>Kowal</item>
+        <item>Kowalewo Pomorskie</item>
+        <item>Kowary</item>
+        <item>Kozienice</item>
+        <item>Kraków</item>
+        <item>Krapkowice</item>
+        <item>Kraśnik</item>
+        <item>Krasnystaw</item>
+        <item>Krobia</item>
+        <item>Krośniewice</item>
+        <item>Krosno</item>
+        <item>Krotoszyce</item>
+        <item>Krotoszyn</item>
+        <item>Krynica</item>
+        <item>Krzeszowice</item>
+        <item>Krzyż Wielkopolski</item>
+        <item>Książ Wielkopolski</item>
+        <item>Kujawsko-Pomorskie</item>
+        <item>Kutno</item>
+        <item>Kuźnia Raciborska</item>
+        <item>Kwidzyn</item>
+        <item>Łabiszyn</item>
+        <item>Lądek-Zdrój</item>
+        <item>Łańcut</item>
+        <item>Łapy</item>
+        <item>Łask</item>
+        <item>Łaskarzew</item>
+        <item>Łeba</item>
+        <item>Lębork</item>
+        <item>Łęczna</item>
+        <item>Lędziny</item>
+        <item>Legionowo</item>
+        <item>Legnica</item>
+        <item>Leśnica opolska</item>
+        <item>Leszno</item>
+        <item>Lewin Brzeski</item>
+        <item>Lewin Brzeski 2</item>
+        <item>Leżajsk</item>
+        <item>Limanowa</item>
+        <item>Lipno</item>
+        <item>Lipno, powiat lipnowski</item>
+        <item>Łódź</item>
+        <item>Łódzkie</item>
+        <item>Łowicz</item>
+        <item>Lubań</item>
+        <item>Lubartów</item>
+        <item>Lubelskie</item>
+        <item>Lubień Kujawski</item>
+        <item>Lubin</item>
+        <item>Lublin</item>
+        <item>Lubliniec</item>
+        <item>Lubnice, powiat staszowski</item>
+        <item>Lubuskie</item>
+        <item>Łuków</item>
+        <item>Lwówecki</item>
+        <item>Lwówek Śląski</item>
+        <item>Malbork</item>
+        <item>Małopolskie</item>
+        <item>Marki</item>
+        <item>Maszewo, powiat goleniowski</item>
+        <item>Mazowieckie</item>
+        <item>MEN</item>
+        <item>Miasto Toruń</item>
+        <item>Michałowice</item>
+        <item>Miechów</item>
+        <item>Międzyrzec Podlaski</item>
+        <item>Miejska Górka</item>
+        <item>Mielec</item>
+        <item>Milanówek</item>
+        <item>Ministerstwo Rolnictwa</item>
+        <item>Mińsk Mazowiecki</item>
+        <item>Ministerstwo Kultury i Dziedzictwa Narodowego</item>
+        <item>Mniszków</item>
+        <item>Ministerstwo Nauki i Szkolnictwa</item>
+        <item>Ministerstwo Obrony Narodowej</item>
+        <item>Ministerstwo Środowiska</item>
+        <item>Mosina</item>
+        <item>Moszczenica powiat gorlicki</item>
+        <item>Moszczenica powiat piotrkowski</item>
+        <item>Mrągowo</item>
+        <item>Mrągowski</item>
+        <item>Ministerstwo Sprawiedliwości</item>
+        <item>Ministerstwo Spraw Wewnętrznych</item>
+        <item>Mszana Dolna</item>
+        <item>Mszczonów</item>
+        <item>Muszyna</item>
+        <item>Mysłowice</item>
+        <item>Myszków</item>
+        <item>Nakło Nad Notecią</item>
+        <item>Niemodlin</item>
+        <item>Niepołomice</item>
+        <item>Nisko</item>
+        <item>Nowa Dęba</item>
+        <item>Nowa Sarzyna</item>
+        <item>Nowa Sól</item>
+        <item>Nowe Miasteczko</item>
+        <item>Nowe Skalmierzyce</item>
+        <item>Nowogard</item>
+        <item>Nowogród Bobrzański</item>
+        <item>Nowogrodziec</item>
+        <item>Nowy Dwór Mazowiecki</item>
+        <item>Nowy Sącz</item>
+        <item>Nowy Targ</item>
+        <item>Nowy Żmigród</item>
+        <item>Nysa</item>
+        <item>Oborniki Śląskie</item>
+        <item>Oborniki Wielkopolskie</item>
+        <item>Obrzycko</item>
+        <item>Oleśnica, powiat olesnicki</item>
+        <item>Oleśnica, powiat staszowski</item>
+        <item>Olesno powiat dąbrowski</item>
+        <item>Olesno powiat oleski</item>
+        <item>Olkusz</item>
+        <item>Olszanka, powiat brzeski</item>
+        <item>Olsztyn</item>
+        <item>Opatów, powiat kłobucki</item>
+        <item>Opatów, powiat opatowski</item>
+        <item>Opinogóra Górna</item>
+        <item>Opoczno</item>
+        <item>Opole</item>
+        <item>Opole Lubelskie</item>
+        <item>Opolskie</item>
+        <item>Orzesze</item>
+        <item>Osieczna</item>
+        <item>Osiecznica</item>
+        <item>Osiek, powiat starogardzki</item>
+        <item>Ostróda</item>
+        <item>Ostrołęka</item>
+        <item>Ostrowiec Świętokrzyski</item>
+        <item>Ostrów Wielkopolski</item>
+        <item>Oświęcim</item>
+        <item>Otwock</item>
+        <item>Ożarów Mazowiecki</item>
+        <item>Ozorków</item>
+        <item>Pabianice</item>
+        <item>Piaseczno</item>
+        <item>Piaski</item>
+        <item>Piastów</item>
+        <item>Piechowice</item>
+        <item>Piekary Śląskie</item>
+        <item>Pieńsk</item>
+        <item>Piła</item>
+        <item>Pilzno</item>
+        <item>Piotrków Trybunalski</item>
+        <item>Pisz</item>
+        <item>Piwniczna</item>
+        <item>Płock</item>
+        <item>Płońsk</item>
+        <item>Pniewy</item>
+        <item>Pobiedziska</item>
+        <item>Podkarpackie</item>
+        <item>Podkowa Leśna</item>
+        <item>Podlaskie</item>
+        <item>Połczyn-Zdrój</item>
+        <item>Pomorskie</item>
+        <item>Poniec</item>
+        <item>Poręba</item>
+        <item>Poświętne, powiat opoczyński</item>
+        <item>Poświętne, powiat wołomiński</item>
+        <item>Powiat aleksandrowski</item>
+        <item>Powiat augustowski</item>
+        <item>Powiat będziński</item>
+        <item>Powiat bełchatowski</item>
+        <item>Powiat białostocki</item>
+        <item>Powiat bialski</item>
+        <item>Powiat bielski</item>
+        <item>Powiat bieszczadzki</item>
+        <item>Powiat biłgorajski</item>
+        <item>Powiat bocheński</item>
+        <item>Powiat bolesławiecki</item>
+        <item>Powiat braniewski</item>
+        <item>Powiat brodnicki</item>
+        <item>Powiat brzeski</item>
+        <item>Powiat brzeziński</item>
+        <item>Powiat brzozowski</item>
+        <item>Powiat buski</item>
+        <item>Powiat bydgoski</item>
+        <item>Powiat chełmiński</item>
+        <item>Powiat chełmski</item>
+        <item>Powiat chodzieski</item>
+        <item>Powiat chojnicki</item>
+        <item>Powiat chrzanowski</item>
+        <item>Powiat ciechanowski</item>
+        <item>Powiat cieszyński</item>
+        <item>Powiat czarnkowsko-trzcianecki</item>
+        <item>Powiat częstochowski</item>
+        <item>Powiat człuchowski</item>
+        <item>Powiat dąbrowski</item>
+        <item>Powiat dębicki</item>
+        <item>Powiat drawski</item>
+        <item>Powiat działdowski</item>
+        <item>Powiat dzierżoniowski</item>
+        <item>Powiat elbląski</item>
+        <item>Powiat ełcki</item>
+        <item>Powiat garwoliński</item>
+        <item>Powiat gdański</item>
+        <item>Powiat giżycki</item>
+        <item>Powiat gliwicki</item>
+        <item>Powiat głogowski</item>
+        <item>Powiat głubczycki</item>
+        <item>Powiat gnieźnieński</item>
+        <item>Powiat gołdapski</item>
+        <item>Powiat goleniowski</item>
+        <item>Powiat golubsko-dobrzyński</item>
+        <item>Powiat gorlicki</item>
+        <item>Powiat górowski</item>
+        <item>Powiat gorzowski</item>
+        <item>Powiat gostyński</item>
+        <item>Powiat grajewski</item>
+        <item>Powiat grodziski, mazowieckie</item>
+        <item>Powiat grodziski, wielkopolskie</item>
+        <item>Powiat grójecki</item>
+        <item>Powiat gryficki</item>
+        <item>Powiat gryfiński</item>
+        <item>Powiat hajnowski</item>
+        <item>Powiat hrubieszowski</item>
+        <item>Powiat iławski</item>
+        <item>Powiat inowrocławski</item>
+        <item>Powiat janowski</item>
+        <item>Powiat jarociński</item>
+        <item>Powiat jarosławski</item>
+        <item>Powiat jasielski</item>
+        <item>Powiat jaworski</item>
+        <item>Powiat jędrzejowski</item>
+        <item>Powiat jeleniogórski</item>
+        <item>Powiat kaliski</item>
+        <item>Powiat kamiennogórski</item>
+        <item>Powiat kamieński</item>
+        <item>Powiat kartuski</item>
+        <item>Powiat kazimierski</item>
+        <item>Powiat kędzierzyńsko-kozielski</item>
+        <item>Powiat kępiński</item>
+        <item>Powiat kętrzyński</item>
+        <item>Powiat kielecki</item>
+        <item>Powiat kłobucki</item>
+        <item>Powiat kłodzki</item>
+        <item>Powiat kluczborski</item>
+        <item>Powiat kołobrzeski</item>
+        <item>Powiat kolski</item>
+        <item>Powiat konecki</item>
+        <item>Powiat koniński</item>
+        <item>Powiat kościański</item>
+        <item>Powiat kościerski</item>
+        <item>Powiat kozienicki</item>
+        <item>Powiat krakowski</item>
+        <item>Powiat krapkowicki</item>
+        <item>Powiat kraśnicki</item>
+        <item>Powiat krasnostawski</item>
+        <item>Powiat krośnieński</item>
+        <item>Powiat krotoszyński</item>
+        <item>Powiat kutnowski</item>
+        <item>Powiat łańcucki</item>
+        <item>Powiat łaski</item>
+        <item>Powiat lęborski</item>
+        <item>Powiat łęczycki</item>
+        <item>Powiat łęczyński</item>
+        <item>Powiat legnicki</item>
+        <item>Powiat leski</item>
+        <item>Powiat leszczyński</item>
+        <item>Powiat leżajski</item>
+        <item>Powiat lidzbarski</item>
+        <item>Powiat limanowski</item>
+        <item>Powiat lipnowski</item>
+        <item>Powiat lipski</item>
+        <item>Powiat łobeski</item>
+        <item>Powiat łódzki wschodni</item>
+        <item>Powiat łosicki</item>
+        <item>Powiat łowicki</item>
+        <item>Powiat lubaczowski</item>
+        <item>Powiat lubański</item>
+        <item>Powiat lubartowski</item>
+        <item>Powiat lubelski</item>
+        <item>Powiat lubiński</item>
+        <item>Powiat lubliniecki</item>
+        <item>Powiat łukowski</item>
+        <item>Powiat makowski</item>
+        <item>Powiat malborski</item>
+        <item>Powiat miechowski</item>
+        <item>Powiat międzyrzecki</item>
+        <item>Powiat mielecki</item>
+        <item>Powiat mikołowski</item>
+        <item>Powiat milicki</item>
+        <item>Powiat miński</item>
+        <item>Powiat mogileński</item>
+        <item>Powiat moniecki</item>
+        <item>Powiat myślenicki</item>
+        <item>Powiat myszkowski</item>
+        <item>Powiat nakielski</item>
+        <item>Powiat namysłowski</item>
+        <item>Powiat nidzicki</item>
+        <item>Powiat niżański</item>
+        <item>Powiat nowodworski</item>
+        <item>Powiat nowomiejski</item>
+        <item>Powiat nowosądecki</item>
+        <item>Powiat nowosolski</item>
+        <item>Powiat nowotarski</item>
+        <item>Powiat nowotomyski</item>
+        <item>Powiat nyski</item>
+        <item>Powiat obornicki</item>
+        <item>Powiat oławski</item>
+        <item>Powiat olecki</item>
+        <item>Powiat oleski</item>
+        <item>Powiat oleśnicki</item>
+        <item>Powiat olkuski</item>
+        <item>Powiat olsztyński</item>
+        <item>Powiat opatowski</item>
+        <item>Powiat opoczyński</item>
+        <item>Powiat opole lubelskie</item>
+        <item>Powiat opolski</item>
+        <item>Powiat opolski 2</item>
+        <item>Powiat ostródzki</item>
+        <item>Powiat ostrowiecki</item>
+        <item>Powiat ostrzeszowski</item>
+        <item>Powiat oświęcimski</item>
+        <item>Powiat ostrowski, mazowieckie</item>
+        <item>Powiat otwocki</item>
+        <item>Powiat pabianicki</item>
+        <item>Powiat piaseczyński</item>
+        <item>Powiat pilski</item>
+        <item>Powiat pińczowski</item>
+        <item>Powiat piotrkowski</item>
+        <item>Powiat piski, warmińsko-mazurskie</item>
+        <item>Powiat pleszewski</item>
+        <item>Powiat płocki</item>
+        <item>Powiat płoński</item>
+        <item>Powiat poddębicki</item>
+        <item>Powiat policki</item>
+        <item>Powiat polkowicki</item>
+        <item>Powiat poznański</item>
+        <item>Powiat proszowicki</item>
+        <item>Powiat prudnicki</item>
+        <item>Powiat pruszkowski</item>
+        <item>Powiat przemyski</item>
+        <item>Powiat przeworski</item>
+        <item>Powiat przysuski</item>
+        <item>Powiat pszczyński</item>
+        <item>Powiat pucki</item>
+        <item>Powiat puławski</item>
+        <item>Powiat pułtuski</item>
+        <item>Powiat pyrzycki</item>
+        <item>Powiat raciborski</item>
+        <item>Powiat radomski</item>
+        <item>Powiat radomszczański</item>
+        <item>Powiat radziejowski</item>
+        <item>Powiat radzyński</item>
+        <item>Powiat rawicki</item>
+        <item>Powiat rawski</item>
+        <item>Powiat ropczycko-sędziszowski</item>
+        <item>Powiat rybnicki</item>
+        <item>Powiat rycki</item>
+        <item>Powiat rypiński</item>
+        <item>Powiat rzeszowski</item>
+        <item>Powiat sandomierski</item>
+        <item>Powiat sanocki</item>
+        <item>Powiat sejneński</item>
+        <item>Powiat sępoleński</item>
+        <item>Powiat siedlecki</item>
+        <item>Powiat siemiatycki</item>
+        <item>Powiat sieradzki</item>
+        <item>Powiat sierpecki</item>
+        <item>Powiat skarżyski</item>
+        <item>Powiat skierniewicki</item>
+        <item>Powiat słubicki</item>
+        <item>Powiat słupecki</item>
+        <item>Powiat słupski</item>
+        <item>Powiat sochaczewski</item>
+        <item>Powiat sokołowski</item>
+        <item>Powiat sokólski</item>
+        <item>Powiat średzki</item>
+        <item>Powiat śremski</item>
+        <item>Powiat stalowowolski</item>
+        <item>Powiat starachowicki</item>
+        <item>Powiat stargardzki</item>
+        <item>Powiat starogardzki</item>
+        <item>Powiat staszowski</item>
+        <item>Powiat strzelecki</item>
+        <item>Powiat strzeliński</item>
+        <item>Powiat strzyżowski</item>
+        <item>Powiat suski</item>
+        <item>Powiat świdnicki</item>
+        <item>Powiat świdwiński</item>
+        <item>Powiat świdnicki w Świdniku</item>
+        <item>Powiat świebodziński</item>
+        <item>Powiat świecki</item>
+        <item>Powiat szamotulski</item>
+        <item>Powiat szczycieński</item>
+        <item>Powiat sztumski</item>
+        <item>Powiat szydłowiecki</item>
+        <item>Powiat tarnobrzeski</item>
+        <item>Powiat tarnogórski</item>
+        <item>Powiat tarnowski</item>
+        <item>Powiat tatrzański</item>
+        <item>Powiat tczewski</item>
+        <item>Powiat tomaszowski</item>
+        <item>Powiat tomaszowski, lubelskie</item>
+        <item>Powiat toruński</item>
+        <item>Powiat trzebnicki</item>
+        <item>Powiat tucholski</item>
+        <item>Powiat turecki</item>
+        <item>Powiat wadowicki</item>
+        <item>Powiat wągrowiecki</item>
+        <item>Powiat wałecki</item>
+        <item>Powiat warszawski zachodni</item>
+        <item>Powiat węgorzewski</item>
+        <item>Powiat węgrowski</item>
+        <item>Powiat wejherowski</item>
+        <item>Powiat wielicki</item>
+        <item>Powiat wieluński</item>
+        <item>Powiat wieruszowski</item>
+        <item>Powiat włocławski</item>
+        <item>Powiat włodawski</item>
+        <item>Powiat włoszczowski</item>
+        <item>Powiat wodzisławski</item>
+        <item>Powiat wołomiński</item>
+        <item>Powiat wołowski</item>
+        <item>Powiat wolsztyński</item>
+        <item>Powiat wrocławski</item>
+        <item>Powiat wrzesiński</item>
+        <item>Powiat wschowski</item>
+        <item>Powiat wysokomazowiecki</item>
+        <item>Powiat wyszkowski</item>
+        <item>Powiat ząbkowicki</item>
+        <item>Powiat żagański</item>
+        <item>Powiat zamojski</item>
+        <item>Powiat żarski</item>
+        <item>Powiat zawierciański</item>
+        <item>Powiat zduńskowolski</item>
+        <item>Powiat zgierski</item>
+        <item>Powiat zgorzelecki</item>
+        <item>Powiat zielonogórski</item>
+        <item>Powiat złotoryjski</item>
+        <item>Powiat złotowski</item>
+        <item>Powiat żniński</item>
+        <item>Powiat żyrardowski</item>
+        <item>Powiat żywiecki</item>
+        <item>Poznań</item>
+        <item>prfrawamaz</item>
+        <item>Proszowice</item>
+        <item>Prudnik</item>
+        <item>Pruszcz Gdański</item>
+        <item>Pruszków</item>
+        <item>Przasnysz</item>
+        <item>Przemyśl</item>
+        <item>Przeworsk</item>
+        <item>Przysucha</item>
+        <item>Pszczyna</item>
+        <item>Puck</item>
+        <item>Puławy</item>
+        <item>Pułtusk</item>
+        <item>Puszczykowo</item>
+        <item>Pyskowice</item>
+        <item>Rabka-Zdrój</item>
+        <item>Raciąż</item>
+        <item>Racibórz</item>
+        <item>Radków Kłodzki</item>
+        <item>Radom</item>
+        <item>Radomsko</item>
+        <item>Radomyśl Wielki</item>
+        <item>Radymno</item>
+        <item>Radziejów</item>
+        <item>Radzionków</item>
+        <item>Radzyń Podlaski</item>
+        <item>Rakoniewice</item>
+        <item>Rawa Mazowiecka</item>
+        <item>Rawicz</item>
+        <item>Reda</item>
+        <item>Rejowiec, powiat chełmski</item>
+        <item>Rogowo, powiat rypiński</item>
+        <item>Rogowo, powiat żniński</item>
+        <item>Rogóźno</item>
+        <item>Ropczyce</item>
+        <item>Ruda Śląska</item>
+        <item>Rudnik, powiat raciborski</item>
+        <item>Rumia</item>
+        <item>Rybnik</item>
+        <item>Rychwał</item>
+        <item>Rydułtowy</item>
+        <item>Rymanów</item>
+        <item>Rypin</item>
+        <item>Rzeszów</item>
+        <item>Rzeszów projekt</item>
+        <item>Rzgów, powiat koniński</item>
+        <item>Sandomierz</item>
+        <item>Sanok</item>
+        <item>Sędziszów Małopolski</item>
+        <item>Sejny</item>
+        <item>Siedlce</item>
+        <item>Siemianowice Śląskie</item>
+        <item>Siemiatycze</item>
+        <item>Sieradz</item>
+        <item>Skarżysko-Kamienna</item>
+        <item>Skawina</item>
+        <item>Skierniewice</item>
+        <item>Skoroszyce</item>
+        <item>Śląskie</item>
+        <item>Sławno</item>
+        <item>Słomniki</item>
+        <item>Słupca</item>
+        <item>Słupsk</item>
+        <item>Sochaczew</item>
+        <item>Sokołów Podlaski</item>
+        <item>Sopot</item>
+        <item>Sosnowiec</item>
+        <item>spmajkowskarzysko</item>
+        <item>spteodory</item>
+        <item>Śrem</item>
+        <item>Środa Śląska</item>
+        <item>Środa Wielkopolska</item>
+        <item>Starachowice</item>
+        <item>Stargard</item>
+        <item>Starogard Gdański</item>
+        <item>starostwokrosnienskie</item>
+        <item>Stary Sącz</item>
+        <item>Staszów</item>
+        <item>stezycapowiatrycki</item>
+        <item>stowarzyszenieintegracja</item>
+        <item>Stronie Śląskie</item>
+        <item>Strzyżów</item>
+        <item>Sulejówek</item>
+        <item>Sułkowice</item>
+        <item>Sulmierzyce</item>
+        <item>Swarzędz</item>
+        <item>Świdnica</item>
+        <item>swidnicapowiatswidnicki</item>
+        <item>swidnicapowiatzielonogorski</item>
+        <item>Świdnik</item>
+        <item>Świdwin</item>
+        <item>Świeradów-Zdrój</item>
+        <item>swietajnopowiatszczycienski</item>
+        <item>Świętochłowice</item>
+        <item>Świnoujście</item>
+        <item>Syców</item>
+        <item>Szamocin</item>
+        <item>Szczawnica</item>
+        <item>Szczecin</item>
+        <item>Szczytno</item>
+        <item>Szklarska Poręba</item>
+        <item>Szprotawa</item>
+        <item>Sztum</item>
+        <item>Szubin</item>
+        <item>szydlowopowiatpilski</item>
+        <item>Tarnobrzeg</item>
+        <item>Tarnów</item>
+        <item>Tarnowskie Góry</item>
+        <item>Terespol</item>
+        <item>Tomaszów Lubelski</item>
+        <item>Tomaszów Mazowiecki</item>
+        <item>Tomaszów Mazowiecki projekt</item>
+        <item>Toruń</item>
+        <item>Trzcianka</item>
+        <item>Trzcińsko-Zdrój</item>
+        <item>Trzebnica</item>
+        <item>Trzemeszno</item>
+        <item>Tuliszków</item>
+        <item>Turawa</item>
+        <item>Tuszyn</item>
+        <item>Tychy</item>
+        <item>UG Gołcza</item>
+        <item>Ujazd</item>
+        <item>Ustka</item>
+        <item>Ustroń</item>
+        <item>Ustrzyki Dolne</item>
+        <item>Wadowice</item>
+        <item>Wągrowiec</item>
+        <item>Wałcz</item>
+        <item>Warmińsko-Mazurskie</item>
+        <item>Warszawa</item>
+        <item>Warszawa Bemowo</item>
+        <item>Warszawa Białołęka</item>
+        <item>Warszawa Bielany</item>
+        <item>Warszawa Mokotów</item>
+        <item>Warszawa Praga Południe</item>
+        <item>Warszawa Śródmiśscie</item>
+        <item>Warszawa Targówek</item>
+        <item>Warszawa Ursus</item>
+        <item>Warszawa Ursynow</item>
+        <item>Warszawa Wawer</item>
+        <item>Warszawa Wesoła</item>
+        <item>Warszawa Włochy</item>
+        <item>Warszawa Wola</item>
+        <item>Warszawa Żoliborz</item>
+        <item>Wąsosz</item>
+        <item>Węgrów</item>
+        <item>Wejherowo</item>
+        <item>Więcbork</item>
+        <item>Wieliczka</item>
+        <item>Wielkopolskie</item>
+        <item>Wieluń</item>
+        <item>Wierzbica, powiat chełmski</item>
+        <item>Wierzbica, powiat radomski</item>
+        <item>Wilków, powiat namysłowski</item>
+        <item>Wiśniowa, powiat myślenicki</item>
+        <item>Władysławowo</item>
+        <item>Włocławek</item>
+        <item>Włodawa</item>
+        <item>Woźniki</item>
+        <item>Wrocław</item>
+        <item>Września</item>
+        <item>Wschowa</item>
+        <item>Wysokie Mazowieckie</item>
+        <item>Wyszków</item>
+        <item>Ząbki</item>
+        <item>Ząbkowice Śląskie</item>
+        <item>Zabrze</item>
+        <item>Zachodniopomorskie</item>
+        <item>Żagań</item>
+        <item>Zakliczyn</item>
+        <item>Zakopane</item>
+        <item>Zakrzewo, powiat aleksandrowski</item>
+        <item>Zambrów</item>
+        <item>Zamość</item>
+        <item>Żary</item>
+        <item>Zawidów</item>
+        <item>Zduńska Wola</item>
+        <item>Zduny</item>
+        <item>ZDZ Warszawa</item>
+        <item>Żelechów</item>
+        <item>Zespół Szkół PPC Kumarszew</item>
+        <item>Zgierz</item>
+        <item>Zgorzelec</item>
+        <item>Zielona Góra</item>
+        <item>Zielonka</item>
+        <item>ZKSO 1 Katowice</item>
+        <item>Złotoryja</item>
+        <item>Złotów</item>
+        <item>Żory</item>
+        <item>ZS2 Lubin</item>
+        <item>ZSK Sieradz</item>
+        <item>ZSKZ Kwidzyn</item>
+        <item>ZSKZ Sochaczew</item>
+        <item>ZSP Stare Koźle</item>
+        <item>ZST powiat opoczyński</item>
+        <item>Zwoleń</item>
+        <item>Żyrardów</item>
+    </string-array>
+    <string-array name="symbols_values">
+        <item>adamowpowiatlukowski</item>
+        <item>aleksandrowpowiatbilgorajski</item>
+        <item>andrychow</item>
+        <item>augustow</item>
+        <item>baranowsandomierski</item>
+        <item>bedzin</item>
+        <item>belchatow</item>
+        <item>belzyce</item>
+        <item>bialapodlaska</item>
+        <item>bialapowiatprudnicki</item>
+        <item>bialapowiatwielunski</item>
+        <item>bialarawska</item>
+        <item>bialybor</item>
+        <item>bialystok</item>
+        <item>biecz</item>
+        <item>bielawa</item>
+        <item>bielskobiala</item>
+        <item>bierawa</item>
+        <item>bierutow</item>
+        <item>blachownia</item>
+        <item>blaszki</item>
+        <item>blonie</item>
+        <item>bogatynia</item>
+        <item>boguchwala</item>
+        <item>bogutypianki</item>
+        <item>boleslawiec</item>
+        <item>boleslawpowiatdabrowski</item>
+        <item>braniewo</item>
+        <item>brodnica</item>
+        <item>brodnicapowiatsremski</item>
+        <item>brodypowiatstarachowicki</item>
+        <item>brojcepowiatlodzkiwsch</item>
+        <item>brwinow</item>
+        <item>brzeg</item>
+        <item>brzeski</item>
+        <item>brzeskipowiat</item>
+        <item>brzeznicapowiatwadowicki</item>
+        <item>buk</item>
+        <item>bukowno</item>
+        <item>buskozdroj</item>
+        <item>bychawa</item>
+        <item>bydgoszcz</item>
+        <item>bystrzycaklodzka</item>
+        <item>bytom</item>
+        <item>bytomodrzanski</item>
+        <item>cechbialski</item>
+        <item>chelm</item>
+        <item>chelmno</item>
+        <item>chelmza</item>
+        <item>chocianow</item>
+        <item>chodziez</item>
+        <item>chojnice</item>
+        <item>chojnow</item>
+        <item>chorzow</item>
+        <item>chrzanowpowiatjanowski</item>
+        <item>ciechanow</item>
+        <item>cieszyn</item>
+        <item>czarnapowiatbieszczadzki</item>
+        <item>czarnapowiatdebicki</item>
+        <item>czarnkow</item>
+        <item>czeladz</item>
+        <item>czerminpowiatmielecki</item>
+        <item>czerminpowiatpleszewski</item>
+        <item>czersk</item>
+        <item>czestochowa</item>
+        <item>czluchow</item>
+        <item>dabiepowiatkrosnienski</item>
+        <item>dabrowabialostocka</item>
+        <item>dabrowagornicza</item>
+        <item>dabrowapowiatopolski</item>
+        <item>dabrowatarnowska</item>
+        <item>debica</item>
+        <item>debno</item>
+        <item>debowiecpowiatjasielski</item>
+        <item>dobrapowiatlobeski</item>
+        <item>dobrepowiatradziejowski</item>
+        <item>dobrzenwielki</item>
+        <item>dobrzenwielki2</item>
+        <item>dobrzynnadwisla</item>
+        <item>dolnoslaskie</item>
+        <item>dusznikizdroj</item>
+        <item>dynow</item>
+        <item>dzialdowo</item>
+        <item>dzialoszyn</item>
+        <item>elblag</item>
+        <item>elk</item>
+        <item>frampol</item>
+        <item>fundacjaelementarz</item>
+        <item>fundacjamozaika</item>
+        <item>garwolin</item>
+        <item>gdansk</item>
+        <item>gdynia</item>
+        <item>gliwice</item>
+        <item>glogow</item>
+        <item>glogowmalopolski</item>
+        <item>glowno</item>
+        <item>glubczyce</item>
+        <item>glubczyce2</item>
+        <item>glucholazy</item>
+        <item>gminaabramow</item>
+        <item>gminaadamowka</item>
+        <item>gminaaleksandrowkujawski</item>
+        <item>gminaaleksandrowlodzki</item>
+        <item>gminaalwernia</item>
+        <item>gminaandrzejewo</item>
+        <item>gminaannopol</item>
+        <item>gminaaugustow</item>
+        <item>gminababice</item>
+        <item>gminabadkowo</item>
+        <item>gminabaltow</item>
+        <item>gminabaranow</item>
+        <item>gminabarcin</item>
+        <item>gminabarczewo</item>
+        <item>gminabaruchowo</item>
+        <item>gminabatorz</item>
+        <item>gminabedzino</item>
+        <item>gminabelchatow</item>
+        <item>gminabesko</item>
+        <item>gminabialaczow</item>
+        <item>gminabialeblota</item>
+        <item>gminabialopole</item>
+        <item>gminabielsk</item>
+        <item>gminabircza</item>
+        <item>gminablazowa</item>
+        <item>gminabledow</item>
+        <item>gminabobolice</item>
+        <item>gminabobowa</item>
+        <item>gminabobowo</item>
+        <item>gminabobrowniki</item>
+        <item>gminabodzentyn</item>
+        <item>gminabogoria</item>
+        <item>gminabojanowo</item>
+        <item>gminabojszowy</item>
+        <item>gminaboleslawiec</item>
+        <item>gminabolkow</item>
+        <item>gminaboronow</item>
+        <item>gminaborow</item>
+        <item>gminaborowa</item>
+        <item>gminaborzecin</item>
+        <item>gminaborzytuchom</item>
+        <item>gminabralin</item>
+        <item>gminabranice</item>
+        <item>gminabraniewo</item>
+        <item>gminabranszczyk</item>
+        <item>gminabraszewice</item>
+        <item>gminabrenna</item>
+        <item>gminabrochow</item>
+        <item>gminabrok</item>
+        <item>gminabrzegdolny</item>
+        <item>gminabrzeziny</item>
+        <item>gminabrzeznio</item>
+        <item>gminabrzostek</item>
+        <item>gminabrzozow</item>
+        <item>gminabrzuze</item>
+        <item>gminabrzyska</item>
+        <item>gminabuczek</item>
+        <item>gminabudzow</item>
+        <item>gminabudzyn</item>
+        <item>gminabukowinatatrzanska</item>
+        <item>gminabukowsko</item>
+        <item>gminabyczyna</item>
+        <item>gminabystrasidzina</item>
+        <item>gminaceglow</item>
+        <item>gminacekcyn</item>
+        <item>gminacekowkolonia</item>
+        <item>gminacelestynow</item>
+        <item>gminacewice</item>
+        <item>gminacharsznica</item>
+        <item>gminachelm</item>
+        <item>gminachelmiec</item>
+        <item>gminachelmno</item>
+        <item>gminachlopice</item>
+        <item>gminachmielnik</item>
+        <item>gminachociwel</item>
+        <item>gminachocz</item>
+        <item>gminachodel</item>
+        <item>gminachodow</item>
+        <item>gminachojnice</item>
+        <item>gminachojnow</item>
+        <item>gminachotcza</item>
+        <item>gminachrzastowice</item>
+        <item>gminachrzypskowielkie</item>
+        <item>gminachybie</item>
+        <item>gminaciasna</item>
+        <item>gminaciechanow</item>
+        <item>gminaciechocin</item>
+        <item>gminacieladz</item>
+        <item>gminacieszanow</item>
+        <item>gminaciezkowice</item>
+        <item>gminacisek</item>
+        <item>gminacisna</item>
+        <item>gminacmolas</item>
+        <item>gminacycow</item>
+        <item>gminaczaplinek</item>
+        <item>gminaczarna</item>
+        <item>gminaczarnkow</item>
+        <item>gminaczarnydunajec</item>
+        <item>gminaczastary</item>
+        <item>gminaczechowicedziedzice</item>
+        <item>gminaczernichow</item>
+        <item>gminaczerniejewo</item>
+        <item>gminaczerniewice</item>
+        <item>gminaczernikowo</item>
+        <item>gminaczerwionkaleszczyny</item>
+        <item>gminaczerwonak</item>
+        <item>gminaczluchow</item>
+        <item>gminaczosnow</item>
+        <item>gminadabrowazielona</item>
+        <item>gminadabrowice</item>
+        <item>gminadamaslawek</item>
+        <item>gminadamnica</item>
+        <item>gminadarlowo</item>
+        <item>gminadebewielkie</item>
+        <item>gminadebica</item>
+        <item>gminadebno</item>
+        <item>gminadebowakloda</item>
+        <item>gminadebrzno</item>
+        <item>gminadlutow</item>
+        <item>gminadobczyce</item>
+        <item>gminadobra</item>
+        <item>gminadobrcz</item>
+        <item>gminadobrodzien</item>
+        <item>gminadobron</item>
+        <item>gminadobrzany</item>
+        <item>gminadobrzyca</item>
+        <item>gminadobrzyniewoduze</item>
+        <item>gminadolsk</item>
+        <item>gminadominowo</item>
+        <item>gminadorohusk</item>
+        <item>gminadoruchow</item>
+        <item>gminadragacz</item>
+        <item>gminadrawsko</item>
+        <item>gminadruzbice</item>
+        <item>gminadrzewica</item>
+        <item>gminadubiecko</item>
+        <item>gminadubienka</item>
+        <item>gminadukla</item>
+        <item>gminadwikozy</item>
+        <item>gminadydnia</item>
+        <item>gminadynow</item>
+        <item>gminadziadowakloda</item>
+        <item>gminadzialoszyce</item>
+        <item>gminadziemiany</item>
+        <item>gminadzierzoniow</item>
+        <item>gminadziwnow</item>
+        <item>gminadzwola</item>
+        <item>gminaelblag</item>
+        <item>gminaelk</item>
+        <item>gminafredropol</item>
+        <item>gminagarbatkaletnisko</item>
+        <item>gminagarbow</item>
+        <item>gminagarwolin</item>
+        <item>gminagasawa</item>
+        <item>gminagaszowice</item>
+        <item>gminagawluszowice</item>
+        <item>gminagaworzyce</item>
+        <item>gminagdow</item>
+        <item>gminagielniow</item>
+        <item>gminagieraltowice</item>
+        <item>gminaglogow</item>
+        <item>gminaglogowek</item>
+        <item>gminagluchow</item>
+        <item>gminaglusk</item>
+        <item>gminagluszyca</item>
+        <item>gminagniew</item>
+        <item>gminagniewino</item>
+        <item>gminagniewoszow</item>
+        <item>gminagniezno</item>
+        <item>gminagoczalkowicezdroj</item>
+        <item>gminagodkowo</item>
+        <item>gminagodow</item>
+        <item>gminagodzieszewielkie</item>
+        <item>gminagodziszow</item>
+        <item>gminagolancz</item>
+        <item>gminagolcza</item>
+        <item>gminagoleszow</item>
+        <item>gminagolina</item>
+        <item>gminagolubdobrzyn</item>
+        <item>gminagoluchow</item>
+        <item>gminagomunice</item>
+        <item>gminagoraj</item>
+        <item>gminagorlice</item>
+        <item>gminagorno</item>
+        <item>gminagorzyca</item>
+        <item>gminagoscieradow</item>
+        <item>gminagostyn</item>
+        <item>gminagostynin</item>
+        <item>gminagoszczyn</item>
+        <item>gminagozd</item>
+        <item>gminagrabica</item>
+        <item>gminagrabow</item>
+        <item>gminagrabowiec</item>
+        <item>gminagrabownadpilica</item>
+        <item>gminagrajewo</item>
+        <item>gminagranowo</item>
+        <item>gminagrebocice</item>
+        <item>gminagrebow</item>
+        <item>gminagrodek</item>
+        <item>gminagrodeknaddunajcem</item>
+        <item>gminagrodkow</item>
+        <item>gminagrodziec</item>
+        <item>gminagrojec</item>
+        <item>gminagromadka</item>
+        <item>gminagromnik</item>
+        <item>gminagronowoelblaskie</item>
+        <item>gminagrudziadz</item>
+        <item>gminagruta</item>
+        <item>gminagrybow</item>
+        <item>gminagryfice</item>
+        <item>gminagrzmiaca</item>
+        <item>gminahaczow</item>
+        <item>gminahalinow</item>
+        <item>gminahansk</item>
+        <item>gminaharasiuki</item>
+        <item>gminahazlach</item>
+        <item>gminaherby</item>
+        <item>gminahorodlo</item>
+        <item>gminahrubieszow</item>
+        <item>gminahuszlew</item>
+        <item>gminahyzne</item>
+        <item>gminaiglomniawawrzenczyce</item>
+        <item>gminaimielno</item>
+        <item>gminainowroclaw</item>
+        <item>gminairzadze</item>
+        <item>gminaistebna</item>
+        <item>gminaiwanowice</item>
+        <item>gminaiwierzyce</item>
+        <item>gminaiwoniczzdroj</item>
+        <item>gminaizabelin</item>
+        <item>gminaizbica</item>
+        <item>gminaizbicko</item>
+        <item>gminajablon</item>
+        <item>gminajaktorow</item>
+        <item>gminajakubow</item>
+        <item>gminajanikowo</item>
+        <item>gminajanow</item>
+        <item>gminajanowiec</item>
+        <item>gminajanowpodlaski</item>
+        <item>gminajarczow</item>
+        <item>gminajarocin</item>
+        <item>gminajasienicarosielna</item>
+        <item>gminajasliska</item>
+        <item>gminajaslo</item>
+        <item>gminajastkow</item>
+        <item>gminajastrowie</item>
+        <item>gminajastrzab</item>
+        <item>gminajedlicze</item>
+        <item>gminajejkowice</item>
+        <item>gminajemielnica</item>
+        <item>gminajerzmanowa</item>
+        <item>gminajezewo</item>
+        <item>gminajeziorawielkie</item>
+        <item>gminajeziorzany</item>
+        <item>gminajezowe</item>
+        <item>gminajoniec</item>
+        <item>gminajordanow</item>
+        <item>gminajozefow</item>
+        <item>gminajozefownadwisla</item>
+        <item>gminajutrosin</item>
+        <item>gminakakolewnica</item>
+        <item>gminakamien</item>
+        <item>gminakamienica</item>
+        <item>gminakamiennik</item>
+        <item>gminakamionka</item>
+        <item>gminakampinos</item>
+        <item>gminakarczmiska</item>
+        <item>gminakargowa</item>
+        <item>gminakarlino</item>
+        <item>gminakarniewo</item>
+        <item>gminakaweczyn</item>
+        <item>gminakazimierzbiskupi</item>
+        <item>gminakepice</item>
+        <item>gminakesowo</item>
+        <item>gminakielczyglow</item>
+        <item>gminakietrz</item>
+        <item>gminakikol</item>
+        <item>gminakiszkowo</item>
+        <item>gminakleczew</item>
+        <item>gminaklembow</item>
+        <item>gminakleszczewo</item>
+        <item>gminakleszczow</item>
+        <item>gminaklimontow</item>
+        <item>gminaklobuck</item>
+        <item>gminakloczew</item>
+        <item>gminaklomnice</item>
+        <item>gminaklonowa</item>
+        <item>gminaklucze</item>
+        <item>gminakluczewsko</item>
+        <item>gminakobielewielkie</item>
+        <item>gminakobylanka</item>
+        <item>gminakochanowice</item>
+        <item>gminakock</item>
+        <item>gminakodrab</item>
+        <item>gminakolaczyce</item>
+        <item>gminakolbaskowo</item>
+        <item>gminakolbiel</item>
+        <item>gminakolczyglowy</item>
+        <item>gminakolobrzeg</item>
+        <item>gminakoluszki</item>
+        <item>gminakomancza</item>
+        <item>gminakomarowkapodlaska</item>
+        <item>gminakomorniki</item>
+        <item>gminakomprachcice</item>
+        <item>gminakonarzyny</item>
+        <item>gminakondratowice</item>
+        <item>gminakoneck</item>
+        <item>gminakoniusza</item>
+        <item>gminakonopiska</item>
+        <item>gminakonskowola</item>
+        <item>gminakonstantynow</item>
+        <item>gminakoprzywnica</item>
+        <item>gminakorfantow</item>
+        <item>gminakornik</item>
+        <item>gminakorsze</item>
+        <item>gminakorycin</item>
+        <item>gminakorzenna</item>
+        <item>gminakosakowo</item>
+        <item>gminakoscian</item>
+        <item>gminakoscielec</item>
+        <item>gminakoscierzyna</item>
+        <item>gminakosowlacki</item>
+        <item>gminakostrzyn</item>
+        <item>gminakoszecin</item>
+        <item>gminakotla</item>
+        <item>gminakotun</item>
+        <item>gminakowiesy</item>
+        <item>gminakozieglowy</item>
+        <item>gminakozlow</item>
+        <item>gminakramsk</item>
+        <item>gminakrasniczyn</item>
+        <item>gminakrasnik</item>
+        <item>gminakrasnobrod</item>
+        <item>gminakrasnystaw</item>
+        <item>gminakrasocin</item>
+        <item>gminakrempna</item>
+        <item>gminakrokowa</item>
+        <item>gminakroscienko</item>
+        <item>gminakrosnice</item>
+        <item>gminakrupskimlyn</item>
+        <item>gminakruszwica</item>
+        <item>gminakrynice</item>
+        <item>gminakrynki</item>
+        <item>gminakrzanowice</item>
+        <item>gminakrzemieniewo</item>
+        <item>gminakrzeszow</item>
+        <item>gminakrzymow</item>
+        <item>gminakrzywcza</item>
+        <item>gminakrzywin</item>
+        <item>gminakrzyzanowice</item>
+        <item>gminaksawerow</item>
+        <item>gminaksiazwielki</item>
+        <item>gminakunice</item>
+        <item>gminakunow</item>
+        <item>gminakurow</item>
+        <item>gminakurylowka</item>
+        <item>gminakwidzyn</item>
+        <item>gminakwilcz</item>
+        <item>gminalabowa</item>
+        <item>gminalabunie</item>
+        <item>gminalaczna</item>
+        <item>gminaladek</item>
+        <item>gminalambinowice</item>
+        <item>gminalanckorona</item>
+        <item>gminalancut</item>
+        <item>gminalapanow</item>
+        <item>gminalapszenizne</item>
+        <item>gminalasin</item>
+        <item>gminalaskarzew</item>
+        <item>gminalasowicewielkie</item>
+        <item>gminalaszczow</item>
+        <item>gminalatowicz</item>
+        <item>gminalaziska</item>
+        <item>gminalazy</item>
+        <item>gminaleczyca</item>
+        <item>gminaleczyce</item>
+        <item>gminalegnickiepole</item>
+        <item>gminalekaopatowska</item>
+        <item>gminalelkowo</item>
+        <item>gminalelow</item>
+        <item>gminalesna</item>
+        <item>gminalesnapodlaska</item>
+        <item>gminalesniowice</item>
+        <item>gminalesznowola</item>
+        <item>gminalezajsk</item>
+        <item>gminalichnowy</item>
+        <item>gminalimanowa</item>
+        <item>gminalinia</item>
+        <item>gminaliniewo</item>
+        <item>gminalipiany</item>
+        <item>gminalipinki</item>
+        <item>gminalipnik</item>
+        <item>gminalipowa</item>
+        <item>gminalisiagora</item>
+        <item>gminaliszki</item>
+        <item>gminaliw</item>
+        <item>gminalobez</item>
+        <item>gminalochow</item>
+        <item>gminalodygowice</item>
+        <item>gminalomazy</item>
+        <item>gminalomianki</item>
+        <item>gminaloniow</item>
+        <item>gminalopiennikgorny</item>
+        <item>gminalopuszno</item>
+        <item>gminalosice</item>
+        <item>gminalososinadolna</item>
+        <item>gminaluban</item>
+        <item>gminalubartow</item>
+        <item>gminalubasz</item>
+        <item>gminalubawka</item>
+        <item>gminalubenia</item>
+        <item>gminalubianka</item>
+        <item>gminalubicz</item>
+        <item>gminalubien</item>
+        <item>gminalubiewo</item>
+        <item>gminalubin</item>
+        <item>gminalubniany</item>
+        <item>gminalubochnia</item>
+        <item>gminalubon</item>
+        <item>gminalubsza</item>
+        <item>gminalubyczakrolewska</item>
+        <item>gminalukow</item>
+        <item>gminalukowica</item>
+        <item>gminalutowiska</item>
+        <item>gminalututow</item>
+        <item>gminaluzino</item>
+        <item>gminaluzna</item>
+        <item>gminalysomice</item>
+        <item>gminamaciejowice</item>
+        <item>gminamagnuszew</item>
+        <item>gminamajdankrolewski</item>
+        <item>gminamakowpodhalanski</item>
+        <item>gminamalbork</item>
+        <item>gminamaldyty</item>
+        <item>gminamalkiniagorna</item>
+        <item>gminamarcinowice</item>
+        <item>gminamargonin</item>
+        <item>gminamarianowo</item>
+        <item>gminamarkuszow</item>
+        <item>gminamecinka</item>
+        <item>gminamedyka</item>
+        <item>gminamelgiew</item>
+        <item>gminamichalow</item>
+        <item>gminamiedzianagora</item>
+        <item>gminamiedzna</item>
+        <item>gminamiedzno</item>
+        <item>gminamiedzyborz</item>
+        <item>gminamiedzylesie</item>
+        <item>gminamiedzyrzecpodlaski</item>
+        <item>gminamiedzyzdroje</item>
+        <item>gminamiejscepiastowe</item>
+        <item>gminamiekinia</item>
+        <item>gminamielec</item>
+        <item>gminamieleszyn</item>
+        <item>gminamielno</item>
+        <item>gminamieszkowice</item>
+        <item>gminamilanow</item>
+        <item>gminamilejow</item>
+        <item>gminamilicz</item>
+        <item>gminamilkowice</item>
+        <item>gminamiloradz</item>
+        <item>gminamiloslaw</item>
+        <item>gminamilowka</item>
+        <item>gminaminskmazowiecki</item>
+        <item>gminamirow</item>
+        <item>gminamirsk</item>
+        <item>gminamlynary</item>
+        <item>gminamodliborzyce</item>
+        <item>gminamogielnica</item>
+        <item>gminamogilany</item>
+        <item>gminamogilno</item>
+        <item>gminamorawica</item>
+        <item>gminamordy</item>
+        <item>gminamoryn</item>
+        <item>gminamrocza</item>
+        <item>gminamrozy</item>
+        <item>gminamsciwojow</item>
+        <item>gminamstow</item>
+        <item>gminamszana</item>
+        <item>gminamszanadolna</item>
+        <item>gminamurow</item>
+        <item>gminamycielin</item>
+        <item>gminamykanow</item>
+        <item>gminamysliborz</item>
+        <item>gminanamyslow</item>
+        <item>gminanasielsk</item>
+        <item>gminanawojowa</item>
+        <item>gminanedza</item>
+        <item>gminanekla</item>
+        <item>gminaniebylec</item>
+        <item>gminaniechlow</item>
+        <item>gminaniedrzwicaduza</item>
+        <item>gminaniedzwiada</item>
+        <item>gminaniedzwiedz</item>
+        <item>gminanowakarczma</item>
+        <item>gminanowaruda</item>
+        <item>gminanowawiesleborska</item>
+        <item>gminanowe</item>
+        <item>gminanowemiasto</item>
+        <item>gminanowemiastonadwarta</item>
+        <item>gminanowogrod</item>
+        <item>gminanowosolna</item>
+        <item>gminanowykaweczyn</item>
+        <item>gminanowykorczyn</item>
+        <item>gminanowystaw</item>
+        <item>gminanowyswisnicz</item>
+        <item>gminanowytarg</item>
+        <item>gminanowytomysl</item>
+        <item>gminanozdrzec</item>
+        <item>gminanur</item>
+        <item>gminaobrazow</item>
+        <item>gminaochotnicadolna</item>
+        <item>gminaogrodzieniec</item>
+        <item>gminaolszanica</item>
+        <item>gminaolsztynek</item>
+        <item>gminaolszyna</item>
+        <item>gminaopatowiec</item>
+        <item>gminaorneta</item>
+        <item>gminaorochowo</item>
+        <item>gminaosieczna</item>
+        <item>gminaosiek</item>
+        <item>gminaosiekjasielski</item>
+        <item>gminaosiekmaly</item>
+        <item>gminaosielsko</item>
+        <item>gminaosina</item>
+        <item>gminaosjakow</item>
+        <item>gminaostrorog</item>
+        <item>gminaostrow</item>
+        <item>gminaostrowek</item>
+        <item>gminaostrowlubelski</item>
+        <item>gminaostrowmazowiecka</item>
+        <item>gminaostrowwielkopolski</item>
+        <item>gminaotmuchow</item>
+        <item>gminaotyn</item>
+        <item>gminaozarow</item>
+        <item>gminaozarowice</item>
+        <item>gminaozimek</item>
+        <item>gminaozorkow</item>
+        <item>gminapabianice</item>
+        <item>gminapacanow</item>
+        <item>gminapacyna</item>
+        <item>gminapaczkow</item>
+        <item>gminapadewnarodowa</item>
+        <item>gminapakoslaw</item>
+        <item>gminapakoslawice</item>
+        <item>gminapalecznica</item>
+        <item>gminapanki</item>
+        <item>gminaparchowo</item>
+        <item>gminaparczew</item>
+        <item>gminapaslek</item>
+        <item>gminapatnow</item>
+        <item>gminapawlowice</item>
+        <item>gminapawlowiczki</item>
+        <item>gminapawonkow</item>
+        <item>gminapeclaw</item>
+        <item>gminapelplin</item>
+        <item>gminapepowo</item>
+        <item>gminapiaski</item>
+        <item>gminapiatnica</item>
+        <item>gminapiekoszow</item>
+        <item>gminapieniezno</item>
+        <item>gminapietrowicewlk</item>
+        <item>gminapilchowice</item>
+        <item>gminapilelgrzymka</item>
+        <item>gminapinczow</item>
+        <item>gminapionki</item>
+        <item>gminapiszac</item>
+        <item>gminaplaska</item>
+        <item>gminaplaterowka</item>
+        <item>gminaplesna</item>
+        <item>gminapleszew</item>
+        <item>gminaplonsk</item>
+        <item>gminaplosnica</item>
+        <item>gminapoczesna</item>
+        <item>gminapodedworze</item>
+        <item>gminapodegrodzie</item>
+        <item>gminapodgorzyn</item>
+        <item>gminapokoj</item>
+        <item>gminapolajewo</item>
+        <item>gminapolaniec</item>
+        <item>gminapolankawielka</item>
+        <item>gminapolanow</item>
+        <item>gminapolice</item>
+        <item>gminapolkowice</item>
+        <item>gminapomiechowek</item>
+        <item>gminaponiatowa</item>
+        <item>gminapopielow</item>
+        <item>gminapopow</item>
+        <item>gminapotegowo</item>
+        <item>gminapotokwielki</item>
+        <item>gminapradyz</item>
+        <item>gminapraszka</item>
+        <item>gminaprochowice</item>
+        <item>gminapromna</item>
+        <item>gminaproszkow</item>
+        <item>gminaprusice</item>
+        <item>gminapruszczgdanski</item>
+        <item>gminaprzechlewo</item>
+        <item>gminaprzeclaw</item>
+        <item>gminaprzedecz</item>
+        <item>gminaprzemet</item>
+        <item>gminaprzemkow</item>
+        <item>gminaprzemysl</item>
+        <item>gminaprzeworsk</item>
+        <item>gminaprzodkowo</item>
+        <item>gminaprzykona</item>
+        <item>gminaprzylek</item>
+        <item>gminaprzyrow</item>
+        <item>gminaprzystajn</item>
+        <item>gminaprzytoczna</item>
+        <item>gminapuchaczow</item>
+        <item>gminapuck</item>
+        <item>gminapulawy</item>
+        <item>gminapurda</item>
+        <item>gminapuszczamarianska</item>
+        <item>gminapysznica</item>
+        <item>gminapyzdry</item>
+        <item>gminarabawyzna</item>
+        <item>gminarachanie</item>
+        <item>gminaraciechowice</item>
+        <item>gminaradgoszcz</item>
+        <item>gminaradkow</item>
+        <item>gminaradlow</item>
+        <item>gminaradomin</item>
+        <item>gminaradomsko</item>
+        <item>gminaradomyslnadsanem</item>
+        <item>gminaradoszyce</item>
+        <item>gminaradwanice</item>
+        <item>gminaradymno</item>
+        <item>gminaradziejow</item>
+        <item>gminaradzilow</item>
+        <item>gminarajgrod</item>
+        <item>gminarakow</item>
+        <item>gminarakszawa</item>
+        <item>gminarawamazowiecka</item>
+        <item>gminaregnow</item>
+        <item>gminarenskawies</item>
+        <item>gminarogozno</item>
+        <item>gminarokitno</item>
+        <item>gminaropa</item>
+        <item>gminarossosz</item>
+        <item>gminarozprza</item>
+        <item>gminarucianenida</item>
+        <item>gminarudahuta</item>
+        <item>gminarudna</item>
+        <item>gminarudniki</item>
+        <item>gminarudniknadsanem</item>
+        <item>gminarudziniec</item>
+        <item>gminarusiec</item>
+        <item>gminarusinow</item>
+        <item>gminarybczewice</item>
+        <item>gminarychliki</item>
+        <item>gminarychtal</item>
+        <item>gminaryczywol</item>
+        <item>gminaryki</item>
+        <item>gminarypin</item>
+        <item>gminarytro</item>
+        <item>gminarytwiany</item>
+        <item>gminarzeczyca</item>
+        <item>gminarzepiennikstrzyzewski</item>
+        <item>gminarzepin</item>
+        <item>gminarzezawa</item>
+        <item>gminarzgow</item>
+        <item>gminasadki</item>
+        <item>gminasadowne</item>
+        <item>gminasamborzec</item>
+        <item>gminasanok</item>
+        <item>gminasawin</item>
+        <item>gminascinawa</item>
+        <item>gminasecemin</item>
+        <item>gminasedziejowice</item>
+        <item>gminasejny</item>
+        <item>gminasekowa</item>
+        <item>gminasepopol</item>
+        <item>gminaserokomla</item>
+        <item>gminasianow</item>
+        <item>gminasicienko</item>
+        <item>gminasieciechow</item>
+        <item>gminasiedlce</item>
+        <item>gminasiedliszcze</item>
+        <item>gminasiemiatycze</item>
+        <item>gminasiemien</item>
+        <item>gminasiemysl</item>
+        <item>gminasiennica</item>
+        <item>gminasiennicarozana</item>
+        <item>gminasienno</item>
+        <item>gminasiepraw</item>
+        <item>gminasieradz</item>
+        <item>gminasierakow</item>
+        <item>gminasierakowice</item>
+        <item>gminasiewierz</item>
+        <item>gminasitkowkanowiny</item>
+        <item>gminasitno</item>
+        <item>gminaskarzyskokoscielne</item>
+        <item>gminaskepe</item>
+        <item>gminaskierbieszow</item>
+        <item>gminaskierniewice</item>
+        <item>gminaskoczow</item>
+        <item>gminaskoki</item>
+        <item>gminaskolyszyn</item>
+        <item>gminaskrwilno</item>
+        <item>gminaskrzyszow</item>
+        <item>gminaskulsk</item>
+        <item>gminaskwierzyna</item>
+        <item>gminaslawa</item>
+        <item>gminasliwice</item>
+        <item>gminaslopnice</item>
+        <item>gminaslubice</item>
+        <item>gminaslupca</item>
+        <item>gminaslupia</item>
+        <item>gminaslupiakonecka</item>
+        <item>gminasmigiel</item>
+        <item>gminasobieniejeziory</item>
+        <item>gminasobolew</item>
+        <item>gminasobotka</item>
+        <item>gminasokolka</item>
+        <item>gminasolina</item>
+        <item>gminasomonino</item>
+        <item>gminasosnicowice</item>
+        <item>gminasosnie</item>
+        <item>gminasosno</item>
+        <item>gminaspiczyn</item>
+        <item>gminastalowawola</item>
+        <item>gminastanislawow</item>
+        <item>gminastarabiala</item>
+        <item>gminastarakamienica</item>
+        <item>gminastarakornica</item>
+        <item>gminastarebabice</item>
+        <item>gminastaremiasto</item>
+        <item>gminastarepole</item>
+        <item>gminastarogardgdanski</item>
+        <item>gminastarybrus</item>
+        <item>gminastarydzierzgon</item>
+        <item>gminastarytarg</item>
+        <item>gminastawiszyn</item>
+        <item>gminastepnica</item>
+        <item>gminastoczeklukowski</item>
+        <item>gminastopnica</item>
+        <item>gminastrawczyn</item>
+        <item>gminastromiec</item>
+        <item>gminastrykow</item>
+        <item>gminastryszawa</item>
+        <item>gminastryszow</item>
+        <item>gminastrzalkowo</item>
+        <item>gminastrzelceopolskie</item>
+        <item>gminastrzelceopolskie2</item>
+        <item>gminastrzelin</item>
+        <item>gminastrzelno</item>
+        <item>gminastrzyzewice</item>
+        <item>gminastupsk</item>
+        <item>gminasubkowy</item>
+        <item>gminasuchan</item>
+        <item>gminasuchedniow</item>
+        <item>gminasuchozebry</item>
+        <item>gminasuchylas</item>
+        <item>gminasulechow</item>
+        <item>gminasulecin</item>
+        <item>gminasulejow</item>
+        <item>gminasulikow</item>
+        <item>gminasulmierzyce</item>
+        <item>gminasulow</item>
+        <item>gminasusiec</item>
+        <item>gminaswiercze</item>
+        <item>gminaswierczow</item>
+        <item>gminaswierklany</item>
+        <item>gminaswierzawa</item>
+        <item>gminaswieszyno</item>
+        <item>gminaswilcza</item>
+        <item>gminaszadek</item>
+        <item>gminaszaflary</item>
+        <item>gminaszastarka</item>
+        <item>gminaszczawinkoscielny</item>
+        <item>gminaszczebrzeszyn</item>
+        <item>gminaszczekociny</item>
+        <item>gminaszczercow</item>
+        <item>gminaszczytna</item>
+        <item>gminaszczytniki</item>
+        <item>gminaszczytno</item>
+        <item>gminaszerzyny</item>
+        <item>gminaszlichtyngowa</item>
+        <item>gminaszrensk</item>
+        <item>gminaszudzialowo</item>
+        <item>gminaszydlow</item>
+        <item>gminatarlow</item>
+        <item>gminatarnow</item>
+        <item>gminatarnowiec</item>
+        <item>gminatarnowopolski</item>
+        <item>gminatarnowopolski2</item>
+        <item>gminateresin</item>
+        <item>gminatereszpol</item>
+        <item>gminatluchowo</item>
+        <item>gminatluszcz</item>
+        <item>gminatokarnia</item>
+        <item>gminatomaszowlubelski</item>
+        <item>gminatomice</item>
+        <item>gminatoszek</item>
+        <item>gminatrabkiwielkie</item>
+        <item>gminatrzebiatow</item>
+        <item>gminatrzebielino</item>
+        <item>gminatrzebinia</item>
+        <item>gminatrzyciaz</item>
+        <item>gminatrzydnikduzy</item>
+        <item>gminatuchow</item>
+        <item>gminatulowice</item>
+        <item>gminaturosnkoscielna</item>
+        <item>gminatuszownarodowy</item>
+        <item>gminatworog</item>
+        <item>gminatyczyn</item>
+        <item>gminatymbark</item>
+        <item>gminatyrawawoloska</item>
+        <item>gminauchanie</item>
+        <item>gminaujazd</item>
+        <item>gminaujazdpsp</item>
+        <item>gminaulanmajorat</item>
+        <item>gminaulanow</item>
+        <item>gminaulez</item>
+        <item>gminaulhowek</item>
+        <item>gminaurszulin</item>
+        <item>gminaurzedow</item>
+        <item>gminausciegorlickie</item>
+        <item>gminauscimow</item>
+        <item>gminawachock</item>
+        <item>gminawadrozewielkie</item>
+        <item>gminawagrowiec</item>
+        <item>gminawalce</item>
+        <item>gminawapielsk</item>
+        <item>gminawasilkow</item>
+        <item>gminawasosz</item>
+        <item>gminawawolnica</item>
+        <item>gminawejherowo</item>
+        <item>gminawerbkowice</item>
+        <item>gminawiazow</item>
+        <item>gminawiazowna</item>
+        <item>gminawicko</item>
+        <item>gminawiduchowa</item>
+        <item>gminawielbark</item>
+        <item>gminawielen</item>
+        <item>gminawielgie</item>
+        <item>gminawielgomlyny</item>
+        <item>gminawieliszew</item>
+        <item>gminawielkanieszawka</item>
+        <item>gminawielopoleskrzynskie</item>
+        <item>gminawieniawa</item>
+        <item>gminawieprz</item>
+        <item>gminawieruszow</item>
+        <item>gminawierzbinek</item>
+        <item>gminawierzbno</item>
+        <item>gminawierzchlas</item>
+        <item>gminawierzchoslawice</item>
+        <item>gminawietrzychowice</item>
+        <item>gminawijewo</item>
+        <item>gminawilczyce</item>
+        <item>gminawilczyn</item>
+        <item>gminawilkolaz</item>
+        <item>gminawilkow</item>
+        <item>gminawilkowice</item>
+        <item>gminawinnica</item>
+        <item>gminawinsko</item>
+        <item>gminawiskitki</item>
+        <item>gminawiszniamala</item>
+        <item>gminawisznice</item>
+        <item>gminawitkowo</item>
+        <item>gminawladyslawow</item>
+        <item>gminawlen</item>
+        <item>gminawloclawek</item>
+        <item>gminawlodawa</item>
+        <item>gminawloszczowa</item>
+        <item>gminawodzierady</item>
+        <item>gminawodzislaw</item>
+        <item>gminawojcieszkow</item>
+        <item>gminawojnicz</item>
+        <item>gminawojslawice</item>
+        <item>gminawolakrzysztoporska</item>
+        <item>gminawolanow</item>
+        <item>gminawolbrom</item>
+        <item>gminawolczyn</item>
+        <item>gminawolomin</item>
+        <item>gminawolow</item>
+        <item>gminawolsztyn</item>
+        <item>gminawreczycawielka</item>
+        <item>gminawronki</item>
+        <item>gminawyrki</item>
+        <item>gminawyrzysk</item>
+        <item>gminawysokie</item>
+        <item>gminazabno</item>
+        <item>gminazagan</item>
+        <item>gminazagorow</item>
+        <item>gminazaklikow</item>
+        <item>gminazakroczym</item>
+        <item>gminazakrzowek</item>
+        <item>gminazalesie</item>
+        <item>gminazaleszany</item>
+        <item>gminazaluski</item>
+        <item>gminazamosc</item>
+        <item>gminazarnow</item>
+        <item>gminazarnowiec</item>
+        <item>gminazarow</item>
+        <item>gminazarszyn</item>
+        <item>gminazator</item>
+        <item>gminazawadzkie</item>
+        <item>gminazawichost</item>
+        <item>gminazawonia</item>
+        <item>gminazbaszyn</item>
+        <item>gminazbojno</item>
+        <item>gminazbroslawice</item>
+        <item>gminazdunskawola</item>
+        <item>gminazdzieszowice</item>
+        <item>gminazebowice</item>
+        <item>gminazebrzydowice</item>
+        <item>gminazegocina</item>
+        <item>gminazelazkow</item>
+        <item>gminazembrzyce</item>
+        <item>gminazgierz</item>
+        <item>gminazgorzelec</item>
+        <item>gminaziebice</item>
+        <item>gminazielonki</item>
+        <item>gminazlawieswielka</item>
+        <item>gminazlota</item>
+        <item>gminazlotnikikujawskie</item>
+        <item>gminazmudz</item>
+        <item>gminaznin</item>
+        <item>gminazolkiewka</item>
+        <item>gminazolynia</item>
+        <item>gminazukowice</item>
+        <item>gminazurawica</item>
+        <item>gminazychlin</item>
+        <item>gminazyrakow</item>
+        <item>gminazyrzyn</item>
+        <item>gminazytno</item>
+        <item>gniezno</item>
+        <item>goleniow</item>
+        <item>golubdobrzyn</item>
+        <item>gora</item>
+        <item>gorakalwaria</item>
+        <item>gorlice</item>
+        <item>gorzno</item>
+        <item>gorzowslaski</item>
+        <item>gorzowwielkopolski</item>
+        <item>gorzycepowiattarnobrzeski</item>
+        <item>gostynin</item>
+        <item>grajewo</item>
+        <item>grodziskmazowiecki</item>
+        <item>grodziskwielkopolski</item>
+        <item>grudziadz</item>
+        <item>grybow</item>
+        <item>gryfino</item>
+        <item>gryfowslaski</item>
+        <item>hel</item>
+        <item>hrubieszow</item>
+        <item>inowroclaw</item>
+        <item>irtarnow</item>
+        <item>izbicakujawska</item>
+        <item>jablonnapowiatlegionowski</item>
+        <item>jablonnapowiatlubelski</item>
+        <item>jablonowopomorskie</item>
+        <item>janowiecwielkopolski</item>
+        <item>janowlubelski</item>
+        <item>janowpowiatsokolski</item>
+        <item>jarocin</item>
+        <item>jaroslaw</item>
+        <item>jaslo</item>
+        <item>jastrzebiezdroj</item>
+        <item>jawor</item>
+        <item>jedlinazdroj</item>
+        <item>jelczlaskowice</item>
+        <item>jeleniagora</item>
+        <item>jordanow</item>
+        <item>jozefow</item>
+        <item>kalety</item>
+        <item>kalisz</item>
+        <item>kalwariazebrzydowska</item>
+        <item>kamienkrajenski</item>
+        <item>kanczuga</item>
+        <item>karczew</item>
+        <item>kartuzy</item>
+        <item>katowice</item>
+        <item>katywroclawskie</item>
+        <item>kazimierzdolny</item>
+        <item>kcynia</item>
+        <item>kedzierzynkozle</item>
+        <item>kepno</item>
+        <item>ketrzyn</item>
+        <item>kielce</item>
+        <item>klodawa</item>
+        <item>klodzko</item>
+        <item>kluczbork</item>
+        <item>knurow</item>
+        <item>kobylka</item>
+        <item>kolo</item>
+        <item>kolobrzeg</item>
+        <item>koniecpol</item>
+        <item>konin</item>
+        <item>konopnicapowiatlubelski</item>
+        <item>konstancinjeziorna</item>
+        <item>konstantynowlodzki</item>
+        <item>koronowo</item>
+        <item>koscian</item>
+        <item>koscierzyna</item>
+        <item>kostrzynnadodra</item>
+        <item>koszalin</item>
+        <item>kowal</item>
+        <item>kowalewopomorskie</item>
+        <item>kowary</item>
+        <item>kozienice</item>
+        <item>krakow</item>
+        <item>krapkowice</item>
+        <item>krasnik</item>
+        <item>krasnystaw</item>
+        <item>krobia</item>
+        <item>krosniewice</item>
+        <item>krosno</item>
+        <item>krotoszyce</item>
+        <item>krotoszyn</item>
+        <item>krynica</item>
+        <item>krzeszowice</item>
+        <item>krzyzwielkopolski</item>
+        <item>ksiazwielkopolski</item>
+        <item>kujawskopomorskie</item>
+        <item>kutno</item>
+        <item>kuzniaraciborska</item>
+        <item>kwidzyn</item>
+        <item>labiszyn</item>
+        <item>ladekzdroj</item>
+        <item>lancut</item>
+        <item>lapy</item>
+        <item>lask</item>
+        <item>laskarzew</item>
+        <item>leba</item>
+        <item>lebork</item>
+        <item>leczna</item>
+        <item>ledziny</item>
+        <item>legionowo</item>
+        <item>legnica</item>
+        <item>lesnicaopolska</item>
+        <item>leszno</item>
+        <item>lewinbrzeski</item>
+        <item>lewinbrzeski2</item>
+        <item>lezajsk</item>
+        <item>limanowa</item>
+        <item>lipno</item>
+        <item>lipnopowiatlipnowski</item>
+        <item>lodz</item>
+        <item>lodzkie</item>
+        <item>lowicz</item>
+        <item>luban</item>
+        <item>lubartow</item>
+        <item>lubelskie</item>
+        <item>lubienkujawski</item>
+        <item>lubin</item>
+        <item>lublin</item>
+        <item>lubliniec</item>
+        <item>lubnicepowiatstaszowski</item>
+        <item>lubuskie</item>
+        <item>lukow</item>
+        <item>lwowecki</item>
+        <item>lwowekslaski</item>
+        <item>malbork</item>
+        <item>malopolskie</item>
+        <item>marki</item>
+        <item>maszewopowiatgoleniowski</item>
+        <item>mazowieckie</item>
+        <item>men</item>
+        <item>miastotorun</item>
+        <item>michalowice</item>
+        <item>miechow</item>
+        <item>miedzyrzecpodlaski</item>
+        <item>miejskagorka</item>
+        <item>mielec</item>
+        <item>milanowek</item>
+        <item>minrol</item>
+        <item>minskmazowiecki</item>
+        <item>mkdn</item>
+        <item>mniszkow</item>
+        <item>mnsw</item>
+        <item>mon</item>
+        <item>mos</item>
+        <item>mosina</item>
+        <item>moszczenicapowiatgorlicki</item>
+        <item>moszczenicapowiatpiotrkowski</item>
+        <item>mragowo</item>
+        <item>mragowski</item>
+        <item>ms</item>
+        <item>msw</item>
+        <item>mszanadolna</item>
+        <item>mszczonow</item>
+        <item>muszyna</item>
+        <item>myslowice</item>
+        <item>myszkow</item>
+        <item>naklonadnotecia</item>
+        <item>niemodlin</item>
+        <item>niepolomice</item>
+        <item>nisko</item>
+        <item>nowadeba</item>
+        <item>nowasarzyna</item>
+        <item>nowasol</item>
+        <item>nowemiasteczko</item>
+        <item>noweskalmierzyce</item>
+        <item>nowogard</item>
+        <item>nowogrodbobrzanski</item>
+        <item>nowogrodziec</item>
+        <item>nowydwormazowiecki</item>
+        <item>nowysacz</item>
+        <item>nowytarg</item>
+        <item>nowyzmigrod</item>
+        <item>nysa</item>
+        <item>obornikislaskie</item>
+        <item>obornikiwielkopolskie</item>
+        <item>obrzycko</item>
+        <item>olesnicapowiatolesnicki</item>
+        <item>olesnicapowiatstaszowski</item>
+        <item>olesnopowiatdabrowski</item>
+        <item>olesnopowiatoleski</item>
+        <item>olkusz</item>
+        <item>olszankapowiatbrzeski</item>
+        <item>olsztyn</item>
+        <item>opatowpowiatklobucki</item>
+        <item>opatowpowiatopatowski</item>
+        <item>opinogoragorna</item>
+        <item>opoczno</item>
+        <item>opole</item>
+        <item>opolelubelskie</item>
+        <item>opolskie</item>
+        <item>orzesze</item>
+        <item>osieczna</item>
+        <item>osiecznica</item>
+        <item>osiekpowiatstarogardzki</item>
+        <item>ostroda</item>
+        <item>ostroleka</item>
+        <item>ostrowiecsw</item>
+        <item>ostrowwielkopolski</item>
+        <item>oswiecim</item>
+        <item>otwock</item>
+        <item>ozarowmazowiecki</item>
+        <item>ozorkow</item>
+        <item>pabianice</item>
+        <item>piaseczno</item>
+        <item>piaski</item>
+        <item>piastow</item>
+        <item>piechowice</item>
+        <item>piekaryslaskie</item>
+        <item>piensk</item>
+        <item>pila</item>
+        <item>pilzno</item>
+        <item>piotrkowtrybunalski</item>
+        <item>pisz</item>
+        <item>piwniczna</item>
+        <item>plock</item>
+        <item>plonsk</item>
+        <item>pniewy</item>
+        <item>pobiedziska</item>
+        <item>podkarpackie</item>
+        <item>podkowalesna</item>
+        <item>podlaskie</item>
+        <item>polczynzdroj</item>
+        <item>pomorskie</item>
+        <item>poniec</item>
+        <item>poreba</item>
+        <item>poswietnepowiatopoczynski</item>
+        <item>poswietnepowiatwolominski</item>
+        <item>powiataleksandrowski</item>
+        <item>powiataugustowski</item>
+        <item>powiatbedzinski</item>
+        <item>powiatbelchatowski</item>
+        <item>powiatbialostocki</item>
+        <item>powiatbialski</item>
+        <item>powiatbielski</item>
+        <item>powiatbieszczadzki</item>
+        <item>powiatbilgorajski</item>
+        <item>powiatbochenski</item>
+        <item>powiatboleslawiecki</item>
+        <item>powiatbraniewski</item>
+        <item>powiatbrodnicki</item>
+        <item>powiatbrzeski</item>
+        <item>powiatbrzezinski</item>
+        <item>powiatbrzozowski</item>
+        <item>powiatbuski</item>
+        <item>powiatbydgoski</item>
+        <item>powiatchelminski</item>
+        <item>powiatchelmski</item>
+        <item>powiatchodzieski</item>
+        <item>powiatchojnicki</item>
+        <item>powiatchrzanowski</item>
+        <item>powiatciechanowski</item>
+        <item>powiatcieszynski</item>
+        <item>powiatczarnkowskotrzcianecki</item>
+        <item>powiatczestochowski</item>
+        <item>powiatczluchowski</item>
+        <item>powiatdabrowski</item>
+        <item>powiatdebicki</item>
+        <item>powiatdrawski</item>
+        <item>powiatdzialdowski</item>
+        <item>powiatdzierzoniowski</item>
+        <item>powiatelblaski</item>
+        <item>powiatelcki</item>
+        <item>powiatgarwolinski</item>
+        <item>powiatgdanski</item>
+        <item>powiatgizycki</item>
+        <item>powiatgliwicki</item>
+        <item>powiatglogowski</item>
+        <item>powiatglubczycki</item>
+        <item>powiatgnieznienski</item>
+        <item>powiatgoldapski</item>
+        <item>powiatgoleniowski</item>
+        <item>powiatgolubskodobrzynski</item>
+        <item>powiatgorlicki</item>
+        <item>powiatgorowski</item>
+        <item>powiatgorzowski</item>
+        <item>powiatgostynski</item>
+        <item>powiatgrajewski</item>
+        <item>powiatgrodziskimazowieckie</item>
+        <item>powiatgrodziskiwielkopolskie</item>
+        <item>powiatgrojecki</item>
+        <item>powiatgryficki</item>
+        <item>powiatgryfinski</item>
+        <item>powiathajnowski</item>
+        <item>powiathrubieszowski</item>
+        <item>powiatilawski</item>
+        <item>powiatinowroclawski</item>
+        <item>powiatjanowski</item>
+        <item>powiatjarocinski</item>
+        <item>powiatjaroslawski</item>
+        <item>powiatjasielski</item>
+        <item>powiatjaworski</item>
+        <item>powiatjedrzejowski</item>
+        <item>powiatjeleniogorski</item>
+        <item>powiatkaliski</item>
+        <item>powiatkamiennogorski</item>
+        <item>powiatkamienski</item>
+        <item>powiatkartuski</item>
+        <item>powiatkazimierski</item>
+        <item>powiatkedzierzynskokozielski</item>
+        <item>powiatkepinski</item>
+        <item>powiatketrzynski</item>
+        <item>powiatkielecki</item>
+        <item>powiatklobucki</item>
+        <item>powiatklodzki</item>
+        <item>powiatkluczborski</item>
+        <item>powiatkolobrzeski</item>
+        <item>powiatkolski</item>
+        <item>powiatkonecki</item>
+        <item>powiatkoninski</item>
+        <item>powiatkoscianski</item>
+        <item>powiatkoscierski</item>
+        <item>powiatkozienicki</item>
+        <item>powiatkrakowski</item>
+        <item>powiatkrapkowicki</item>
+        <item>powiatkrasnicki</item>
+        <item>powiatkrasnostawski</item>
+        <item>powiatkrosnienski</item>
+        <item>powiatkrotoszynski</item>
+        <item>powiatkutnowski</item>
+        <item>powiatlancucki</item>
+        <item>powiatlaski</item>
+        <item>powiatleborski</item>
+        <item>powiatleczycki</item>
+        <item>powiatleczynski</item>
+        <item>powiatlegnicki</item>
+        <item>powiatleski</item>
+        <item>powiatleszczynski</item>
+        <item>powiatlezajski</item>
+        <item>powiatlidzbarski</item>
+        <item>powiatlimanowski</item>
+        <item>powiatlipnowski</item>
+        <item>powiatlipski</item>
+        <item>powiatlobeski</item>
+        <item>powiatlodzkiwschodni</item>
+        <item>powiatlosicki</item>
+        <item>powiatlowicki</item>
+        <item>powiatlubaczowski</item>
+        <item>powiatlubanski</item>
+        <item>powiatlubartowski</item>
+        <item>powiatlubelski</item>
+        <item>powiatlubinski</item>
+        <item>powiatlubliniecki</item>
+        <item>powiatlukowski</item>
+        <item>powiatmakowski</item>
+        <item>powiatmalborski</item>
+        <item>powiatmiechowski</item>
+        <item>powiatmiedzyrzecki</item>
+        <item>powiatmielecki</item>
+        <item>powiatmikolowski</item>
+        <item>powiatmilicki</item>
+        <item>powiatminski</item>
+        <item>powiatmogilenski</item>
+        <item>powiatmoniecki</item>
+        <item>powiatmyslenicki</item>
+        <item>powiatmyszkowski</item>
+        <item>powiatnakielski</item>
+        <item>powiatnamyslowski</item>
+        <item>powiatnidzicki</item>
+        <item>powiatnizanski</item>
+        <item>powiatnowodworski</item>
+        <item>powiatnowomiejski</item>
+        <item>powiatnowosadecki</item>
+        <item>powiatnowosolski</item>
+        <item>powiatnowotarski</item>
+        <item>powiatnowotomyski</item>
+        <item>powiatnyski</item>
+        <item>powiatobornicki</item>
+        <item>powiatolawski</item>
+        <item>powiatolecki</item>
+        <item>powiatoleski</item>
+        <item>powiatolesnicki</item>
+        <item>powiatolkuski</item>
+        <item>powiatolsztynski</item>
+        <item>powiatopatowski</item>
+        <item>powiatopoczynski</item>
+        <item>powiatopolelubelskie</item>
+        <item>powiatopolski</item>
+        <item>powiatopolski2</item>
+        <item>powiatostrodzki</item>
+        <item>powiatostrowiecki</item>
+        <item>powiatostrzeszowski</item>
+        <item>powiatoswiecimski</item>
+        <item>powiatostrowskimazowieckie</item>
+        <item>powiatotwocki</item>
+        <item>powiatpabianicki</item>
+        <item>powiatpiaseczynski</item>
+        <item>powiatpilski</item>
+        <item>powiatpinczowski</item>
+        <item>powiatpiotrkowski</item>
+        <item>powiatpiskiwarminskomazurskie</item>
+        <item>powiatpleszewski</item>
+        <item>powiatplocki</item>
+        <item>powiatplonski</item>
+        <item>powiatpoddebicki</item>
+        <item>powiatpolicki</item>
+        <item>powiatpolkowicki</item>
+        <item>powiatpoznanski</item>
+        <item>powiatproszowicki</item>
+        <item>powiatprudnicki</item>
+        <item>powiatpruszkowski</item>
+        <item>powiatprzemyski</item>
+        <item>powiatprzeworski</item>
+        <item>powiatprzysuski</item>
+        <item>powiatpszczynski</item>
+        <item>powiatpucki</item>
+        <item>powiatpulawski</item>
+        <item>powiatpultuski</item>
+        <item>powiatpyrzycki</item>
+        <item>powiatraciborski</item>
+        <item>powiatradomski</item>
+        <item>powiatradomszczanski</item>
+        <item>powiatradziejowski</item>
+        <item>powiatradzynski</item>
+        <item>powiatrawicki</item>
+        <item>powiatrawski</item>
+        <item>powiatropczyckosedziszowski</item>
+        <item>powiatrybnicki</item>
+        <item>powiatrycki</item>
+        <item>powiatrypinski</item>
+        <item>powiatrzeszowski</item>
+        <item>powiatsandomierski</item>
+        <item>powiatsanocki</item>
+        <item>powiatsejnenski</item>
+        <item>powiatsepolenski</item>
+        <item>powiatsiedlecki</item>
+        <item>powiatsiemiatycki</item>
+        <item>powiatsieradzki</item>
+        <item>powiatsierpecki</item>
+        <item>powiatskarzyski</item>
+        <item>powiatskierniewicki</item>
+        <item>powiatslubicki</item>
+        <item>powiatslupecki</item>
+        <item>powiatslupski</item>
+        <item>powiatsochaczewski</item>
+        <item>powiatsokolowski</item>
+        <item>powiatsokolski</item>
+        <item>powiatsredzki</item>
+        <item>powiatsremski</item>
+        <item>powiatstalowowolski</item>
+        <item>powiatstarachowicki</item>
+        <item>powiatstargardzki</item>
+        <item>powiatstarogardzki</item>
+        <item>powiatstaszowski</item>
+        <item>powiatstrzelecki</item>
+        <item>powiatstrzelinski</item>
+        <item>powiatstrzyzowski</item>
+        <item>powiatsuski</item>
+        <item>powiatswidnicki</item>
+        <item>powiatswidwinski</item>
+        <item>powiatswidnickiwswidniku</item>
+        <item>powiatswiebodzinski</item>
+        <item>powiatswiecki</item>
+        <item>powiatszamotulski</item>
+        <item>powiatszczycienski</item>
+        <item>powiatsztumski</item>
+        <item>powiatszydlowiecki</item>
+        <item>powiattarnobrzeski</item>
+        <item>powiattarnogorski</item>
+        <item>powiattarnowski</item>
+        <item>powiattatrzanski</item>
+        <item>powiattczewski</item>
+        <item>powiattomaszowski</item>
+        <item>powiattomaszowskilubelskie</item>
+        <item>powiattorunski</item>
+        <item>powiattrzebnicki</item>
+        <item>powiattucholski</item>
+        <item>powiatturecki</item>
+        <item>powiatwadowicki</item>
+        <item>powiatwagrowiecki</item>
+        <item>powiatwalecki</item>
+        <item>powiatwarszawskizachodni</item>
+        <item>powiatwegorzewski</item>
+        <item>powiatwegrowski</item>
+        <item>powiatwejherowski</item>
+        <item>powiatwielicki</item>
+        <item>powiatwielunski</item>
+        <item>powiatwieruszowski</item>
+        <item>powiatwloclawski</item>
+        <item>powiatwlodawski</item>
+        <item>powiatwloszczowski</item>
+        <item>powiatwodzislawski</item>
+        <item>powiatwolominski</item>
+        <item>powiatwolowski</item>
+        <item>powiatwolsztynski</item>
+        <item>powiatwroclawski</item>
+        <item>powiatwrzesinski</item>
+        <item>powiatwschowski</item>
+        <item>powiatwysokomazowiecki</item>
+        <item>powiatwyszkowski</item>
+        <item>powiatzabkowicki</item>
+        <item>powiatzaganski</item>
+        <item>powiatzamojski</item>
+        <item>powiatzarski</item>
+        <item>powiatzawiercianski</item>
+        <item>powiatzdunskowolski</item>
+        <item>powiatzgierski</item>
+        <item>powiatzgorzelecki</item>
+        <item>powiatzielonogorski</item>
+        <item>powiatzlotoryjski</item>
+        <item>powiatzlotowski</item>
+        <item>powiatzninski</item>
+        <item>powiatzyrardowski</item>
+        <item>powiatzywiecki</item>
+        <item>poznan</item>
+        <item>prfrawamaz</item>
+        <item>proszowice</item>
+        <item>prudnik</item>
+        <item>pruszczgdanski</item>
+        <item>pruszkow</item>
+        <item>przasnysz</item>
+        <item>przemysl</item>
+        <item>przeworsk</item>
+        <item>przysucha</item>
+        <item>pszczyna</item>
+        <item>puck</item>
+        <item>pulawy</item>
+        <item>pultusk</item>
+        <item>puszczykowo</item>
+        <item>pyskowice</item>
+        <item>rabkazdroj</item>
+        <item>raciaz</item>
+        <item>raciborz</item>
+        <item>radkowklodzki</item>
+        <item>radom</item>
+        <item>radomsko</item>
+        <item>radomyslwielki</item>
+        <item>radymno</item>
+        <item>radziejow</item>
+        <item>radzionkow</item>
+        <item>radzynpodlaski</item>
+        <item>rakoniewice</item>
+        <item>rawamazowiecka</item>
+        <item>rawicz</item>
+        <item>reda</item>
+        <item>rejowiecpowiatchelmski</item>
+        <item>rogowopowiatrypinski</item>
+        <item>rogowopowiatzninski</item>
+        <item>rogozno</item>
+        <item>ropczyce</item>
+        <item>rudaslaska</item>
+        <item>rudnikpowiatraciborski</item>
+        <item>rumia</item>
+        <item>rybnik</item>
+        <item>rychwal</item>
+        <item>rydultowy</item>
+        <item>rymanow</item>
+        <item>rypin</item>
+        <item>rzeszow</item>
+        <item>rzeszowprojekt</item>
+        <item>rzgowpowiatkoninski</item>
+        <item>sandomierz</item>
+        <item>sanok</item>
+        <item>sedziszowmalopolski</item>
+        <item>sejny</item>
+        <item>siedlce</item>
+        <item>siemianowiceslaskie</item>
+        <item>siemiatycze</item>
+        <item>sieradz</item>
+        <item>skarzyskokamienna</item>
+        <item>skawina</item>
+        <item>skierniewice</item>
+        <item>skoroszyce</item>
+        <item>slaskie</item>
+        <item>slawno</item>
+        <item>slomniki</item>
+        <item>slupca</item>
+        <item>slupsk</item>
+        <item>sochaczew</item>
+        <item>sokolowpodlaski</item>
+        <item>sopot</item>
+        <item>sosnowiec</item>
+        <item>spmajkowskarzysko</item>
+        <item>spteodory</item>
+        <item>srem</item>
+        <item>srodaslaska</item>
+        <item>srodawielkopolska</item>
+        <item>starachowice</item>
+        <item>stargard</item>
+        <item>starogardgdanski</item>
+        <item>starostwokrosnienskie</item>
+        <item>starysacz</item>
+        <item>staszow</item>
+        <item>stezycapowiatrycki</item>
+        <item>stowarzyszenieintegracja</item>
+        <item>stronieslaskie</item>
+        <item>strzyzow</item>
+        <item>sulejowek</item>
+        <item>sulkowice</item>
+        <item>sulmierzyce</item>
+        <item>swarzedz</item>
+        <item>swidnica</item>
+        <item>swidnicapowiatswidnicki</item>
+        <item>swidnicapowiatzielonogorski</item>
+        <item>swidnik</item>
+        <item>swidwin</item>
+        <item>swieradowzdroj</item>
+        <item>swietajnopowiatszczycienski</item>
+        <item>swietochlowice</item>
+        <item>swinoujscie</item>
+        <item>sycow</item>
+        <item>szamocin</item>
+        <item>szczawnica</item>
+        <item>szczecin</item>
+        <item>szczytno</item>
+        <item>szklarskaporeba</item>
+        <item>szprotawa</item>
+        <item>sztum</item>
+        <item>szubin</item>
+        <item>szydlowopowiatpilski</item>
+        <item>tarnobrzeg</item>
+        <item>tarnow</item>
+        <item>tarnowskiegory</item>
+        <item>terespol</item>
+        <item>tomaszowlubelski</item>
+        <item>tomaszowmazowiecki</item>
+        <item>tomaszowmazowieckiprojekt</item>
+        <item>torun</item>
+        <item>trzcianka</item>
+        <item>trzcinskozdroj</item>
+        <item>trzebnica</item>
+        <item>trzemeszno</item>
+        <item>tuliszkow</item>
+        <item>turawa</item>
+        <item>tuszyn</item>
+        <item>tychy</item>
+        <item>uggolcza</item>
+        <item>ujazd</item>
+        <item>ustka</item>
+        <item>ustron</item>
+        <item>ustrzykidolne</item>
+        <item>wadowice</item>
+        <item>wagrowiec</item>
+        <item>walcz</item>
+        <item>warminskomazurskie</item>
+        <item>warszawa</item>
+        <item>warszawabemowo</item>
+        <item>warszawabialoleka</item>
+        <item>warszawabielany</item>
+        <item>warszawamokotow</item>
+        <item>warszawapragapoludnie</item>
+        <item>warszawasrodmiescie</item>
+        <item>warszawatargowek</item>
+        <item>warszawaursus</item>
+        <item>warszawaursynow</item>
+        <item>warszawawawer</item>
+        <item>warszawawesola</item>
+        <item>warszawawlochy</item>
+        <item>warszawawola</item>
+        <item>warszawazoliborz</item>
+        <item>wasosz</item>
+        <item>wegrow</item>
+        <item>wejherowo</item>
+        <item>wiecbork</item>
+        <item>wieliczka</item>
+        <item>wielkopolskie</item>
+        <item>wielun</item>
+        <item>wierzbicapowiatchelmski</item>
+        <item>wierzbicapowiatradomski</item>
+        <item>wilkowpowiatnamyslowski</item>
+        <item>wisniowapowiatmyslenicki</item>
+        <item>wladyslawowo</item>
+        <item>wloclawek</item>
+        <item>wlodawa</item>
+        <item>wozniki</item>
+        <item>wroclaw</item>
+        <item>wrzesnia</item>
+        <item>wschowa</item>
+        <item>wysokiemazowieckie</item>
+        <item>wyszkow</item>
+        <item>zabki</item>
+        <item>zabkowiceslaskie</item>
+        <item>zabrze</item>
+        <item>zachodniopomorskie</item>
+        <item>zagan</item>
+        <item>zakliczyn</item>
+        <item>zakopane</item>
+        <item>zakrzewopowiataleksandrowski</item>
+        <item>zambrow</item>
+        <item>zamosc</item>
+        <item>zary</item>
+        <item>zawidow</item>
+        <item>zdunskawola</item>
+        <item>zduny</item>
+        <item>zdzwarszawa</item>
+        <item>zelechow</item>
+        <item>zespolszkolppckumarszew</item>
+        <item>zgierz</item>
+        <item>zgorzelec</item>
+        <item>zielonagora</item>
+        <item>zielonka</item>
+        <item>zkso1katowice</item>
+        <item>zlotoryja</item>
+        <item>zlotow</item>
+        <item>zory</item>
+        <item>zs2lubin</item>
+        <item>zsksieradz</item>
+        <item>zskzkwidzyn</item>
+        <item>zskzsochaczew</item>
+        <item>zspstarekozle</item>
+        <item>zstpowiatopoczynski</item>
+        <item>zwolen</item>
+        <item>zyrardow</item>
+    </string-array>
+</resources>

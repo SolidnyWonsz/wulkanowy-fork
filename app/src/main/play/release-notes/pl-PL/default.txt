@@ -1,0 +1,7 @@
+Wersja 2.7.0
+
+— naprawiliśmy ustawienia wyglądu po zmianie na język kaszubski
+— dodaliśmy ekran końca
+- naprawiliśmy ładowanie ocen z modułu Uczeń Plus
+
+Pełna lista zmian: https://github.com/wulkanowy/wulkanowy/releases

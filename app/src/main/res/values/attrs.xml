@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorDivider" format="color" />
+    <attr name="colorSwipeRefresh" format="color" />
+    <attr name="colorTimetableCanceled" format="color" />
+    <attr name="colorTimetableChange" format="color" />
+    <attr name="colorMessageMedium" format="color" />
+    <attr name="colorMessageHigh" format="color" />
+    <attr name="colorOnMessageHigh" format="color" />
+    <attr name="colorAttendanceAbsence" format="color" />
+    <attr name="colorAttendanceLateness" format="color" />
+</resources>

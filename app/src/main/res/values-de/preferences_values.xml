@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="sort_alphabetically">Alphabetisch</string>
+    <string name="sort_by_date">Nach Datum</string>
+    <string name="sort_by_average">Nach Durchschnitt</string>
+    <string name="sort_by_attendance_percentage">Nach Anwesenheitsprozent</string>
+    <string name="sort_by_subject_attendance_balance">Nach Subjekt Anwesenheitssaldo</string>
+    <string-array name="app_theme_entries" tools:ignore="InconsistentArrays">
+        <item>Licht</item>
+        <item>Dunkel</item>
+        <item>Schwarz (AMOLED)</item>
+    </string-array>
+    <string-array name="app_language_entries">
+        <item>System Sprache</item>
+        <item>Polski</item>
+        <item>English</item>
+        <item>Pусский</item>
+        <item>Українська</item>
+        <item>Deutsch</item>
+        <item>Čeština</item>
+        <item>Slovenčina</item>
+        <item>Kaszëbsczi</item>
+    </string-array>
+    <string-array name="services_interval_entries">
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>2 Stunden</item>
+        <item>6 Stunden</item>
+        <item>12 Stunden</item>
+        <item>24 Stunden</item>
+    </string-array>
+    <string-array name="grade_modifier_entries">
+        <item>0,0</item>
+        <item>0,25</item>
+        <item>0,33</item>
+        <item>0,5</item>
+        <item>0,75</item>
+    </string-array>
+    <string-array name="grade_color_scheme_entries">
+        <item>Dzienniczek+</item>
+        <item>Wulkanowy</item>
+        <item>Farben der Bewertungen im Logbuch</item>
+    </string-array>
+    <string-array name="default_expand_grade_entries">
+        <item>Bis zu 1 auf einmal</item>
+        <item>Immer erweitert</item>
+        <item>Unbegrenzte Erweiterungen</item>
+    </string-array>
+    <string-array name="grade_average_mode_entries">
+        <item>Durchschnitt der Noten aus beiden Semestern</item>
+        <item>Durchschnittswert der Durchschnittswerte beider Semester</item>
+        <item>Durchschnitt der Noten aus dem ganzen Jahr</item>
+    </string-array>
+    <string-array name="timetable_show_gaps_entries">
+        <item>Don\'t show</item>
+        <item>Only between lessons</item>
+        <item>Before and between lessons</item>
+    </string-array>
+    <string-array name="timetable_show_additional_lessons_entries">
+        <item>Nicht zeigen</item>
+        <item>Inline anzeigen</item>
+        <item>Unterhalb der regulären Lektionen anzeigen</item>
+    </string-array>
+    <string-array name="dashboard_tile_entries">
+        <item>Glückszahl</item>
+        <item>Ungelesene Nachrichten</item>
+        <item>Schulbesuch</item>
+        <item>Lektionen</item>
+        <item>Noten</item>
+        <item>Hausaufgaben</item>
+        <item>Schulankündigungen</item>
+        <item>Prüfungen</item>
+        <item>Sitzungen</item>
+    </string-array>
+</resources>

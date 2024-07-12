@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/timetableWidgetItemContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_widget_item_timetable"
+    android:backgroundTint="?attr/colorSurface"
+    android:gravity="center_vertical"
+    android:minHeight="48dp"
+    android:orientation="horizontal"
+    android:paddingHorizontal="12dp"
+    android:paddingVertical="8dp"
+    android:theme="@style/Wulkanowy.Widget.Theme"
+    tools:context=".ui.modules.timetablewidget.TimetableWidgetFactory">
+
+    <TextView
+        android:id="@+id/timetableWidgetItemNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        tools:text="1"
+        tools:textColor="?attr/colorTimetableChange" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/timetableWidgetItemTimeStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?attr/textAppearanceBodySmall"
+            tools:text="08:00" />
+
+        <TextView
+            android:id="@+id/timetableWidgetItemTimeFinish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:textAppearance="?attr/textAppearanceBodySmall"
+            tools:text="09:45" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/timetableWidgetItemSubject"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:lines="1"
+            android:textSize="14sp"
+            tools:text="Programowanie aplikacji mobilnych i desktopowych" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/timetableWidgetItemRoom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="6dp"
+                android:textAppearance="?attr/textAppearanceBodySmall"
+                tools:text="213"
+                tools:textColor="?attr/colorTimetableChange" />
+
+            <TextView
+                android:id="@+id/timetableWidgetItemTeacher"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:lines="1"
+                android:textAppearance="?attr/textAppearanceBodySmall"
+                tools:text="Dorota Nowak" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/timetableWidgetItemDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?attr/textAppearanceBodySmall"
+            tools:text="Lekcja odwołana: uczniowie zwolnieni do domu"
+            tools:visibility="gone" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/timetableWidgetItemIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:contentDescription="@string/timetable_changes"
+        android:tint="?attr/colorTimetableChange"
+        app:tint="?attr/colorTimetableChange"
+        tools:ignore="UseAppTint"
+        tools:src="@drawable/ic_timetable_widget_swap" />
+
+</LinearLayout>

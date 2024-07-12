@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Activity/Fragment title-->
+    <string name="login_title">Anmelden</string>
+    <string name="main_title">Wulkanowy</string>
+    <string name="grade_title">Noten</string>
+    <string name="attendance_title">Schulbesuch</string>
+    <string name="exam_title">Prüfungen</string>
+    <string name="timetable_title">Zeitplan</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="more_title">Mehr</string>
+    <string name="about_title">Über die Applikation</string>
+    <string name="logviewer_title">Log Viewer</string>
+    <string name="debug_title">Debuggen</string>
+    <string name="notification_debug_title">Benachrichtigungen debuggen</string>
+    <string name="debug_cookies_clear">Webview-Cookies löschen</string>
+    <string name="contributors_title">Mitarbeiter</string>
+    <string name="license_title">Lizenzen</string>
+    <string name="message_title">Nachrichten</string>
+    <string name="send_message_title">neue Nachricht</string>
+    <string name="add_homework_title">Neue Hausaufgaben</string>
+    <string name="note_title">Eintragen und Erfolgen</string>
+    <string name="homework_title">Hausaufgaben</string>
+    <string name="account_title">Konten-Manager</string>
+    <string name="account_quick_title">Konto auswählen</string>
+    <string name="account_details_title">Kontodetails</string>
+    <string name="student_info_title">Schülerinfo</string>
+    <string name="dashboard_title">Übersicht</string>
+    <string name="notifications_center_title">Benachrichtigungszentrum</string>
+    <string name="menu_order_title">Menü Konfiguration</string>
+    <!--Subtitles-->
+    <string name="grade_subtitle">Semester %1$d, %2$d/%3$d</string>
+    <!--Login-->
+    <string name="login_header_default">Melden Sie sich mit dem Studenten- oder Elternkonto an</string>
+    <string name="login_header_symbol">Geben Sie das Symbol von der Registerseite ein: &lt;b&gt;%1$s&lt;/b&gt;</string>
+    <string name="login_nickname_hint">Benutzername</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_login_pesel_email_hint">Anmeldung, PESEL oder e-mail</string>
+    <string name="login_password_hint">Passwort</string>
+    <string name="login_host_hint">UONET+ Registervariante</string>
+    <string name="login_domain_suffix_hint">Benutzerdefinierte Domeisensuffixe</string>
+    <string name="login_type_api">Mobile API</string>
+    <string name="login_type_scrapper">Scraper</string>
+    <string name="login_type_hybrid">Hybride</string>
+    <string name="login_token_hint">Token</string>
+    <string name="login_pin_hint">PIN</string>
+    <string name="login_symbol_hint">Symbol</string>
+    <string name="login_symbol_placeholder">Zum Beispiel \"lodz\" oder \"powiatjaroslawski\"</string>
+    <string name="login_sign_in">Anmelden</string>
+    <string name="login_invalid_password">Passwort ist zu kurz</string>
+    <string name="login_incorrect_password_default">Anmeldedaten sind falsch</string>
+    <string name="login_incorrect_password">%1$s. Stellen Sie sicher, dass die korrekte UONET+ Registervariation unten ausgewählt ist</string>
+    <string name="login_invalid_pin">Ungültige PIN</string>
+    <string name="login_invalid_token">Ungültige token</string>
+    <string name="login_expired_token">Token ist nicht mehr gültig</string>
+    <string name="login_invalid_email">Ungültige email</string>
+    <string name="login_invalid_login">Den zugewiesenen Login anstelle von email verwenden</string>
+    <string name="login_invalid_custom_email">Benutze den zugewiesenen Login oder E-Mail in @%1$s</string>
+    <string name="login_invalid_domain_suffix">Ungültiges Domain-Suffix</string>
+    <string name="login_invalid_symbol">Ungültiges Symbol. Wenn Sie es nicht finden können, wenden Sie sich bitte an die Schule</string>
+    <string name="login_invalid_symbol_definitely">Denken Sie sich das nicht aus! Wenn Sie es nicht finden können, wenden Sie sich bitte an die Schule</string>
+    <string name="login_incorrect_symbol">Schüler nicht gefunden. Überprüfen Sie das Symbol und die gewählte Variation des UONET+ Registers</string>
+    <string name="login_duplicate_student">Ausgewählter Student ist bereits angemeldet.</string>
+    <string name="login_symbol_helper">Das Symbol kann auf der Registerseite in&#160;<b>Student </b>→&#160;<b>Tost Möbeln</b> →&#160;<b>Registrieren Sie Ihr Mobilgerät</b>gefunden werden.\n\nStellen Sie sicher, dass Sie die entsprechende Registervariante im Feld <b>UONET+ Registervariante</b> auf dem vorherigen Bildschirm festgelegt haben</string>
+    <string name="login_select_student">Wählen Sie die Studenten aus, die sich bei der Anwendung anmelden sollen</string>
+    <string name="login_advanced">Andere Optionen</string>
+    <string name="login_advanced_warning_mobile_api">In diesem Modus funktioniert eine Glücknummer, eine Klassenstatistik, eine Zusammenfassung der Anwesenheit, eine Entschuldigung für die Abwesenheit, abgeschlossene Lektionen, Schulinformationen und eine Vorschau der Liste der registrierten Geräte nicht</string>
+    <string name="login_advanced_warning_scraper">In diesem Modus werden dieselben Daten angezeigt, die auf der Klassenbuch-Website angezeigt werden</string>
+    <string name="login_advanced_warning_hybrid">Die Kombination der besten Eigenschaften der beiden anderen Modus. Es arbeitet schneller als Scraper und bietet Funktionen, die im mobilen API-Modus nicht verfügbar sind. Es ist in der experimentellen Phase</string>
+    <string name="login_privacy_policy">Datenschutzerklärung</string>
+    <string name="login_contact_header">Probleme bei der Anmeldung? Kontaktieren Sie uns!</string>
+    <string name="login_contact_email">Email</string>
+    <string name="login_contact_discord">Discord</string>
+    <string name="login_email_intent_title">email senden</string>
+    <string name="login_recover_warning">Stellen Sie sicher, dass Sie die richtige UONET+ Registervariation wählen!</string>
+    <string name="login_recover_button">Passwort zurücksetzen</string>
+    <string name="login_recover_title">Ihr Konto wiederherstellen</string>
+    <string name="login_recover">Wiederherstellen</string>
+    <string name="login_signed_in">Student ist bereits angemeldet</string>
+    <string name="login_host_standard">Standard</string>
+    <string name="login_other_search_locations">Andere Suchorte</string>
+    <string name="login_no_active_student">Keine aktiven Schüler gefunden</string>
+    <string name="login_symbol_enter">Geben Sie ein anderes Symbol ein</string>
+    <string name="login_support_title">Hilfe anfragen</string>
+    <string name="login_support_school_hint">Vollschulname mit der Stadt (erforderlich)</string>
+    <string name="login_support_school_placeholder">Z. B. ZSTiO Jarosław oder SP nr 99 w Łodzi</string>
+    <string name="login_support_school_invalid">Geben Sie den richtigen Namen der Schule ein</string>
+    <string name="login_support_additional_hint">Zusätzliche Informationen auf Polnisch (fakultativ)</string>
+    <string name="login_support_additional_placeholder">Z. B. „Ich habe kürzlich die Schule gewechselt und...“ oder „Ich bin ein Elternteil und kann das Konto des anderen Kindes nicht sehen...“</string>
+    <string name="login_support_submit">Einreichen</string>
+    <!--Notifications-->
+    <string name="notifications_header_title">Benachrichtigungen aktivieren</string>
+    <string name="notifications_header_description">Aktivieren Sie Benachrichtigungen, damit Sie keine Nachricht vom Lehrer oder eine neue Klasse verpassen</string>
+    <string name="notifications_skip">Überspringen</string>
+    <string name="notifications_enable">Ermöglichen</string>
+    <!--Main-->
+    <string name="main_account_picker">Kundenbetreuer</string>
+    <string name="main_log_in">Anmelden</string>
+    <string name="main_session_expired">Die Sitzung ist abgelaufen</string>
+    <string name="main_session_relogin">Die Sitzung ist abgelaufen, bitte loggen Sie sich erneut ein</string>
+    <string name="main_expired_credentials_title">Das Passwort ist abgelaufen oder wurde geändert</string>
+    <string name="main_expired_credentials_description">Ihr Passwort ist abgelaufen oder wurde geändert. Sie müssen sich erneut bei Wulkanowy anmelden</string>
+    <string name="main_support_title">Anwendungsunterstützung</string>
+    <string name="main_support_description">Gefällt Ihnen diese App? Unterstützen Sie ihre Entwicklung, indem Sie nicht-invasive Werbung aktivieren, die Sie jederzeit deaktivieren können</string>
+    <string name="main_support_positive">Werbung aktivieren</string>
+    <!--Grade-->
+    <string name="grade_header">Note</string>
+    <string name="grade_semester">Semester %d</string>
+    <string name="grade_switch_semester">Semester wechseln</string>
+    <string name="grade_no_items">Keine Noten</string>
+    <string name="grade_weight">Gewichtung</string>
+    <string name="grade_weight_value">Gewichtung: %s</string>
+    <string name="grade_comment">Kommentar</string>
+    <string name="grade_number_new_items">Anzahl der neuen Bewertungen: %1$d</string>
+    <string name="grade_average">Durchschnitt: %1$.2f</string>
+    <string name="grade_average_year">Jährlich: %1$.2f</string>
+    <string name="grade_points_sum">Punkte: %s</string>
+    <string name="grade_no_average">Kein Durchschnitt</string>
+    <string name="grade_summary_average_semester">Semesterdurchschnitt</string>
+    <string name="grade_summary_average_year">Jahresdurchschnitt</string>
+    <string name="grade_summary_points">Gesamtpunkte</string>
+    <string name="grade_summary_final_grade">Finaler Note</string>
+    <string name="grade_summary_predicted_grade">Vorhergesagte Note</string>
+    <string name="grade_summary_descriptive">Deskriptive Note</string>
+    <string name="grade_summary_calculated_average">Berechneter Semesterdurchschnitt</string>
+    <string name="grade_summary_calculated_average_annual">Berechneter Jahresdurchschnitt</string>
+    <string name="grade_summary_calculated_average_help_dialog_title">Wie funktioniert der berechnete Durchschnitt?</string>
+    <string name="grade_summary_calculated_average_help_dialog_message">Der berechnete Mittelwert ist das arithmetische Mittel, das aus den Durchschnittswerten der Probanden errechnet wird. Es erlaubt Ihnen, den ungefähre endgültigen Durchschnitt zu kennen. Sie wird auf eine vom Anwender in den Anwendungseinstellungen gewählte Weise berechnet. Es wird empfohlen, die entsprechende Option zu wählen. Das liegt daran, dass die Berechnung der Schuldurchschnitte unterschiedlich ist. Wenn Ihre Schule den Durchschnitt der Fächer auf der Vulcan-Seite angibt, lädt die Anwendung diese Fächer herunter und berechnet nicht den Durchschnitt. Dies kann geändert werden, indem die Berechnung des Durchschnitts in den Anwendungseinstellungen erzwungen wird. \n\n<b>Durchschnitt der Noten nur aus dem ausgewählten Semester </b>:\n1. Berechnung des gewichteten Durchschnitts für jedes Fach in einem bestimmten Semester\n2. Addition der berechneten Durchschnittswerte\n3. Berechnung des arithmetischen Mittels der summierten Durchschnitte\n<b>Durchschnitt der Durchschnitte aus beiden Semestern</b>:\n1. Berechnung des gewichteten Durchschnitts für jedes Fach in Semester 1 und 2\n2. Berechnung des arithmetischen Mittels der berechneten Durchschnitte für Semester 1 und 2 für jedes Fach. \n3. Hinzufügen von berechneten Durchschnittswerten\n4. Berechnung des arithmetischen Mittels der summierten Durchschnitte\n<b>Durchschnitt der Noten aus dem ganzen Jahr:</b>\n1. Berechnung des gewichteten Jahresdurchschnitts für jedes Fach. Der Abschlussdurchschnitt im 1. Semester ist irrelevant. \n2. Addition der berechneten Durchschnittswerte\n3. Berechnung des arithmetischen Mittels der summierten Mittelwerte</string>
+    <string name="grade_summary_final_average_help_dialog_title">Wie funktioniert der endgültige Durchschnitt?</string>
+    <string name="grade_summary_final_average_help_dialog_message">Der Final Average ist das arithmetische Mittel, das aus allen derzeit verfügbaren Abschlussnoten des jeweiligen Semesters berechnet wird. \n\nDas Berechnungsschema besteht aus folgenden Schritten:\n1. Zusammenfassung der von den Lehrern gegebenen Abschlussnoten\n2. Division durch die Anzahl der Fächer, die bereits bewertet wurden</string>
+    <string name="grade_summary_final_average">Finaler Durchschnitt</string>
+    <string name="grade_summary_from_subjects">aus %1$d von %2$d Schulfächern</string>
+    <string name="grade_menu_summary">Zusammenfassung</string>
+    <string name="grade_menu_statistics">Klasse</string>
+    <string name="grade_menu_read">Als gelesen markieren</string>
+    <string name="grade_statistics_partial">Partiell</string>
+    <string name="grade_statistics_semester">Semester</string>
+    <string name="grade_statistics_points">Punkte</string>
+    <string name="grade_statistics_legend">Legende</string>
+    <string name="grade_statistics_class_average">Klassendurchschnitt: %1$s</string>
+    <string name="grade_statistics_student_average">Dein Durchschnitt: %1$s</string>
+    <string name="grade_statistics_student_grade">Deine Note: %1$s</string>
+    <string name="grade_statistics_average_class">Klasse</string>
+    <string name="grade_statistics_average_student">Schüler</string>
+    <plurals name="grade_number_item">
+        <item quantity="one">%d Note</item>
+        <item quantity="other">%d Noten</item>
+    </plurals>
+    <plurals name="grade_new_items">
+        <item quantity="one">Neue Note</item>
+        <item quantity="other">Neue Noten</item>
+    </plurals>
+    <plurals name="grade_new_items_predicted">
+        <item quantity="one">Neue vorhergesagte Note</item>
+        <item quantity="other">Neue vorhergesagte Noten</item>
+    </plurals>
+    <plurals name="grade_new_items_final">
+        <item quantity="one">Neue Abschlussnote</item>
+        <item quantity="other">Neue Abschlussnoten</item>
+    </plurals>
+    <plurals name="grade_new_items_descriptive">
+        <item quantity="one">Neuer Deskriptive Grade</item>
+        <item quantity="other">Neuer Deskriptive Grades</item>
+    </plurals>
+    <plurals name="grade_notify_new_items">
+        <item quantity="one">Du hast %1$d Note bekommen</item>
+        <item quantity="other">Du hast %1$d Noten bekommen</item>
+    </plurals>
+    <plurals name="grade_notify_new_items_predicted">
+        <item quantity="one">Sie haben %1$d vorhergesagte Note bekommen</item>
+        <item quantity="other">Sie haben %1$d vorhergesagte Noten bekommen</item>
+    </plurals>
+    <plurals name="grade_notify_new_items_final">
+        <item quantity="one">Sie haben %1$d Abschlussnote bekommen</item>
+        <item quantity="other">Sie haben %1$d Abschlussnoten bekommen</item>
+    </plurals>
+    <plurals name="grade_notify_new_items_descriptive">
+        <item quantity="one">Sie haben %1$d deskriptive Grade erhalten</item>
+        <item quantity="other">Sie haben %1$d deskriptive Grades erhalten</item>
+    </plurals>
+    <!--Timetable-->
+    <string name="timetable_lesson">Lektion</string>
+    <string name="timetable_additional_lesson">Zusätzliche Lektion</string>
+    <string name="timetable_room">Klassenzimmer</string>
+    <string name="timetable_group">Gruppe</string>
+    <string name="timetable_time">Stunden</string>
+    <string name="timetable_changes">Änderungen</string>
+    <string name="timetable_no_items">Kein Unterricht an diesem Tag</string>
+    <string name="timetable_minutes">%s min</string>
+    <string name="timetable_seconds">%s sek</string>
+    <string name="timetable_time_left">noch %1$s</string>
+    <string name="timetable_time_until">in %1$s</string>
+    <string name="timetable_finished">Fertig</string>
+    <string name="timetable_now">Jetzt: %s</string>
+    <string name="timetable_next">In einem Moment: %s</string>
+    <string name="timetable_later">Später: %s</string>
+    <string name="timetable_notify_lesson">%1$s Lektion %2$d - %3$s</string>
+    <string name="timetable_notify_change_room">Änderung des Raumes von %1$s zu %2$s</string>
+    <string name="timetable_notify_change_teacher">Wechsel des Lehrers von %1$s zu %2$s</string>
+    <string name="timetable_notify_change_subject">Thema von %1$s zu %2$s wechseln</string>
+    <plurals name="timetable_no_lesson">
+        <item quantity="one">Keine Lektion</item>
+        <item quantity="other">Keine Lektionen</item>
+    </plurals>
+    <plurals name="timetable_notify_new_items_title">
+        <item quantity="one">Änderung des Zeitplans</item>
+        <item quantity="other">Änderungen des Zeitplans</item>
+    </plurals>
+    <plurals name="timetable_notify_new_items">
+        <item quantity="one">%1$s – %2$d Änderung im Zeitplan</item>
+        <item quantity="other">%1$s - %2$d Änderungen im Zeitplan</item>
+    </plurals>
+    <plurals name="timetable_notify_new_items_group">
+        <item quantity="one">%1$d Änderung im Zeitplan</item>
+        <item quantity="other">%1$d Änderungen im Zeitplan</item>
+    </plurals>
+    <plurals name="timetable_number_item">
+        <item quantity="one">%d Änderung</item>
+        <item quantity="other">%d Änderungen</item>
+    </plurals>
+    <!--Completed lessons-->
+    <string name="completed_lessons_title">Beendete Lektionen</string>
+    <string name="completed_lessons_button">Beendete Lektionen anzeigen</string>
+    <string name="completed_lessons_no_items">Keine Informationen über beendete Lektionen</string>
+    <string name="completed_lessons_topic">Thema</string>
+    <string name="completed_lessons_absence">Abwesenheit</string>
+    <string name="completed_lessons_resources">Ressourcen</string>
+    <!--Additional lessons-->
+    <string name="additional_lessons_title">Zusätzliche Lektionen</string>
+    <string name="additional_lessons_button">Zusätzliche Lektionen anzeigen</string>
+    <string name="additional_lessons_no_items">Keine Informationen über zusätzlichen Lektionen</string>
+    <string name="additional_lessons_add">Neue Lektion</string>
+    <string name="additional_lessons_add_title">Neue zusätzliche Lektion</string>
+    <string name="additional_lessons_add_success">Zusätzliche Lektion erfolgreich hinzugefügt</string>
+    <string name="additional_lessons_delete_success">Zusätzliche Lektion erfolgreich gelöscht</string>
+    <string name="additional_lessons_repeat">Wöchentlich wiederholen</string>
+    <string name="additional_lessons_delete_title">Zusätzliche Lektion löschen</string>
+    <string name="additional_lessons_delete_one">Nur diese Lektion</string>
+    <string name="additional_lessons_delete_series">Alle in der Reihe</string>
+    <string name="additional_lessons_start">Startzeit</string>
+    <string name="additional_lessons_end">Endzeit</string>
+    <string name="additional_lessons_end_time_error">Endzeit muss grösser sein als Startzeit</string>
+    <!--Attendance-->
+    <string name="attendance_summary_button">Übersicht über die Schulbesuch</string>
+    <string name="attendance_calculator_button">Anwesenheitsrechner</string>
+    <string name="attendance_calculator_summary_balance_positive"><b>%1$d</b> Über Ziel</string>
+    <string name="attendance_calculator_summary_balance_neutral">direkt am ziel</string>
+    <string name="attendance_calculator_summary_balance_negative"><b>%1$d</b> Unter Ziel</string>
+    <string name="attendance_calculator_summary_values">%1$d/%2$d Präsenzen</string>
+    <string name="attendance_calculator_summary_values_empty">Keine Anwesenheit verzeichnet</string>
+    <string name="attendance_absence_school">Aus schulischen Gründen abwesend</string>
+    <string name="attendance_absence_excused">Entschuldigte Abwesenheit</string>
+    <string name="attendance_absence_unexcused">Unentschuldigtes Abwesenheit</string>
+    <string name="attendance_exemption">Befreiung</string>
+    <string name="attendance_excused_lateness">Entschuldigte Verspätung</string>
+    <string name="attendance_unexcused_lateness">Unentschuldigte Verspätung</string>
+    <string name="attendance_present">Anwesend</string>
+    <string name="attendance_deleted">Entfernt</string>
+    <string name="attendance_unknown">Unbekannt</string>
+    <string name="attendance_number">Lektion Nummer</string>
+    <string name="attendance_no_items">Keine Einträgen</string>
+    <string name="attendance_excuse_dialog_reason">Abwesenheitsgrund (optional)</string>
+    <string name="attendance_excuse_dialog_submit">Senden</string>
+    <string name="attendance_excuse_success">Abwesenheitsentschuldigungsanfrage erfolgreich gesendet!</string>
+    <string name="attendance_excuse_no_selection">Sie müssen mindestens eine Abwesenheit auswählen!</string>
+    <string name="attendance_excuse_title">Verzeihung</string>
+    <plurals name="attendance_notify_new_items_title">
+        <item quantity="one">Neue Teilnehmerzahl</item>
+        <item quantity="other">Neue Teilnehmerzahl</item>
+    </plurals>
+    <plurals name="attendance_notify_new_items">
+        <item quantity="one">%1$d neue Teilnahme</item>
+        <item quantity="other">%1$d Teilnahme</item>
+    </plurals>
+    <plurals name="attendance_number_item">
+        <item quantity="one">%d Teilnahme</item>
+        <item quantity="other">%d Teilnahme</item>
+    </plurals>
+    <!--Attendance summary-->
+    <string name="attendance_summary_total">Gesamt</string>
+    <!--Exam-->
+    <string name="exam_no_items">Diese Woche keine Prüfungen</string>
+    <string name="exam_type">Form</string>
+    <string name="exam_entry_date">Eintrittsdatum</string>
+    <plurals name="exam_notify_new_item_title">
+        <item quantity="one">Neue prüfung</item>
+        <item quantity="other">Neue prüfungen</item>
+    </plurals>
+    <plurals name="exam_notify_new_item_content">
+        <item quantity="one">%d neue Prüfung</item>
+        <item quantity="other">%d neue Prüfungen</item>
+    </plurals>
+    <plurals name="exam_number_item">
+        <item quantity="one">%d prüfung</item>
+        <item quantity="other">%d prüfungen</item>
+    </plurals>
+    <!--Message-->
+    <string name="message_inbox">Posteingang</string>
+    <string name="message_sent">Gesendet</string>
+    <string name="message_trash">Korb</string>
+    <string name="message_no_subject">(kein Thema)</string>
+    <string name="message_no_items">Keine Nachrichten</string>
+    <string name="message_from">Von:</string>
+    <string name="message_to">An:</string>
+    <string name="message_date">Datum: %1$s</string>
+    <string name="message_reply">Antwort</string>
+    <string name="message_forward">Weiterleiten</string>
+    <string name="message_select_all">Alle auswählen</string>
+    <string name="message_unselect_all">Alle abwählen</string>
+    <string name="message_restore_from_trash">Wiederherstellen aus dem Papierkorb</string>
+    <string name="message_move_to_trash">In Papierkorb verschieben</string>
+    <string name="message_delete_forever">Dauerhaft löschen</string>
+    <string name="message_restore_success">Nachricht erfolgreich wiederhergestellt</string>
+    <string name="message_delete_success">Nachricht erfolgreich gelöscht</string>
+    <string name="message_mailbox_type_student">schüler</string>
+    <string name="message_mailbox_type_parent">Eltern</string>
+    <string name="message_mailbox_type_guardian">Betreuer</string>
+    <string name="message_mailbox_type_employee">Mitarbeiter</string>
+    <string name="message_share">Teilen</string>
+    <string name="message_print">Drucken</string>
+    <string name="message_subject">Thema</string>
+    <string name="message_content">Inhalt</string>
+    <string name="message_send_successful">Nachricht erfolgreich gesendet</string>
+    <string name="message_not_exists">Nachricht nicht vorhanden</string>
+    <string name="message_required_recipients">Sie müssen mindestens 1 Empfänger auswählen.</string>
+    <string name="message_content_min_length">Der Inhalt der Nachricht muss mindestens 3 Zeichen lang sein.</string>
+    <string name="message_chip_all_mailboxes">Alle postfächer</string>
+    <string name="message_chip_only_unread">Nur ungelesen</string>
+    <string name="message_chip_only_with_attachments">Nur mit Anhängen</string>
+    <string name="message_read">Lesen: %s</string>
+    <string name="message_read_by">Lesen von: %1$d von %2$d Personen</string>
+    <plurals name="message_number_item">
+        <item quantity="one">%1$d Nachricht</item>
+        <item quantity="other">%1$d Nachrichten</item>
+    </plurals>
+    <plurals name="message_new_items">
+        <item quantity="one">Neu nachricht</item>
+        <item quantity="other">Neue nachrichten</item>
+    </plurals>
+    <string name="message_restore_dialog">Möchten Sie den Entwurf der Nachricht wiederherstellen?</string>
+    <string name="message_restore_dialog_with_recipients">Möchten Sie die Entwurfsnachricht mit den Empfängern wiederherstellen: %s?</string>
+    <plurals name="message_notify_new_items">
+        <item quantity="one">Du hast %1$d nachricht bekommen</item>
+        <item quantity="other">Du hast %1$d nachrichten bekommen</item>
+    </plurals>
+    <plurals name="message_selected_messages_count">
+        <item quantity="one">%1$d ausgewählt</item>
+        <item quantity="other">%1$d ausgewählt</item>
+    </plurals>
+    <string name="message_messages_deleted">Nachrichten gelöscht</string>
+    <string name="message_messages_restored">Wiederhergestellte Nachrichten</string>
+    <string name="message_mailbox_chooser_title">Postfach auswählen</string>
+    <string name="message_incognito_mode_on">Inkognito-Modus ist aktiviert</string>
+    <string name="message_incognito_description">Dank des Inkognito-Modus wird der Absender nicht benachrichtigt, wenn Sie die Nachricht lesen</string>
+    <!--Note-->
+    <string name="note_no_items">Keine Informationen über Eintragen</string>
+    <string name="note_points">Punkte</string>
+    <plurals name="note_number_item">
+        <item quantity="one">%d Eintrag</item>
+        <item quantity="other">%d Eintragen</item>
+    </plurals>
+    <plurals name="note_new_items">
+        <item quantity="one">Neu Eintrag</item>
+        <item quantity="other">Neue Eintragen</item>
+    </plurals>
+    <plurals name="note_notify_new_items">
+        <item quantity="one">Du hast %1$d Eintrag bekommen</item>
+        <item quantity="other">Du hast %1$d Eintragen bekommen</item>
+    </plurals>
+    <!--Praise-->
+    <plurals name="praise_number_item">
+        <item quantity="one">%d Lob</item>
+        <item quantity="other">%d Lob</item>
+    </plurals>
+    <plurals name="praise_new_items">
+        <item quantity="one">Neues Lob</item>
+        <item quantity="other">Neues Lob</item>
+    </plurals>
+    <plurals name="praise_notify_new_items">
+        <item quantity="one">Du hast %1$d Lob erhalten</item>
+        <item quantity="other">Du hast %1$d Lob erhalten</item>
+    </plurals>
+    <!--Neutral notes-->
+    <plurals name="neutral_note_number_item">
+        <item quantity="one">%d neutrale Notiz</item>
+        <item quantity="other">%d neutrale Notizen</item>
+    </plurals>
+    <plurals name="neutral_note_new_items">
+        <item quantity="one">Neue neutrale Notiz</item>
+        <item quantity="other">Neue neutrale Notizen</item>
+    </plurals>
+    <plurals name="neutral_note_notify_new_items">
+        <item quantity="one">Du hast %1$d neutrale Notiz erhalten</item>
+        <item quantity="other">Du hast %1$d neutrale Notizen erhalten</item>
+    </plurals>
+    <!--Homework-->
+    <string name="homework_no_items">Keine Informationen über Hausaufgaben</string>
+    <string name="homework_mark_as_done">Gemacht</string>
+    <string name="homework_mark_as_undone">Unvollständig</string>
+    <string name="homework_add">Hausaufgaben hinzufügen</string>
+    <string name="homework_add_success">Hausaufgaben erfolgreich hinzugefügt</string>
+    <string name="homework_delete_success">Heimarbeit erfolgreich gelöscht</string>
+    <string name="homework_attachments">Anhänge</string>
+    <plurals name="homework_notify_new_item_title">
+        <item quantity="one">Neue hausaufgaben</item>
+        <item quantity="other">Neue hausaufgaben</item>
+    </plurals>
+    <plurals name="homework_notify_new_item_content">
+        <item quantity="one">Du hast %d neue Hausaufgaben erhalten</item>
+        <item quantity="other">Du hast %d neue Hausaufgaben erhalten</item>
+    </plurals>
+    <plurals name="homework_number_item">
+        <item quantity="one">%d hausaufgaben</item>
+        <item quantity="other">%d hausaufgaben</item>
+    </plurals>
+    <!--Lucky number-->
+    <string name="lucky_number_title">Glückliche Nummer</string>
+    <string name="lucky_number_header">Die heutige Glücksnummer ist </string>
+    <string name="lucky_number_empty">Keine Information über die Glücksnummer.</string>
+    <string name="lucky_number_notify_new_item_title">Glücksnummer für heute</string>
+    <string name="lucky_number_notify_new_item">Heutige Glückszahl ist: %s</string>
+    <string name="lucky_number_history_button">Verlauf anzeigen</string>
+    <!--Lucky number history-->
+    <string name="lucky_number_history_title">Glücksnummerverlauf</string>
+    <string name="lucky_number_history_empty">Keine Information über die Glücksnummer</string>
+    <!--Mobile devices-->
+    <string name="mobile_devices_title">Mobile Geräte</string>
+    <string name="mobile_devices_no_items">Keine Geräte</string>
+    <string name="mobile_devices_unregister">Abmelden</string>
+    <string name="mobile_device_removed">Gerät entfernt</string>
+    <string name="mobile_device_qr">QR Code</string>
+    <string name="mobile_device_token">Token</string>
+    <string name="mobile_device_symbol">Symbol</string>
+    <string name="mobile_device_pin">PIN</string>
+    <!--School and teachers-->
+    <string name="schoolandteachers_title">Schule und Lehrer</string>
+    <!--School-->
+    <string name="school_title">Schule</string>
+    <string name="school_no_info">Keine Informationen über die Schule</string>
+    <string name="school_name">Name der Schule</string>
+    <string name="school_address">Adresse der Schule</string>
+    <string name="school_telephone">Telefon</string>
+    <string name="school_headmaster">Name des Schulleiters</string>
+    <string name="school_pedagogue">Name des Pädagogen</string>
+    <string name="school_address_button">Auf Karte anzeigen</string>
+    <string name="school_telephone_button">Rufen Sie an</string>
+    <!--Teacher-->
+    <string name="teachers_title">Lehrerinnen und Lehrer</string>
+    <string name="teacher_no_items">Keine Informationen über Lehrer</string>
+    <string name="teacher_no_subject">Kein Thema</string>
+    <!--Conference-->
+    <string name="conferences_title">Sitzungen</string>
+    <string name="conference_no_items">Keine Informationen über Sitzungen</string>
+    <plurals name="conference_number_item">
+        <item quantity="one">%d konferenz</item>
+        <item quantity="other">%d konferenzen</item>
+    </plurals>
+    <plurals name="conference_notify_new_item_title">
+        <item quantity="one">Neue konferenz</item>
+        <item quantity="other">Neue konferenzen</item>
+    </plurals>
+    <plurals name="conference_notify_new_items">
+        <item quantity="one">Sie haben %1$d neue konferenz</item>
+        <item quantity="other">Sie haben %1$d neue konferenzen</item>
+    </plurals>
+    <string name="conferences_present">Teilnahme an einem Meeting</string>
+    <string name="conference_agenda">Agenda</string>
+    <string name="conference_place">Ort</string>
+    <string name="conference_topic">Thema</string>
+    <!--Director information-->
+    <string name="school_announcement_title">Schulankündigungen</string>
+    <string name="school_announcement_no_items">Keine schulankündigungen</string>
+    <plurals name="school_announcement_number_item">
+        <item quantity="one">%d schulankündigung</item>
+        <item quantity="other">%d schulankündigungen</item>
+    </plurals>
+    <plurals name="school_announcement_notify_new_item_title">
+        <item quantity="one">Ankündigung der neuen schule</item>
+        <item quantity="other">Neue schulankündigungen</item>
+    </plurals>
+    <plurals name="school_announcement_notify_new_items">
+        <item quantity="one">Sie haben %1$d neue schulmitteilungen</item>
+        <item quantity="other">Sie haben %1$d neue schulankündigungen</item>
+    </plurals>
+    <!--Account-->
+    <string name="account_add_new">Konto hinzufügen</string>
+    <string name="account_logout">Abmelden</string>
+    <string name="account_confirm">Wollen Sie diesen Schüler abmelden?</string>
+    <string name="account_logout_student">Abmeldung von Student</string>
+    <string name="account_type_student">Studentenkonto</string>
+    <string name="account_type_parent">Elternkonto</string>
+    <string name="account_details_edit">Daten bearbeiten</string>
+    <string name="account_quick_manager">Konten-Manager</string>
+    <string name="account_select_student">Schüler auswählen</string>
+    <string name="account_family">Familie</string>
+    <string name="account_contact">Kontakt</string>
+    <string name="account_address">Wohnungsdetails</string>
+    <string name="account_personal_data">Persönliche Information</string>
+    <!--About-->
+    <string name="about_version">Version der App</string>
+    <string name="about_contributor">Mitarbeiter</string>
+    <string name="about_contributor_summary">Liste der Wulkanowy-Entwickler</string>
+    <string name="about_feedback">Melden Sie einen Fehler</string>
+    <string name="about_feedback_summary">Senden Sie einen Fehlerbericht per E-Mail</string>
+    <string name="about_faq">FAQ</string>
+    <string name="about_faq_summary">Lesen Sie Häufig gestellte Fragen</string>
+    <string name="about_discord">Discord server</string>
+    <string name="about_discord_summary">Treten Sie der Wulkanowy-Gemeinschaft bei</string>
+    <string name="about_facebook">Facebook fanpage</string>
+    <string name="about_twitter">Twitter-Seite</string>
+    <string name="about_twitter_summary">Folgen Sie uns bei Twitter</string>
+    <string name="about_facebook_summary">Gefällt unsere Facebook-Fanpage</string>
+    <string name="about_privacy">Datenschutzerklärung</string>
+    <string name="about_privacy_summary">Regeln für die Sammlung persönlicher Daten</string>
+    <string name="about_system">Systemeinstellungen</string>
+    <string name="about_system_summary">Systemeinstellungen öffnen</string>
+    <string name="about_homepage">Startseite</string>
+    <string name="about_homepage_summary">Besuchen Sie die Website und helfen Sie bei der Entwicklung der Anwendung</string>
+    <string name="about_licenses">Lizenzen</string>
+    <string name="about_licenses_summary">Lizenzen der in der Anwendung verwendeten Bibliotheken</string>
+    <!--Licenses-->
+    <string name="license_dialog_title">Lizenz</string>
+    <!--Contributor-->
+    <string name="contributor_avatar_description">Benutzerbild</string>
+    <string name="contributor_see_more">Sehen Sie mehr auf GitHub</string>
+    <!--Student info-->
+    <string name="student_info_empty">Keine Informationen über Schüler- oder Studentenfamilie</string>
+    <string name="student_info_first_name">Name</string>
+    <string name="student_info_second_name">Zweite Name</string>
+    <string name="student_info_gender">Geschlecht</string>
+    <string name="student_info_polish_citizenship">Polnische Staatsbürgerschaft</string>
+    <string name="student_info_family_name">Familienname</string>
+    <string name="student_info_parents_name">Namen von Mutter und Vater</string>
+    <string name="student_info_phone">Telefonnummer</string>
+    <string name="student_info_cellphone">Mobiltelefonnummer</string>
+    <string name="student_info_email">E-Mail</string>
+    <string name="student_info_address">Wohnadresse</string>
+    <string name="student_info_registered_address">Adresse der Registrierung</string>
+    <string name="student_info_correspondence_address">Korrespondenzadresse</string>
+    <string name="student_info_full_name">Nachname und Vorname</string>
+    <string name="student_info_kinship">Verwandtschaftsgrad</string>
+    <string name="student_info_guardian_address">Adresse</string>
+    <string name="student_info_phones">Telefonnummern</string>
+    <string name="student_info_male">Mann</string>
+    <string name="student_info_female">Frau</string>
+    <string name="student_info_last_name">Nachname</string>
+    <string name="student_info_guardian">Wächter</string>
+    <!--Account edit-->
+    <string name="account_edit_nick_hint">Nick</string>
+    <string name="account_edit_header">Nick hinzufügen</string>
+    <string name="account_edit_avatar_title">Avatar-Farbe wählen</string>
+    <!--Log viewer-->
+    <string name="logviewer_share">Logs teilen</string>
+    <string name="logviewer_refresh">Aktualisieren</string>
+    <!--Dashboard-->
+    <string name="dashboard_timetable_title">Lektionen</string>
+    <string name="dashboard_timetable_title_tomorrow">(Morgen)</string>
+    <string name="dashboard_timetable_title_today_and_tomorrow">(Heute und morgen)</string>
+    <string name="dashboard_timetable_first_lesson_title_moment">Gleich:</string>
+    <string name="dashboard_timetable_first_lesson_title_soon">Bald:</string>
+    <string name="dashboard_timetable_first_lesson_title_first">Erstens:</string>
+    <string name="dashboard_timetable_first_lesson_title_now">Jetzt:</string>
+    <string name="dashboard_timetable_second_lesson_value_end">Ende der Lektion</string>
+    <string name="dashboard_timetable_second_lessons_title">Nächste:</string>
+    <string name="dashboard_timetable_third_title">Später:</string>
+    <plurals name="dashboard_timetable_third_value">
+        <item quantity="one">Noch %1$d Lektion</item>
+        <item quantity="other">Noch %1$d Lektionen</item>
+    </plurals>
+    <string name="dashboard_timetable_third_time">bis %1$s</string>
+    <string name="dashboard_timetable_no_lessons">Keine anstehenden Lektionen</string>
+    <string name="dashboard_timetable_error">Fehler beim Laden des Lektionen</string>
+    <string name="dashboard_homework_title">Hausaufgaben</string>
+    <string name="dashboard_homework_no_homework">Keine Hausaufgaben zu tun</string>
+    <string name="dashboard_homework_error">Fehler beim Laden der Hausaufgaben</string>
+    <plurals name="dashboard_homework_more">
+        <item quantity="one">Noch %1$d Hausaufgabe</item>
+        <item quantity="other">Noch %1$d Hausaufgaben</item>
+    </plurals>
+    <string name="dashboard_homework_time">bis %1$s</string>
+    <string name="dashboard_grade_title">Letzte Noten</string>
+    <string name="dashboard_grade_no_grade">Keine neuen Noten</string>
+    <string name="dashboard_grade_error">Ein Fehler ist beim Laden der Noten</string>
+    <string name="dashboard_announcements_title">Schulankündigungen</string>
+    <string name="dashboard_announcements_no_announcements">Keine aktuellen Ankündigungen</string>
+    <string name="dashboard_announcements_error">Fehler beim Laden der Ankündigungen</string>
+    <plurals name="dashboard_announcements_more">
+        <item quantity="one">Noch %1$d Schulankündigung</item>
+        <item quantity="other">Noch %1$d Schulankündigungen</item>
+    </plurals>
+    <string name="dashboard_exams_title">Prüfungen</string>
+    <string name="dashboard_exams_no_exams">Keine bevorstehenden Prüfungen</string>
+    <string name="dashboard_exams_error">Fehler beim Laden der Prüfungen</string>
+    <plurals name="dashboard_exams_more">
+        <item quantity="one">Noch %1$d Prüfung</item>
+        <item quantity="other">Noch %1$d Prüfungen</item>
+    </plurals>
+    <string name="dashboard_conferences_title">Sitzungen</string>
+    <string name="dashboard_conferences_no_conferences">Keine bevorstehenden Ankündigungen</string>
+    <string name="dashboard_conferences_error">Beim Laden der Konferenzen trat ein Fehler auf</string>
+    <plurals name="dashboard_conference_more">
+        <item quantity="one">%1$d weitere Konferenz</item>
+        <item quantity="other">%1$d weitere Konferenzen</item>
+    </plurals>
+    <string name="dashboard_horizontal_group_error">Fehler beim Laden der Daten</string>
+    <string name="dashboard_horizontal_group_no_data">Keine</string>
+    <!--Error dialog-->
+    <string name="dialog_error_check_update">Auf Updates prüfen</string>
+    <string name="dialog_error_check_update_message">Bevor Sie einen Fehler melden, prüfen Sie zuerst, ob ein Update mit der Fehlerbehebung verfügbar ist</string>
+    <!--Generic-->
+    <string name="all_content">Inhalt</string>
+    <string name="all_retry">Wiederhol</string>
+    <string name="all_description">Beschreibung</string>
+    <string name="all_no_description">Keine Beschreibung</string>
+    <string name="all_teacher">Lehrer</string>
+    <string name="all_date">Datum</string>
+    <string name="all_entry_date">Eintrittsdatum</string>
+    <string name="all_color">Farbe</string>
+    <string name="all_details">Einzelheiten</string>
+    <string name="all_category">Kategorie</string>
+    <string name="all_close">Schließ</string>
+    <string name="all_no_data">Keine Daten</string>
+    <string name="all_subject">Schulfach</string>
+    <string name="all_prev">Zurück</string>
+    <string name="all_next">Nächste</string>
+    <string name="all_search">Suchen</string>
+    <string name="all_search_hint">Suchen…</string>
+    <string name="all_yes">Ja</string>
+    <string name="all_no">Nein</string>
+    <string name="all_save">Speichern</string>
+    <string name="all_title">Titel</string>
+    <string name="all_add">Hinzufügen</string>
+    <string name="all_copied">Kopiert</string>
+    <string name="all_undo">lösen</string>
+    <string name="all_change">Ändern</string>
+    <string name="all_add_to_calendar">Zum Kalender hinzufügen</string>
+    <string name="all_cancel">Stornieren</string>
+    <!--Timetable Widget-->
+    <string name="widget_timetable_no_items">Keine Lektionen</string>
+    <string name="widget_timetable_last_synchronization">Synchronisiert am %1$s am %2$s</string>
+    <string name="widget_timetable_theme_title">Thema wählen</string>
+    <string name="widget_timetable_theme_light">Licht</string>
+    <string name="widget_timetable_theme_dark">Dunkel</string>
+    <string name="widget_timetable_theme_system">Systemthema</string>
+    <!--Preferences-->
+    <string name="pref_view_header">App</string>
+    <string name="pref_view_list">Standard Ansicht</string>
+    <string name="pref_view_grade_average_mode">Berechnete Durchschnittsoptionen</string>
+    <string name="pref_view_grade_average_force_calc">Mittelwertberechnung durch App erzwingen</string>
+    <string name="pref_view_present">Anwesendheit zeigen</string>
+    <string name="pref_attendance_target">Anwesenheitsziel</string>
+    <string name="pref_attendance_calculator_show_empty_subjects">Lektion ohne Anwesenheit anzeigen</string>
+    <string name="pref_view_attendance_calculator_sorting_mode">Anwesenheitsrechner Sortierung</string>
+    <string name="pref_view_app_theme">Thema</string>
+    <string name="pref_view_expand_grade">Steigende Sorten</string>
+    <string name="pref_view_timetable_show_groups">Gruppen neben Schulfächen anzeigen</string>
+    <string name="pref_view_timetable_show_additional_lessons">Zusätzliche Lektionen anzeigen</string>
+    <string name="pref_view_timetable_show_gaps">Leere Kacheln anzeigen, wenn es keinen Lektionen gibt</string>
+    <string name="pref_view_grade_statistics_list">Liste der Diagramme in Klassenbewertungen anzeigen</string>
+    <string name="pref_view_subjects_without_grades">Schulfächer ohne Noten anzeigen</string>
+    <string name="pref_view_grade_color_scheme">Farbschema der Noten</string>
+    <string name="pref_view_grade_sorting_mode">Schulfachen sortieren</string>
+    <string name="pref_view_app_language">Sprache</string>
+    <string name="pref_view_menu_order_title">Menü Konfiguration</string>
+    <string name="pref_view_menu_order_summary">Legen Sie die Reihenfolge der Funktionen im Menü fest</string>
+    <string name="pref_notify_header">Benachrichtigungen</string>
+    <string name="pref_notify_header_other">Sonstiges</string>
+    <string name="pref_notify_switch">Benachrichtigungen anzeigen</string>
+    <string name="pref_notify_upcoming_lessons_switch">Benachrichtigungen über bevorstehende Lektionen anzeigen</string>
+    <string name="pref_notify_upcoming_lessons_persistent_switch">Festlegen einer Benachrichtigung über die bevorstehende Lektion dauerhaft</string>
+    <string name="pref_notify_upcoming_lessons_persistent_summary">Deaktivieren wenn die Benachrichtigung nicht in deiner Uhr/Band angezeigt wird</string>
+    <string name="pref_notify_open_system_settings">Systembenachrichtigungseinstellungen öffnen</string>
+    <string name="pref_notify_fix_sync_issues">Synchronisierungs- und Benachrichtigungsprobleme reparieren</string>
+    <string name="pref_notify_fix_sync_issues_message">Ihr Gerät hat möglicherweise Probleme mit der Datensynchronisierung und Benachrichtigungen.\n\nUm diese zu reparieren, fügen Sie Wulkanowy zum Autostart hinzu und deaktivieren Sie die Batterieoptimierung in den Systemeinstellungen des Geräts.</string>
+    <string name="pref_notify_debug_switch">Debug-Benachrichtigungen anzeigen</string>
+    <string name="pref_notify_disabled_summary">Synchronisierung ist deaktiviert</string>
+    <string name="pref_notify_notifications_piggyback_header">Offizielle Benachrichtigungen</string>
+    <string name="pref_notify_notifications_piggyback">Offizielle App-Benachrichtigungen erfassen</string>
+    <string name="pref_notify_notifications_piggyback_cancel_original">Entfernen Sie offizielle App-Benachrichtigungen nach der Erfassung</string>
+    <string name="pref_notification_piggyback_popup_title">Benachrichtigungen erfassen</string>
+    <string name="pref_notification_piggyback_popup_description">Mit dieser Funktion können Sie einen Ersatz für Push-Benachrichtigungen erhalten, wie in der offiziellen App. Alles, was Sie tun müssen, ist es Wulkanowy erlauben, alle Benachrichtigungen in Ihren Systemeinstellungen zu erhalten.\n\nWie funktioniert es?\nWenn Sie eine Benachrichtigung in Dziennik VULCAN erhalten, Wulkanowy wird benachrichtigt (dafür sind diese zusätzlichen Berechtigungen) und wird eine Synchronisierung auslösen, so dass eine eigene Benachrichtigung gesendet werden kann.\n\nNUR FÜR FORTGESCHRITTENE BENUTZER</string>
+    <string name="pref_notification_exact_alarm_popup_title">Bevorstehende Unterrichtsbenachrichtigungen</string>
+    <string name="pref_notification_exact_alarm_popup_descriptions">Sie müssen der Wulkanowy-App erlauben, in Ihren Systemeinstellungen Alarme und Erinnerungen einzustellen, damit diese Funktion verwendet werden kann.</string>
+    <string name="pref_notification_go_to_settings">Gehe zu den Einstellungen</string>
+    <string name="pref_services_header">Synchronisierung</string>
+    <string name="pref_services_switch">Automatische Aktualisierung</string>
+    <string name="pref_services_suspended">An Feiertagen suspendiert</string>
+    <string name="pref_services_interval">Aktualisierungsintervall</string>
+    <string name="pref_services_wifi">Nur Wi-Fi</string>
+    <string name="pref_services_force_sync">Jetzt synchronisieren</string>
+    <string name="pref_services_message_sync_success">Synchronisiert!</string>
+    <string name="pref_services_message_sync_failed">Synchronisierung fehlgeschlagen</string>
+    <string name="pref_services_sync_in_progress">Synchronisierung läuft</string>
+    <string name="pref_services_last_full_sync_date">Letzte vollständige Synchronisierung: %s</string>
+    <string name="pref_other_grade_modifier_plus">Wert des Plus</string>
+    <string name="pref_other_grade_modifier_minus">Wert des Minus</string>
+    <string name="pref_other_fill_message_content">Antwort mit Nachrichtenhistorie</string>
+    <string name="pref_other_optional_arithmetic_average">Arithmetisches Mittel anzeigen, wenn keine Gewichte angegeben sind</string>
+    <string name="pref_other_incognito_mode">Inkognito-Modus</string>
+    <string name="pref_other_incognito_mode_summary">Nicht über das Lesen der Nachricht informieren</string>
+    <string name="pref_ads_support_category_name">Unterstützung</string>
+    <string name="pref_ads_privacy_policy">Datenschutz-Bestimmungen</string>
+    <string name="pref_ads_agreements">Vereinbarungen</string>
+    <string name="pref_ads_consent">Einwilligung zur Datenverarbeitung zeigen</string>
+    <string name="pref_ads_show_in_app">Anzeigen in der App anzeigen</string>
+    <string name="pref_ads_support">Einzelanzeige ansehen, um Projekt zu unterstützen</string>
+    <string name="pref_ads_privacy_title">Einwilligung in die Datenverarbeitung</string>
+    <string name="pref_ads_privacy_description">Um eine Anzeige zu sehen, müssen Sie mit den Datenverarbeitungsbedingungen unserer Datenschutzerklärung einverstanden sein</string>
+    <string name="pref_ads_privacy_agree">Einverstanden</string>
+    <string name="pref_ads_privacy_link">Datenschutzerklärung</string>
+    <string name="pref_ads_loading">Anzeige wird geladen</string>
+    <string name="pref_ads_once_per_visit">Vielen Dank für Ihre Unterstützung, kommen Sie später wieder für weitere Anzeigen</string>
+    <string name="pref_settings_advanced_title">Erweitert</string>
+    <string name="pref_settings_appearance_title">Aussehen &amp; Verhalten</string>
+    <string name="pref_settings_notifications_title">Benachrichtigungen</string>
+    <string name="pref_settings_sync_title">Synchronisierung</string>
+    <string name="pref_settings_ads_title">Werbung</string>
+    <string name="pref_grades_appearance_header">Noten</string>
+    <string name="pref_dashboard_appearance_header">Dashboard</string>
+    <string name="pref_dashboard_appearance_tiles_title">Sichtbarkeit der Kacheln</string>
+    <string name="pref_attendance_appearance_view">Schulbesuch</string>
+    <string name="pref_attendance_calculator_appearance_view">Anwesenheits-Rechner</string>
+    <string name="pref_attendance_calculator_appearance_settings_title">Einstellungen</string>
+    <string name="pref_timetable_appearance_view">Stundenplan</string>
+    <string name="pref_grades_advanced_header">Noten</string>
+    <string name="pref_counted_average_advanced_header">Berechneter Durchschnitt</string>
+    <string name="pref_messages_advanced_header">Nachrichten</string>
+    <string name="pref_appearance_category">Aussehen &amp; Verhalten</string>
+    <string name="pref_appearance_category_summary">Sprachen, Themen, Schulfachen sortieren</string>
+    <string name="pref_notifications_category_summary">App-Benachrichtigungen, Probleme beheben</string>
+    <string name="pref_notifications_category">Benachrichtigungen</string>
+    <string name="pref_sync_category">Synchronisierung</string>
+    <string name="pref_sync_category_summary">Automatisches Update, Synchronisierungsintervall</string>
+    <string name="pref_advanced_category_summary">Plus und Minus Werte, Durchschnittsberechnung</string>
+    <string name="pref_advanced_category">Erweitert</string>
+    <string name="pref_about_category_summary">App-Version, Mitwirkende, soziale Portale</string>
+    <string name="pref_ads_category_summary">Anzeigen, Projektunterstützung</string>
+    <!--Notification Channels-->
+    <string name="channel_new_grades">Neue Noten</string>
+    <string name="channel_new_homework">Neue Hausaufgaben</string>
+    <string name="channel_new_conference">Neue Konferenzen</string>
+    <string name="channel_new_exam">Neue Prüfungen</string>
+    <string name="channel_lucky_number">Glückliche Nummer</string>
+    <string name="channel_new_message">Neue Nachrichten</string>
+    <string name="channel_new_notes">Neue Eintragen</string>
+    <string name="channel_new_school_announcement">Neue Schulankündigungen</string>
+    <string name="channel_push">Push-Benachrichtigungen</string>
+    <string name="channel_upcoming_lessons">Bevorstehende Lektionen</string>
+    <string name="channel_debug">Debuggen</string>
+    <string name="channel_change_timetable">Änderung des Zeitplans</string>
+    <string name="channel_new_attendance">Neue Teilnehmerzahl</string>
+    <!--Colors-->
+    <string name="all_black">Schwarz</string>
+    <string name="all_red">Rot</string>
+    <string name="all_blue">Blau</string>
+    <string name="all_green">Grün</string>
+    <string name="all_purple">Violett</string>
+    <string name="all_empty_color">Keine Farbe</string>
+    <!--Update helper-->
+    <string name="update_download_started">Download der Updates wurde gestartet…</string>
+    <string name="update_download_success">Ein Update wurde gerade heruntergeladen.</string>
+    <string name="update_download_success_button">Neustart</string>
+    <string name="update_failed">Update fehlgeschlagen! Wulkanowy funktioniert möglicherweise nicht richtig. Überlegen Sie die Aktualisierung</string>
+    <!--Menu order-->
+    <string name="menu_order_confirm_title">Neustart der Anwendung</string>
+    <string name="menu_order_confirm_content">Die Anwendung muss neu gestartet werden, damit die Änderungen gespeichert werden</string>
+    <string name="menu_order_confirm_restart">Restart</string>
+    <!--Auth-->
+    <string name="auth_api_error">Die Autorisierung wurde abgelehnt. Die vorgelegten Daten stimmen nicht mit denen des Sekretariats überein.</string>
+    <string name="auth_invalid_error">Ungültig PESEL</string>
+    <string name="auth_pesel">PESEL</string>
+    <string name="auth_button">Autorisieren Sie</string>
+    <string name="auth_success">Autorisierung erfolgreich abgeschlossen</string>
+    <string name="auth_title">Autorisierung</string>
+    <string name="auth_description">Liebes Elternteil,&lt;br/&gt;&lt;br/&gt;Um die Sicherheit der Daten zu gewährleisten, bitten wir Sie, die PESEL-Nummer des Schülers/der Schülerin anzugeben&lt;b&gt;%1$s&lt;/b&gt;Diese Angaben sind für die ordnungsgemäße Zuweisung des Zugriffs und den Schutz der personenbezogenen Daten gemäß den geltenden Vorschriften unerlässlich.&lt;br/&gt;&lt;br/&gt;Nach der Eingabe der Daten werden diese überprüft, um sicherzustellen, dass nur berechtigte Personen Zugang zum VULCAN-System erhalten. Wenn Sie Zweifel oder Probleme haben, wenden Sie sich bitte an den Administrator des Schülerkalenders, um die Situation zu klären.&lt;br/&gt;&lt;br/&gt;Wir halten die höchsten Standards für den Schutz personenbezogener Daten ein und gewährleisten, dass alle bereitgestellten Informationen sicher sind. Die Wulkanowy-App speichert und verarbeitet die PESEL-Nummer nicht.&lt;br/&gt;&lt;br/&gt;Wir erinnern Sie daran, dass die Angabe vollständiger und korrekter Daten obligatorisch und notwendig für die Nutzung des VULCAN-Systems ist.</string>
+    <string name="auth_button_skip">Vorerst überspringen</string>
+    <!--Captcha-->
+    <string name="captcha_dialog_title">VULCAN\'s Website erfordert Überprüfung</string>
+    <string name="captcha_dialog_description"><b>Warum sehe ich das?</b>\nDie Website des Registers, von der Wulkanowy Daten herunterlädt, zeigt denselben Bildschirm wie oben an, so dass Wulkanowy ihn ebenfalls anzeigen muss, um Daten von dieser Website herunterladen zu können. Es gibt keinen Ausweg</string>
+    <string name="captcha_verified_message">Erfolgreich verifiziert</string>
+    <!--Panic mode-->
+    <string name="panic_mode_title">Notfallzugriff</string>
+    <!--Errors-->
+    <string name="error_no_internet">Keine Internetverbindung</string>
+    <string name="error_invalid_device_datetime">Es ist ein Fehler aufgetreten. Überprüfen Sie Ihre Geräteuhr</string>
+    <string name="error_account_inactive">Dieses Konto ist inaktiv. Versuchen Sie, sich erneut anzumelden</string>
+    <string name="error_timeout">Registrierungsverbindung fehlgeschlagen. Server können überlastet sein. Bitte versuchen Sie es später noch einmal</string>
+    <string name="error_login_failed">Das Laden der Daten ist fehlgeschlagen. Bitte versuchen Sie es später noch einmal</string>
+    <string name="error_password_invalid">Ihr Passwort ist abgelaufen oder wurde geändert. Bitte melden Sie sich erneut an</string>
+    <string name="error_password_change_required">Passwortänderung für Registrierung erforderlich</string>
+    <string name="error_service_unavailable">Wartung im Gange UONET + Klassenbuch. Versuchen Sie es später noch einmal</string>
+    <string name="error_unknown_uonet">Unbekannter UONET + Registerfehler. Versuchen Sie es später erneut</string>
+    <string name="error_unknown_app">Unbekannter Anwendungsfehler. Bitte versuchen Sie es später noch einmal</string>
+    <string name="error_cloudflare_captcha">Captcha-Verifizierung erforderlich</string>
+    <string name="error_unknown">Ein unerwarteter Fehler ist aufgetreten</string>
+    <string name="error_feature_disabled">Funktion, die von Ihrer Schule deaktiviert wurde</string>
+    <string name="error_feature_not_available">Feature in diesem Modus nicht verfügbar</string>
+    <string name="error_field_required">Dieses Feld ist erforderlich</string>
+    <!-- Mute system -->
+    <string name="message_mute">Stumm</string>
+    <string name="message_unmute">Stummschaltung aufheben</string>
+    <string name="message_mute_success">Sie haben diesen Benutzer stummgeschaltet</string>
+    <string name="message_unmute_success">Sie haben die Stummschaltung dieses Benutzers aufgehoben</string>
+    <!--End-->
+    <string name="end_title">Koniec Wulkanowego</string>
+    <string name="end_message">Jak zapewne niektórzy z Was się domyślali zbliża się ten moment, aby zakończyć pewien etap. Wraz z końcem tego roku szkolnego zamykamy projekt Wulkanowy. Stworzenie apki było ekscytującym wyzwaniem, ale skala projektu jest tak duża, że nie jesteśmy w stanie odpowiedzialnie utrzymywać aplikacji. Wulkanowy był fajną przygodą, ale sytuacja wymknęła się nam spod kontroli – zarówno pod względem technicznym, jak i społecznym. Nie akceptujemy pojawiającego się hejtu wobec nas ani wobec innych, także Vulcana. Nie chcemy brać udziału w tych działaniach i być z nimi utożsamiani. Prosimy Was o powściągliwość i rozwagę w publikowanych komentarzach i nieprzekraczanie dopuszczalnych granic.&lt;br /&gt;&lt;br /&gt;Prosimy Was też o uszanowanie naszej decyzji, jest ona przemyślana i ostateczna. Wszystkim dotychczasowym użytkownikom Wulkanowego rekomendujemy użycie oficjalnej aplikacji &lt;a href=\"https://play.google.com/store/apps/details?id=pl.edu.vulcan.hebe&amp;hl=pl\"&gt;Dzienniczek VULCAN&lt;/a&gt;. Jeszcze raz dziękujemy wszystkim użytkownikom za lata wsparcia, pomoc i miłe słowa!</string>
+</resources>
